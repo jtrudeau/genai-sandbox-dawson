@@ -1785,6 +1785,7 @@
 <li>Challenge: Instructor and TAs spend hours giving repetitive feedback on common mistakes, delaying deeper coaching.</li>
 <li>Prototype Goal: Pilot a Claude/ChatGPT workflow that generates preliminary code feedback, letting students iterate independently before instructor review.</li>
 <li>Audience: Single instructor and one TA overseeing weekly labs; departmental interest in scaling if workflow proves effective.</li>
+<li>Potential Risks &amp; Ethical Considerations: AI could suggest incorrect fixes or leak solutions; mitigate with explicit "hint-only" prompts, instructor validation before release, and automated plagiarism checks.</li>
 </ul>
 <h2 id="2-map-the-sandbox-run">2. Map the Sandbox Run</h2>
 <ul>
@@ -1810,11 +1811,10 @@
 <li>Next Experiment Idea: Extend to peer review workshops or integrate auto-generated practice exercises for common errors.</li>
 </ul>
 <h2 id="6-safety-guardrails">6. Safety Guardrails</h2>
-<ul>
-<li>Integrity: AI feedback limited to hints/explanations; instructor validates critical fixes before release.</li>
-<li>Student data &amp; privacy: Anonymize submissions when storing prompts/responses; keep within course repository.</li>
-<li>Licensing: Confirm AI outputs meet institutional policy (no redistribution outside course).</li>
-</ul>
+<p>Framed by the Ministry principles of <strong>Humanism</strong>, <strong>Responsibility</strong>, and <strong>Transparency</strong>:
+- [ ] <strong>Transparency &amp; Traceability</strong>: Store prompt/response pairs with revision logs so students can explain accepted AI feedback.
+- [ ] <strong>Responsibility &amp; Data Privacy</strong>: Anonymize submissions, keep assets inside the course repo, and run integrity checks before reusing samples (Loi 25 compliant).
+- [ ] <strong>Equity &amp; Integrity</strong>: Constrain AI to hints, validate critical fixes manually, and document any overrides to prevent hidden solution leakage.</p>
 <h2 id="additional-notes">Additional Notes</h2>
 <ul>
 <li>Special requirement: Department wants emerging code-review tools; this low-stakes run informs future adoption decisions.</li>
