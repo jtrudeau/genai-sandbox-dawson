@@ -1,0 +1,1564 @@
+1:"$Sreact.fragment"
+3:I[39756,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"default"]
+4:I[37457,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"default"]
+6:I[97367,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"OutletBoundary"]
+8:I[11533,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"AsyncMetadataOutlet"]
+a:I[97367,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"ViewportBoundary"]
+c:I[97367,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[68027,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"default"]
+:HL["/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","style"]
+:HL["/genai-sandbox-dawson/_next/static/chunks/b534da58e8a5e980.css","style"]
+0:{"P":null,"b":"PfVULYYEQPNk1Xkl4o0E2","p":"/genai-sandbox-dawson","c":["","facilitator","facilitator-guide-extended",""],"i":false,"f":[[["",{"children":[["mdxPath","facilitator/facilitator-guide-extended","oc"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/b534da58e8a5e980.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["mdxPath","facilitator/facilitator-guide-extended","oc"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/b534da58e8a5e980.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+10:I[68386,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"ThemeConfigProvider"]
+11:I[6344,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"LastUpdated"]
+12:I[98091,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"Search"]
+13:I[63178,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"ThemeProvider"]
+14:I[91675,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"SkipNavLink"]
+15:I[37985,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"ConfigProvider"]
+2:["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1.0"}],["$","meta",null,{"property":"og:title","content":"Gen AI Sandbox Docs"}],["$","meta",null,{"property":"og:description","content":"Documentation for Gen AI Sandbox"}]],["$","style",null,{"children":":root {\n  --nextra-primary-hue: 212deg;\n  --nextra-primary-saturation: 100%;\n  --nextra-primary-lightness: 45%;\n  --nextra-bg: 250,250,250;\n  --nextra-content-width: 90rem;\n}\n.dark {\n  --nextra-primary-hue: 204deg;\n  --nextra-primary-saturation: 100%;\n  --nextra-primary-lightness: 55%;\n  --nextra-bg: 17,17,17;\n}\n::selection {\n  background: hsla(var(--nextra-primary-hue),var(--nextra-primary-saturation),var(--nextra-primary-lightness),.3);\n}\nhtml {\n  background: rgb(var(--nextra-bg));\n}"}],["$","meta",null,{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"rgb(250,250,250)"}],["$","meta",null,{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"rgb(17,17,17)"}],"$undefined"]}],["$","body",null,{"children":["$","$L10",null,{"value":{"copyPageButton":true,"darkMode":true,"docsRepositoryBase":"https://github.com/your-org/genai-sandbox-nextra/tree/main","editLink":"Edit this page","feedback":{"content":"Question? Give us feedback","labels":"feedback"},"i18n":[],"lastUpdated":["$","$L11",null,{}],"navigation":{"next":true,"prev":true},"search":["$","$L12",null,{}],"sidebar":{"defaultMenuCollapseLevel":2,"defaultOpen":true,"toggleButton":true},"themeSwitch":{"dark":"Dark","light":"Light","system":"System"},"toc":{"backToTop":"Scroll to top","float":true,"title":"On This Page"}},"children":["$","$L13",null,{"attribute":"class","defaultTheme":"system","disableTransitionOnChange":true,"storageKey":"theme","children":[["$","$L14",null,{}],"$undefined",["$","$L15",null,{"pageMap":[{"data":{"index":{"title":"🏠 Home"},"user":{"title":"👤 For Faculty"},"facilitator":{"title":"🎓 For Facilitators"},"workshop-in-a-box":{"title":"📦 Workshop-in-a-Box"},"about":{"title":"About"}}},{"name":"index","route":"/","frontMatter":{"title":"Experiment with AI in Teaching","filePath":"content/index.mdx","timestamp":1768238228000},"title":"🏠 Home"},{"name":"user","route":"/user","children":[{"data":{"index":{"title":"👋 Welcome"},"after-workshop":{"title":"🎓 After the Workshop"},"quickstart":{"title":"Quickstart"},"use-cases":{"title":"Use Cases"},"examples":{"title":"Examples"},"guides":{"title":"Templates & Guides"}}},{"name":"index","route":"/user","frontMatter":{"title":"For Faculty & Educators","filePath":"content/user/index.mdx","timestamp":1768238228000},"title":"👋 Welcome"},{"name":"after-workshop","route":"/user/after-workshop","frontMatter":{"title":"After the Workshop: Your Next Steps","filePath":"content/user/after-workshop.mdx","timestamp":1768238228000},"title":"🎓 After the Workshop"},{"name":"quickstart","route":"/user/quickstart","frontMatter":{"title":"GenAI Sandbox Quickstart","filePath":"content/user/quickstart.mdx","timestamp":1764865096000},"title":"Quickstart"},{"name":"use-cases","route":"/user/use-cases","frontMatter":{"title":"GenAI Sandbox – Faculty Use Case Menu","filePath":"content/user/use-cases.mdx","timestamp":1768238228000},"title":"Use Cases"},{"name":"examples","route":"/user/examples","children":[{"data":{"faculty":{"title":"Faculty Examples"},"shared":{"title":"Shared Examples"},"archive":{"title":"Archive"}}},{"name":"index","route":"/user/examples","frontMatter":{"title":"Examples","filePath":"content/user/examples/index.mdx","timestamp":1768238228000},"title":"Examples"},{"name":"faculty","route":"/user/examples/faculty","children":[{"data":{"index":{"title":"Overview"},"arduino-robotics":{"title":"Arduino Robotics Code Review"},"anthropology":{"title":"Anthropology Word-Weaving"},"industrial-design":{"title":"Industrial Design"},"physics-mcq":{"title":"Physics MCQ"},"observations":{"title":"Faculty Observations"}}},{"name":"index","route":"/user/examples/faculty","frontMatter":{"title":"Faculty Examples","filePath":"content/user/examples/faculty/index.mdx","timestamp":1768238228000},"title":"Overview"},{"name":"arduino-robotics","route":"/user/examples/faculty/arduino-robotics","children":[{"data":{"index":{"title":"Overview"},"quickstart":{"title":"Quickstart Guide"},"simulation":{"title":"Full Simulation"}}},{"name":"index","route":"/user/examples/faculty/arduino-robotics","frontMatter":{"title":"Arduino Robotics Code Review – AI-Assisted Lab Feedback","filePath":"content/user/examples/faculty/arduino-robotics/index.mdx","timestamp":1768238228000},"title":"Overview"},{"name":"quickstart","route":"/user/examples/faculty/arduino-robotics/quickstart","frontMatter":{"title":"Faculty Simulation – Physics Robotics Persona Quickstart","filePath":"content/user/examples/faculty/arduino-robotics/quickstart.mdx","timestamp":1768238228000},"title":"Quickstart Guide"},{"name":"simulation","route":"/user/examples/faculty/arduino-robotics/simulation","frontMatter":{"title":"GenAI Sandbox – Faculty Exploration Template (Arduino Robotics Code Review Simulation)","filePath":"content/user/examples/faculty/arduino-robotics/simulation.mdx","timestamp":1764865096000},"title":"Full Simulation"}],"title":"Arduino Robotics Code Review"},{"name":"anthropology","route":"/user/examples/faculty/anthropology","children":[{"data":{"index":{"title":"Overview"},"quickstart":{"title":"Quickstart Guide"},"simulation":{"title":"Full Simulation"}}},{"name":"index","route":"/user/examples/faculty/anthropology","frontMatter":{"title":"Anthropology Word-Weaving: AI as Reflective Partner","filePath":"content/user/examples/faculty/anthropology/index.mdx","timestamp":1768238228000},"title":"Overview"},{"name":"quickstart","route":"/user/examples/faculty/anthropology/quickstart","frontMatter":{"title":"Anthropology Word-Weaving: Quickstart","filePath":"content/user/examples/faculty/anthropology/quickstart.mdx","timestamp":1768238228000},"title":"Quickstart Guide"},{"name":"simulation","route":"/user/examples/faculty/anthropology/simulation","frontMatter":{"title":"Anthropology Word-Weaving: Full Simulation","filePath":"content/user/examples/faculty/anthropology/simulation.mdx","timestamp":1768238228000},"title":"Full Simulation"}],"title":"Anthropology Word-Weaving"},{"name":"industrial-design","route":"/user/examples/faculty/industrial-design","children":[{"data":{"index":{"title":"Overview"},"quickstart":{"title":"Quickstart Guide"},"simulation":{"title":"Full Simulation"}}},{"name":"index","route":"/user/examples/faculty/industrial-design","frontMatter":{"title":"Industrial Design - AI Co-Designer Workflows","filePath":"content/user/examples/faculty/industrial-design/index.mdx","timestamp":1768238228000},"title":"Overview"},{"name":"quickstart","route":"/user/examples/faculty/industrial-design/quickstart","frontMatter":{"title":"Faculty Simulation – Industrial Design Persona Quickstart","filePath":"content/user/examples/faculty/industrial-design/quickstart.mdx","timestamp":1768238228000},"title":"Quickstart Guide"},{"name":"simulation","route":"/user/examples/faculty/industrial-design/simulation","frontMatter":{"title":"GENAI Sandbox – Faculty Exploration Template (Industrial Design Simulation)","filePath":"content/user/examples/faculty/industrial-design/simulation.mdx","timestamp":1768238228000},"title":"Full Simulation"}],"title":"Industrial Design"},{"name":"physics-mcq","route":"/user/examples/faculty/physics-mcq","children":[{"data":{"index":{"title":"Overview"},"quickstart":{"title":"Quickstart Guide"},"simulation":{"title":"Full Simulation"}}},{"name":"index","route":"/user/examples/faculty/physics-mcq","frontMatter":{"title":"Physics MCQ - AI-Generated Assessment Questions","filePath":"content/user/examples/faculty/physics-mcq/index.mdx","timestamp":1768238228000},"title":"Overview"},{"name":"quickstart","route":"/user/examples/faculty/physics-mcq/quickstart","frontMatter":{"title":"Faculty Simulation – Physics Assessment Persona Quickstart","filePath":"content/user/examples/faculty/physics-mcq/quickstart.mdx","timestamp":1768238228000},"title":"Quickstart Guide"},{"name":"simulation","route":"/user/examples/faculty/physics-mcq/simulation","frontMatter":{"title":"GENAI Sandbox – Faculty Exploration Template (Physics MCQ Simulation)","filePath":"content/user/examples/faculty/physics-mcq/simulation.mdx","timestamp":1768238228000},"title":"Full Simulation"}],"title":"Physics MCQ"},{"name":"observations","route":"/user/examples/faculty/observations","frontMatter":{"title":"Observations","filePath":"content/user/examples/faculty/observations.mdx","timestamp":1768238228000},"title":"Faculty Observations"}],"title":"Faculty Examples"},{"name":"shared","route":"/user/examples/shared","children":[{"data":{"verification-log-example":{"title":"Verification Log Example"},"workflow-snapshot-example":{"title":"Workflow Snapshot Example"}}},{"name":"index","route":"/user/examples/shared","frontMatter":{"title":"Shared Examples","filePath":"content/user/examples/shared/index.mdx","timestamp":1768238228000},"title":"Shared Examples"},{"name":"verification-log-example","route":"/user/examples/shared/verification-log-example","frontMatter":{"title":"Verification Log Example – Student SPACE Project","filePath":"content/user/examples/shared/verification-log-example.mdx","timestamp":1768238228000},"title":"Verification Log Example"},{"name":"workflow-snapshot-example","route":"/user/examples/shared/workflow-snapshot-example","frontMatter":{"title":"Workflow Snapshot Example – Faculty Prototype","filePath":"content/user/examples/shared/workflow-snapshot-example.mdx","timestamp":1768238228000},"title":"Workflow Snapshot Example"}],"title":"Shared Examples"},{"name":"archive","route":"/user/examples/archive","children":[{"name":"index","route":"/user/examples/archive","frontMatter":{"title":"Examples Archive","filePath":"content/user/examples/archive/index.mdx","timestamp":1768238228000},"title":"Examples Archive"},{"name":"faculty-sim-appliedarts-2025-09-21","route":"/user/examples/archive/faculty-sim-appliedarts-2025-09-21","frontMatter":{"title":"GENAI Sandbox – Faculty Exploration Template (Applied Arts Simulation)","filePath":"content/user/examples/archive/faculty-sim-appliedarts-2025-09-21.mdx","timestamp":1768238228000},"title":"GENAI Sandbox – Faculty Exploration Template (Applied Arts Simulation)"},{"name":"faculty-sim-appliedarts-quickstart-2025-09-21","route":"/user/examples/archive/faculty-sim-appliedarts-quickstart-2025-09-21","frontMatter":{"title":"Faculty Simulation – Applied Arts Persona Quickstart","filePath":"content/user/examples/archive/faculty-sim-appliedarts-quickstart-2025-09-21.mdx","timestamp":1764865096000},"title":"Faculty Simulation – Applied Arts Persona Quickstart"},{"name":"faculty-sim-physics-2025-09-21","route":"/user/examples/archive/faculty-sim-physics-2025-09-21","frontMatter":{"title":"GENAI Sandbox – Faculty Exploration Template (Physics Simulation)","filePath":"content/user/examples/archive/faculty-sim-physics-2025-09-21.mdx","timestamp":1764865096000},"title":"GENAI Sandbox – Faculty Exploration Template (Physics Simulation)"},{"name":"faculty-sim-physics-quickstart-2025-09-21","route":"/user/examples/archive/faculty-sim-physics-quickstart-2025-09-21","frontMatter":{"title":"Faculty Simulation – Physics Persona Quickstart","filePath":"content/user/examples/archive/faculty-sim-physics-quickstart-2025-09-21.mdx","timestamp":1768238228000},"title":"Faculty Simulation – Physics Persona Quickstart"},{"name":"humanities-2024","route":"/user/examples/archive/humanities-2024","children":[{"data":{"index":{"title":"Overview"},"quickstart":{"title":"Quickstart Guide"},"simulation":{"title":"Full Simulation"}}},{"name":"index","route":"/user/examples/archive/humanities-2024","frontMatter":{"title":"Humanities - AI-Enhanced Critical Analysis","filePath":"content/user/examples/archive/humanities-2024/index.mdx","timestamp":1768238228000},"title":"Overview"},{"name":"quickstart","route":"/user/examples/archive/humanities-2024/quickstart","frontMatter":{"title":"Faculty Simulation – Humanities Persona Quickstart","filePath":"content/user/examples/archive/humanities-2024/quickstart.mdx","timestamp":1768238228000},"title":"Quickstart Guide"},{"name":"simulation","route":"/user/examples/archive/humanities-2024/simulation","frontMatter":{"title":"GENAI Sandbox – Faculty Exploration Template (Humanities Simulation)","filePath":"content/user/examples/archive/humanities-2024/simulation.mdx","timestamp":1768238228000},"title":"Full Simulation"}],"title":"Humanities 2024"}],"title":"Archive"}],"title":"Examples"},{"name":"guides","route":"/user/guides","children":[{"data":{"experiment-planner":{"title":"Experiment Planner Template"}}},{"name":"experiment-planner","route":"/user/guides/experiment-planner","frontMatter":{"title":"Experiment Planner","filePath":"content/user/guides/experiment-planner.mdx","timestamp":1768238228000},"title":"Experiment Planner Template"}],"title":"Templates & Guides"}],"title":"👤 For Faculty"},{"name":"facilitator","route":"/facilitator","children":[{"data":{"index":{"title":"👋 Welcome Facilitators"},"---":{"type":"separator","title":"Workshop Formats"},"facilitator-guide-90min":{"title":"🎯 90-Minute Workshop Guide"},"facilitator-guide-extended":{"title":"📘 Extended Series Guide"},"---2":{"type":"separator","title":"Extended Session Materials"},"session-1":{"title":"Session 1: Welcome"},"session-2":{"title":"Session 2: Check-in"},"session-3":{"title":"Session 3: Expanding"},"session-4":{"title":"Session 4: Sustaining"}}},{"name":"index","route":"/facilitator","frontMatter":{"title":"Welcome Facilitators","filePath":"content/facilitator/index.mdx","timestamp":1768238228000},"title":"👋 Welcome Facilitators"},{"name":"---","type":"separator","title":"Workshop Formats"},{"name":"facilitator-guide-90min","route":"/facilitator/facilitator-guide-90min","frontMatter":{"title":"Facilitator Guide: 90-Minute Sandbox Workshop","filePath":"content/facilitator/facilitator-guide-90min.mdx","timestamp":1768238228000},"title":"🎯 90-Minute Workshop Guide"},{"name":"facilitator-guide-extended","route":"/facilitator/facilitator-guide-extended","frontMatter":{"title":"Facilitator Guide: Running the Sandbox Workshop","filePath":"content/facilitator/facilitator-guide-extended.mdx","timestamp":1768238228000},"title":"📘 Extended Series Guide"},{"name":"---2","type":"separator","title":"Extended Session Materials"},{"name":"session-1","route":"/facilitator/session-1","frontMatter":{"title":"Session 1: Welcome to the Sandbox","filePath":"content/facilitator/session-1.mdx","timestamp":1764865096000},"title":"Session 1: Welcome"},{"name":"session-2","route":"/facilitator/session-2","frontMatter":{"title":"Session 2: Experiment Check-in & Iteration Workshop","filePath":"content/facilitator/session-2.mdx","timestamp":1768238228000},"title":"Session 2: Check-in"},{"name":"session-3","route":"/facilitator/session-3","frontMatter":{"title":"Session 3: Expanding Your Practice","filePath":"content/facilitator/session-3.mdx","timestamp":1768238228000},"title":"Session 3: Expanding"},{"name":"session-4","route":"/facilitator/session-4","frontMatter":{"title":"Session 4: Reflection, Sharing & Sustaining Your Practice","filePath":"content/facilitator/session-4.mdx","timestamp":1764865096000},"title":"Session 4: Sustaining"}],"title":"🎓 For Facilitators"},{"name":"workshop-in-a-box","route":"/workshop-in-a-box","children":[{"data":{"index":{"title":"👋 Workshop Overview"},"workshop-90min":{"title":"🎯 90-Minute Workshop"},"workshop-prompts":{"title":"💬 Workshop Prompts"}}},{"name":"index","route":"/workshop-in-a-box","frontMatter":{"title":"Workshop-in-a-Box: Faculty AI Sandbox","filePath":"content/workshop-in-a-box/index.mdx","timestamp":1768238228000},"title":"👋 Workshop Overview"},{"name":"workshop-90min","route":"/workshop-in-a-box/workshop-90min","frontMatter":{"title":"Workshop-in-a-Box: 90-Minute Faculty Sandbox","filePath":"content/workshop-in-a-box/workshop-90min.mdx","timestamp":1768238228000},"title":"🎯 90-Minute Workshop"},{"name":"workshop-prompts","route":"/workshop-in-a-box/workshop-prompts","frontMatter":{"title":"Workshop Prompts","filePath":"content/workshop-in-a-box/workshop-prompts.mdx","timestamp":1768238228000},"title":"💬 Workshop Prompts"}],"title":"📦 Workshop-in-a-Box"},{"name":"about","route":"/about","frontMatter":{"title":"About the GenAI Sandbox","filePath":"content/about.mdx","timestamp":1764865096000},"title":"About"},{"name":"examples","route":"/examples","children":[{"data":{"faculty":{"title":"Faculty Examples"},"shared":{"title":"Shared Examples"},"archive":{"title":"Archive"}}},{"name":"index","route":"/examples","frontMatter":{"title":"Examples","filePath":"content/examples/index.mdx","timestamp":1768238228000},"title":"Examples"},{"name":"faculty","route":"/examples/faculty","children":[{"data":{"arduino-robotics":{"title":"Arduino Robotics Code Review"},"humanities":{"title":"Humanities"},"industrial-design":{"title":"Industrial Design"},"physics-mcq":{"title":"Physics MCQ"},"observations":{"title":"Observations"}}},{"name":"index","route":"/examples/faculty","frontMatter":{"title":"Faculty Examples","filePath":"content/examples/faculty/index.mdx","timestamp":1768238228000},"title":"Faculty Examples"},{"name":"arduino-robotics","route":"/examples/faculty/arduino-robotics","children":[{"data":{"index":{"title":"Overview"},"quickstart":{"title":"Quickstart Guide"},"simulation":{"title":"Full Simulation"}}},{"name":"index","route":"/examples/faculty/arduino-robotics","frontMatter":{"title":"Arduino Robotics Code Review – AI-Assisted Lab Feedback","filePath":"content/examples/faculty/arduino-robotics/index.mdx","timestamp":1768238228000},"title":"Overview"},{"name":"quickstart","route":"/examples/faculty/arduino-robotics/quickstart","frontMatter":{"title":"Faculty Simulation – Physics Robotics Persona Quickstart","filePath":"content/examples/faculty/arduino-robotics/quickstart.mdx","timestamp":1768238228000},"title":"Quickstart Guide"},{"name":"simulation","route":"/examples/faculty/arduino-robotics/simulation","frontMatter":{"title":"GenAI Sandbox – Faculty Exploration Template (Arduino Robotics Code Review Simulation)","filePath":"content/examples/faculty/arduino-robotics/simulation.mdx","timestamp":1764865096000},"title":"Full Simulation"}],"title":"Arduino Robotics Code Review"},{"name":"humanities","route":"/examples/faculty/humanities","children":[{"data":{"index":{"title":"Overview"},"quickstart":{"title":"Quickstart Guide"},"simulation":{"title":"Full Simulation"}}},{"name":"index","route":"/examples/faculty/humanities","frontMatter":{"title":"Humanities - AI-Enhanced Critical Analysis","filePath":"content/examples/faculty/humanities/index.mdx","timestamp":1768238228000},"title":"Overview"},{"name":"quickstart","route":"/examples/faculty/humanities/quickstart","frontMatter":{"title":"Faculty Simulation – Humanities Persona Quickstart","filePath":"content/examples/faculty/humanities/quickstart.mdx","timestamp":1768238228000},"title":"Quickstart Guide"},{"name":"simulation","route":"/examples/faculty/humanities/simulation","frontMatter":{"title":"GENAI Sandbox – Faculty Exploration Template (Humanities Simulation)","filePath":"content/examples/faculty/humanities/simulation.mdx","timestamp":1768238228000},"title":"Full Simulation"}],"title":"Humanities"},{"name":"industrial-design","route":"/examples/faculty/industrial-design","children":[{"data":{"index":{"title":"Overview"},"quickstart":{"title":"Quickstart Guide"},"simulation":{"title":"Full Simulation"}}},{"name":"index","route":"/examples/faculty/industrial-design","frontMatter":{"title":"Industrial Design - AI Co-Designer Workflows","filePath":"content/examples/faculty/industrial-design/index.mdx","timestamp":1764865096000},"title":"Overview"},{"name":"quickstart","route":"/examples/faculty/industrial-design/quickstart","frontMatter":{"title":"Faculty Simulation – Industrial Design Persona Quickstart","filePath":"content/examples/faculty/industrial-design/quickstart.mdx","timestamp":1768238228000},"title":"Quickstart Guide"},{"name":"simulation","route":"/examples/faculty/industrial-design/simulation","frontMatter":{"title":"GENAI Sandbox – Faculty Exploration Template (Industrial Design Simulation)","filePath":"content/examples/faculty/industrial-design/simulation.mdx","timestamp":1768238228000},"title":"Full Simulation"}],"title":"Industrial Design"},{"name":"physics-mcq","route":"/examples/faculty/physics-mcq","children":[{"data":{"index":{"title":"Overview"},"quickstart":{"title":"Quickstart Guide"},"simulation":{"title":"Full Simulation"}}},{"name":"index","route":"/examples/faculty/physics-mcq","frontMatter":{"title":"Physics MCQ - AI-Generated Assessment Questions","filePath":"content/examples/faculty/physics-mcq/index.mdx","timestamp":1764865096000},"title":"Overview"},{"name":"quickstart","route":"/examples/faculty/physics-mcq/quickstart","frontMatter":{"title":"Faculty Simulation – Physics Assessment Persona Quickstart","filePath":"content/examples/faculty/physics-mcq/quickstart.mdx","timestamp":1764865096000},"title":"Quickstart Guide"},{"name":"simulation","route":"/examples/faculty/physics-mcq/simulation","frontMatter":{"title":"GENAI Sandbox – Faculty Exploration Template (Physics MCQ Simulation)","filePath":"content/examples/faculty/physics-mcq/simulation.mdx","timestamp":1768238228000},"title":"Full Simulation"}],"title":"Physics MCQ"},{"name":"observations","route":"/examples/faculty/observations","frontMatter":{"title":"Observations","filePath":"content/examples/faculty/observations.mdx","timestamp":1768238228000},"title":"Observations"}],"title":"Faculty Examples"},{"name":"shared","route":"/examples/shared","children":[{"data":{"verification-log-example":{"title":"Verification Log Example"},"workflow-snapshot-example":{"title":"Workflow Snapshot Example"}}},{"name":"index","route":"/examples/shared","frontMatter":{"title":"Shared Examples","filePath":"content/examples/shared/index.mdx","timestamp":1768238228000},"title":"Shared Examples"},{"name":"verification-log-example","route":"/examples/shared/verification-log-example","frontMatter":{"title":"Verification Log Example – Student SPACE Project","filePath":"content/examples/shared/verification-log-example.mdx","timestamp":1768238228000},"title":"Verification Log Example"},{"name":"workflow-snapshot-example","route":"/examples/shared/workflow-snapshot-example","frontMatter":{"title":"Workflow Snapshot Example – Faculty Prototype","filePath":"content/examples/shared/workflow-snapshot-example.mdx","timestamp":1764865096000},"title":"Workflow Snapshot Example"}],"title":"Shared Examples"},{"name":"archive","route":"/examples/archive","children":[{"name":"index","route":"/examples/archive","frontMatter":{"title":"Examples Archive","filePath":"content/examples/archive/index.mdx","timestamp":1764865096000},"title":"Examples Archive"},{"name":"faculty-sim-appliedarts-2025-09-21","route":"/examples/archive/faculty-sim-appliedarts-2025-09-21","frontMatter":{"title":"GENAI Sandbox – Faculty Exploration Template (Applied Arts Simulation)","filePath":"content/examples/archive/faculty-sim-appliedarts-2025-09-21.mdx","timestamp":1768238228000},"title":"GENAI Sandbox – Faculty Exploration Template (Applied Arts Simulation)"},{"name":"faculty-sim-appliedarts-quickstart-2025-09-21","route":"/examples/archive/faculty-sim-appliedarts-quickstart-2025-09-21","frontMatter":{"title":"Faculty Simulation – Applied Arts Persona Quickstart","filePath":"content/examples/archive/faculty-sim-appliedarts-quickstart-2025-09-21.mdx","timestamp":1768238228000},"title":"Faculty Simulation – Applied Arts Persona Quickstart"},{"name":"faculty-sim-physics-2025-09-21","route":"/examples/archive/faculty-sim-physics-2025-09-21","frontMatter":{"title":"GENAI Sandbox – Faculty Exploration Template (Physics Simulation)","filePath":"content/examples/archive/faculty-sim-physics-2025-09-21.mdx","timestamp":1768238228000},"title":"GENAI Sandbox – Faculty Exploration Template (Physics Simulation)"},{"name":"faculty-sim-physics-quickstart-2025-09-21","route":"/examples/archive/faculty-sim-physics-quickstart-2025-09-21","frontMatter":{"title":"Faculty Simulation – Physics Persona Quickstart","filePath":"content/examples/archive/faculty-sim-physics-quickstart-2025-09-21.mdx","timestamp":1768238228000},"title":"Faculty Simulation – Physics Persona Quickstart"}],"title":"Archive"}],"title":"Examples"},{"name":"guides","route":"/guides","children":[{"data":{"faculty-template":{"title":"Faculty Template"},"template-spine-outline":{"title":"Template Outline"}}},{"name":"faculty-template","route":"/guides/faculty-template","frontMatter":{"title":"GenAI Sandbox – Faculty Exploration Template","filePath":"content/guides/faculty-template.mdx","timestamp":1768238228000},"title":"Faculty Template"},{"name":"template-spine-outline","route":"/guides/template-spine-outline","frontMatter":{"title":"Streamlined Template Spine – Shared Elements (Draft)","filePath":"content/guides/template-spine-outline.mdx","timestamp":1768238228000},"title":"Template Outline"}],"title":"Guides"}],"navbar":"$L16","footer":"$L17","children":["$L18","$L19"]}]]}]}]}]]}]
+1a:I[22016,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"default"]
+1b:I[43634,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"ClientNavbar"]
+1c:I[31277,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"Switchers"]
+1d:I[34924,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"LocaleSwitch"]
+1e:I[75684,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"ThemeSwitch"]
+1f:I[769,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"MobileNav"]
+16:["$","header",null,{"className":"nextra-navbar x:sticky x:top-0 x:z-30 x:w-full x:bg-transparent x:print:hidden x:max-md:[.nextra-banner:not([class$=hidden])~&]:top-(--nextra-banner-height)","children":[["$","div",null,{"className":"nextra-navbar-blur x:absolute x:-z-1 x:size-full nextra-border x:border-b x:backdrop-blur-md x:bg-nextra-bg/70"}],["$","nav",null,{"style":{"height":"var(--nextra-navbar-height)"},"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width) x:items-center x:gap-4 x:pl-[max(env(safe-area-inset-left),1.5rem)] x:pr-[max(env(safe-area-inset-right),1.5rem)] x:justify-end","children":[["$","$L1a",null,{"href":"/","className":"x:flex x:items-center x:me-auto x:transition-opacity x:focus-visible:nextra-focus x:hover:opacity-75","aria-label":"Home page","children":["$","b",null,{"children":"Gen AI Sandbox Docs"}]}],["$","$L1b",null,{"className":"","children":["$undefined","$undefined",["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":"1.5rem","marginLeft":"auto"},"children":[["$","$L1a",null,{"href":"/user","style":{"textDecoration":"none","color":"inherit","fontSize":"0.9rem","fontWeight":500},"children":"For Faculty"}],["$","$L1a",null,{"href":"/facilitator","style":{"textDecoration":"none","color":"inherit","fontSize":"0.9rem","fontWeight":500},"children":"For Facilitators"}],["$","$L1a",null,{"href":"/workshop-in-a-box","style":{"textDecoration":"none","color":"inherit","fontSize":"0.9rem","fontWeight":500},"children":"Workshop"}],["$","$L1a",null,{"href":"/about","style":{"textDecoration":"none","color":"inherit","fontSize":"0.9rem","fontWeight":500},"children":"About"}]]}]]}]]}]]}]
+17:["$","div",null,{"className":"x:bg-gray-100 x:pb-[env(safe-area-inset-bottom)] x:dark:bg-neutral-900 x:print:bg-transparent","children":[["$","$L1c",null,{"children":["$","div",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width) x:gap-2 x:py-2 x:px-4","children":[["$","$L1d",null,{}],["$","$L1e",null,{}]]}]}],["$","hr",null,{"className":"nextra-border"}],["$","footer",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width) x:justify-center x:py-12 x:text-gray-600 x:dark:text-gray-400 x:md:justify-start x:pl-[max(env(safe-area-inset-left),1.5rem)] x:pr-[max(env(safe-area-inset-right),1.5rem)]","children":["$","div",null,{"style":{"display":"flex","alignItems":"center","justifyContent":"center","padding":"0.5rem 0"},"children":[["$","img",null,{"src":"/IRV-logo-small.png","alt":"Made by I.R.V.","style":{"height":"18px","width":"auto","opacity":0.9}}],["$","span",null,{"className":"sr-only","style":{"fontSize":"0.75em"},"children":"Dawson College GenAI Sandbox · "}],["$","span",null,{"className":"sr-only","style":{"fontSize":"0.75em"},"children":2026}]]}]}]]}]
+18:["$","$L1f",null,{}]
+19:["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"mx-auto max-w-3xl px-6 py-16","children":["$","div",null,{"className":"rounded-lg border border-gray-200 bg-white p-8 shadow-sm dark:border-gray-800 dark:bg-gray-900","children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-wide text-gray-500 dark:text-gray-400","children":"404"}],["$","h1",null,{"className":"mt-2 text-3xl font-bold text-gray-900 dark:text-white","children":"Page not found"}],["$","p",null,{"className":"mt-3 text-gray-600 dark:text-gray-300","children":"The page you requested does not exist or has moved. Try heading back to the docs."}],["$","div",null,{"className":"mt-6 flex flex-wrap gap-3","children":[["$","$L1a",null,{"href":"/","className":"inline-flex items-center rounded-md bg-blue-600 px-4 py-2 text-sm font-semibold text-white hover:bg-blue-700","children":"Go to home"}],["$","$L1a",null,{"href":"/user/quickstart","className":"inline-flex items-center rounded-md border border-gray-300 px-4 py-2 text-sm font-semibold text-gray-700 hover:bg-gray-50 dark:border-gray-700 dark:text-gray-200 dark:hover:bg-gray-800","children":"Browse quickstart"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+20:I[55169,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"TOCProvider"]
+21:I[769,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"Sidebar"]
+22:I[47486,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"ClientWrapper"]
+23:T5820,# Facilitator Guide: Running the Sandbox Workshop
+
+## About This Guide
+
+This guide is for **you, the facilitator**—the person responsible for creating the conditions where faculty can experiment safely, reflect honestly, and learn from each other.
+
+The workshop content (Sessions 1-4) is written as **live-flow material** for participants. This guide is the **meta-layer**: how to adapt, facilitate, and sustain the workshop in your specific context.
+
+---
+
+## Workshop Overview
+
+### Philosophy & Approach
+
+**This is not a training.** This is a **learning community** where faculty develop their own practice through experimentation.
+
+**Core principles:**
+- **Psychological safety** - Faculty need to feel safe trying things that might fail
+- **Peer learning** - The best insights come from each other, not the facilitator
+- **Practice-based** - Learning happens through doing, not just discussing
+- **Iterative** - Small experiments, honest reflection, continuous adjustment
+- **Contextual** - What works depends on discipline, students, and teaching style
+
+**Your role as facilitator:**
+- Create the container for safe experimentation
+- Ask good questions
+- Normalize failure as learning
+- Connect participants to each other
+- Model curiosity and humility
+
+**Not your role:**
+- Be an AI expert
+- Have all the answers
+- Fix everyone's problems
+- Convince skeptics
+- Police what people do
+
+---
+
+## Workshop Structure
+
+### Recommended Format
+
+**4 sessions over 4-6 weeks**
+
+- **Session 1** (90 minutes): Welcome & Design First Experiment
+- **Session 2** (60-90 minutes): Check-in & Iteration Workshop
+- **Session 3** (60-90 minutes): Expanding Your Practice
+- **Session 4** (90 minutes): Reflection, Sharing & Sustaining
+
+**Between-session work:** 2-4 hours per week trying experiments
+
+**Total time commitment:** ~20-25 hours over 4-6 weeks
+
+---
+
+### Why This Structure?
+
+**Session 1 is longer** because participants need time to:
+- Build trust and psychological safety
+- Understand the sandbox philosophy
+- Design their first experiment thoughtfully
+
+**Sessions 2-3 can be shorter** because:
+- Participants already understand the process
+- Much of the learning happens between sessions
+- Sessions are for sharing and troubleshooting, not lecturing
+
+**Session 4 is longer** to create space for:
+- Reflection on the full journey
+- Sharing significant insights
+- Planning for sustainability
+- Closing with intention
+
+---
+
+## Adapting This Workshop
+
+### What to Keep (Core Elements)
+
+These are **non-negotiable** for maintaining the sandbox philosophy:
+
+✅ **Psychological safety** - Make it safe to fail and share honestly
+✅ **Small experiments** - No pressure to transform teaching overnight
+✅ **Documentation** - Use the experiment template to capture observations
+✅ **Reflection** - Regular opportunities to make meaning of experiences
+✅ **Peer learning** - Participants learn from each other, not just from you
+✅ **Iteration** - Experiments are starting points, not endpoints
+
+---
+
+### What to Customize (Flexible Elements)
+
+◯ **Timeline** - Adjust to your academic calendar
+◯ **Session length** - Shorten or extend based on your context
+◯ **Group size** - Works for cohorts of 5-25 (see guidance below)
+◯ **Format** - In-person, virtual, or hybrid
+◯ **Examples** - Use discipline-specific examples relevant to your participants
+◯ **Communication style** - Adapt tone and language to your institutional culture
+
+---
+
+## Context-Specific Adaptations
+
+### Timeline Variations
+
+**Intensive format** (2 weeks):
+- 4 sessions over 2 weeks (2 sessions per week)
+- Between-session work: 3-5 days
+- **Best for:** Intersession periods, faculty development weeks
+- **Challenge:** Less time for iteration; experiments may feel rushed
+
+**Standard format** (4-6 weeks):
+- 4 sessions over 4-6 weeks (1 session per week or biweekly)
+- Between-session work: 1-2 weeks
+- **Best for:** Regular semester, sustained community building
+- **Challenge:** Maintaining momentum across longer gaps
+
+**Extended format** (8-10 weeks):
+- 4 sessions spread across a full semester
+- Between-session work: 2-3 weeks
+- **Best for:** Deep exploration, multiple iterations per experiment
+- **Challenge:** Participants may lose continuity; need stronger between-session support
+
+---
+
+### Group Size Considerations
+
+**Small groups** (5-10 participants):
+- **Advantages:** More intimate sharing, deeper discussion, easier facilitation
+- **Approach:** Whole-group discussions, paired feedback, minimal breakouts
+- **Facilitation notes:** You can give more individual attention; surface everyone's voice
+
+**Medium groups** (10-20 participants):
+- **Advantages:** More diversity of experience, still manageable for connection
+- **Approach:** Mix of whole-group and small-group activities, use breakout rooms
+- **Facilitation notes:** Plan for structured small-group time; use breakouts strategically
+
+**Large groups** (20-30+):
+- **Advantages:** Reaches more faculty, more examples to learn from
+- **Approach:** Use learning stations, breakout rooms, asynchronous components
+- **Facilitation notes:** Consider co-facilitators; use async discussion boards between sessions; prioritize small-group interaction over whole-group sharing
+
+---
+
+### Format Options
+
+**In-person:**
+- **Advantages:** Easier to build trust, better for paired activities, more spontaneous discussion
+- **Logistics:** Book accessible room with moveable furniture, whiteboards, good tech setup
+- **Facilitation notes:** Plan for movement (standing, pairing, regrouping)
+
+**Virtual (synchronous):**
+- **Advantages:** Accessible to more faculty, easier to record, flexible scheduling
+- **Logistics:** Use breakout rooms, shared docs, polls, chat
+- **Facilitation notes:** Plan for engagement (chat participation, visual slides, frequent breakouts); record sessions for those who miss
+
+**Hybrid:**
+- **Advantages:** Flexibility for participants, accommodates different needs
+- **Logistics:** Requires excellent tech setup (good camera, mic, screen sharing)
+- **Facilitation notes:** Actively include remote participants; assign a co-facilitator to monitor chat/virtual room
+
+**Asynchronous components:**
+- Use discussion boards for sharing experiments between sessions
+- Post reflection prompts for participants to respond to at their own pace
+- Create video walkthroughs of the experiment template
+- **Best for:** Supporting large groups, accommodating busy schedules, extending learning between sessions
+
+---
+
+## Session-by-Session Facilitation Notes
+
+### Session 1: Welcome & Design First Experiment
+
+**Your goals:**
+- Establish psychological safety
+- Introduce sandbox philosophy through experience, not lecture
+- Help participants design realistic first experiments
+- Send them off with confidence (even if uncertain)
+
+**Preparation:**
+- [ ] Review participant pre-survey responses (if you collect them)
+- [ ] Prepare 2-3 discipline-specific examples
+- [ ] Set up physical/virtual space for paired work
+- [ ] Print experiment templates (if in-person)
+- [ ] Prepare opening remarks
+
+**Facilitation tips:**
+
+**Opening (10-15 min):**
+- Welcome people individually as they arrive (names, small talk, ease in)
+- Share your own curiosity and uncertainty—model not having all the answers
+- Explicitly name that skepticism and worry are welcome
+
+**Setting intentions (5-7 min):**
+- Give real silence for writing—don't rush this
+- Make sharing optional (call for volunteers, don't go around the circle)
+- If someone shares a concern, thank them and normalize it—don't defend or dismiss
+
+**Experiment template walkthrough (20-25 min):**
+- Use a real example, not a hypothetical one
+- Walk through each section slowly
+- Point out what makes it a good sandbox experiment (small, reversible, documented)
+
+**Individual design time (20-25 min):**
+- Give structured prompts (Option A/B/C) to help people start
+- Circulate and check in—answer questions, offer encouragement
+- Watch for people who are stuck—offer to talk through it with them
+
+**Paired feedback (10-15 min):**
+- Be explicit about roles (listener and designer)
+- Give time warnings (halfway, 2 minutes left)
+- Offer sentence starters for giving feedback
+
+**Closing (5-10 min):**
+- Emphasize that NOT trying the experiment is also data—document why
+- Remind them of support available between sessions
+- End with encouragement, not pressure
+
+---
+
+### Session 2: Experiment Check-in & Iteration Workshop
+
+**Your goals:**
+- Normalize failure and mixed results
+- Help participants reflect honestly on what happened
+- Support iteration and troubleshooting
+- Build confidence in the experimental process
+
+**Preparation:**
+- [ ] Review any between-session communication or questions
+- [ ] Prepare troubleshooting examples
+- [ ] Set up small groups (3-4 people, mixed disciplines if possible)
+- [ ] Have backup activities ready if most people didn't try experiments yet
+
+**Facilitation tips:**
+
+**Opening pulse check:**
+- Use the green/yellow/red/white framework
+- Count hands for each color
+- Acknowledge the distribution without judgment ("Lots of yellows and reds—that's perfect for learning")
+
+**Individual reflection time (5-7 min):**
+- Protect this quiet time—it's essential for honest self-assessment
+- Resist the urge to fill silence
+
+**Small group sharing (25-35 min):**
+- Give clear time structure (7-10 min per person)
+- Circulate and listen—don't intervene unless asked
+- Notice themes emerging across groups
+
+**Whole-group troubleshooting (20-30 min):**
+- After small groups, ask: "What challenges came up in your groups?"
+- Invite participants to share challenges and crowdsource solutions
+- Use the "common challenges" section as a resource, but prioritize real examples from the room
+
+**Iteration planning (10-15 min):**
+- Give structured time for participants to decide: iterate, pivot, or pause
+- Emphasize that all three options are legitimate
+
+---
+
+### Session 3: Expanding Your Practice
+
+**Your goals:**
+- Deepen the questions beyond surface-level "does it work"
+- Address pedagogical and ethical considerations
+- Support participants in designing more ambitious (but still small) experiments
+- Build toward sustained inquiry
+
+**Preparation:**
+- [ ] Review themes from previous sessions
+- [ ] Prepare examples that illustrate deeper questions (equity, learning, values)
+- [ ] Set up learning stations or breakouts (if using that format)
+- [ ] Have discussion prompts ready for ethical and pedagogical questions
+
+**Facilitation tips:**
+
+**Opening patterns discussion (10-15 min):**
+- Use a whiteboard or shared doc to capture themes
+- Ask: "What patterns are you noticing across your experiments?"
+- Reflect themes back to the group—this builds collective knowledge
+
+**Deepening questions (20-25 min):**
+- Don't lecture—use prompts and examples to open discussion
+- Give space for disagreement and ambiguity
+- Lean into questions that don't have easy answers (equity, student learning)
+
+**Values reflection (5-7 min):**
+- This is personal work—protect quiet time
+- Make sharing optional
+
+**Second experiment design (20-25 min):**
+- Participants already know the template—they need less guidance now
+- Circulate and ask questions: "How does this build on what you learned?" "What's different this time?"
+
+**Peer consultation (15-20 min):**
+- Use pairs or small groups
+- Encourage participants to challenge each other thoughtfully
+
+---
+
+### Session 4: Reflection, Sharing & Sustaining
+
+**Your goals:**
+- Honor the work participants have done
+- Help participants articulate their learning
+- Build a plan for continued practice
+- Create closure and celebrate growth
+
+**Preparation:**
+- [ ] Decide on sharing format (showcase vs. learning stations)
+- [ ] Prepare options for ongoing connection (check-in schedule, discussion space, etc.)
+- [ ] Have final evaluation survey ready
+- [ ] Bring closing ceremony energy (this matters!)
+
+**Facilitation tips:**
+
+**Opening reflection (10-15 min):**
+- Give everyone a voice in the opening round
+- Expect emotion—transformation is happening here
+- Hold space for people to name growth and change
+
+**Individual reflection time (10-12 min):**
+- This is their documentation for future reference—give real time
+- Resist rushing this section
+
+**Gallery of experiments (30-40 min):**
+- Choose format based on group size (showcase for small, stations for large)
+- Celebrate what people tried, not just what "worked"
+- Make space for questions and learning from each other
+
+**Continuation planning (15-20 min):**
+- Be concrete about what support is available
+- Ask participants what they need to sustain this
+- Offer options for ongoing connection—gauge interest, commit to what's realistic
+
+**Closing ceremony (10-15 min):**
+- Make this meaningful—this is where you honor the journey
+- Public commitments create accountability (but make them optional)
+- End with gratitude and acknowledgment
+
+---
+
+## Facilitation Skills & Mindset
+
+### Creating Psychological Safety
+
+**Psychological safety** is the foundation of this workshop. Without it, faculty won't share honestly, take risks, or admit when things don't work.
+
+**How to build it:**
+
+✅ **Model vulnerability** - Share your own uncertainties, mistakes, and questions
+✅ **Normalize failure** - Celebrate experiments that didn't work as valuable learning
+✅ **Make sharing optional** - Never force people to speak; invite volunteers
+✅ **Respond without judgment** - Thank people for sharing, especially when it's hard
+✅ **Name discomfort** - Acknowledge when topics are controversial or uncomfortable
+✅ **Protect confidentiality** - What's shared in the workshop stays in the workshop (unless someone gives permission to share)
+
+**What undermines it:**
+
+- ❌ Dismissing concerns or skepticism
+- ❌ Positioning yourself as the expert with all the answers
+- ❌ Comparing participants' progress to each other
+- ❌ Rushing through reflection or sharing time
+- ❌ Letting one person dominate discussion
+- ❌ Failing to address harmful comments (e.g., dismissive remarks about students or colleagues)
+
+---
+
+### Asking Good Questions
+
+**Your job is not to answer questions—it's to ask them.**
+
+**Good facilitation questions:**
+
+**For opening up thinking:**
+- "What are you noticing?"
+- "What surprised you?"
+- "What's making you curious?"
+- "What would you try if you knew it would work?"
+
+**For deepening reflection:**
+- "What does that tell you about...?"
+- "How does this connect to what you value in your teaching?"
+- "What assumptions are you holding?"
+- "What would have to be true for this to work?"
+
+**For supporting peers:**
+- "What questions does this raise for you?"
+- "What resonates with your experience?"
+- "What would you be curious to try based on what you just heard?"
+
+**For troubleshooting:**
+- "What part of this is in your control?"
+- "What would make this easier or more realistic?"
+- "What's the smallest version of this you could try?"
+
+---
+
+### Navigating Difficult Moments
+
+**Challenge: Someone is very skeptical or resistant**
+
+**What to do:**
+- Acknowledge their concerns as legitimate
+- Ask: "What would need to be true for you to feel differently?" or "What worries you most?"
+- Emphasize that experiments are optional and reversible
+- Pair them with someone who shares their concerns but is trying things anyway
+
+**What NOT to do:**
+- Try to convince them or defend AI
+- Dismiss their concerns as uninformed
+- Force them to participate in activities they're uncomfortable with
+
+---
+
+**Challenge: Someone dominates discussion**
+
+**What to do:**
+- Use structured turn-taking ("Let's hear from someone who hasn't spoken yet")
+- Break into smaller groups where one person can't dominate
+- Speak privately: "I appreciate your contributions—can you help me make space for quieter voices?"
+
+**What NOT to do:**
+- Let it continue unchecked
+- Embarrass them publicly
+
+---
+
+**Challenge: Someone shares something problematic (e.g., using AI in ways that harm students)**
+
+**What to do:**
+- Pause and name the concern: "I want to pause here—this raises some questions for me about..."
+- Invite the group: "What concerns does this raise for you?"
+- Redirect to principles: "How does this align with our principle of transparency/responsibility?"
+
+**What NOT to do:**
+- Let it pass without comment (silence = endorsement)
+- Attack the person
+
+---
+
+**Challenge: Most people didn't try their experiments**
+
+**What to do:**
+- Normalize it: "This is common—trying new things is hard"
+- Explore why: "What got in the way?"
+- Pivot to observation: "What did you notice in your teaching this week, even if you didn't run the experiment?"
+- Refine experiments: "What would make this more doable?"
+
+**What NOT to do:**
+- Guilt or shame
+- Skip reflection and just move on
+
+---
+
+**Challenge: The conversation gets too abstract or theoretical**
+
+**What to do:**
+- Bring it back to practice: "What would this look like in your classroom next week?"
+- Ask for examples: "Can someone share a concrete example?"
+- Redirect to the experiment template: "How would you document this as an experiment?"
+
+---
+
+## Between-Session Support
+
+**Your goal:** Keep momentum without overwhelming participants.
+
+### Communication Strategy
+
+**What to send:**
+
+**Immediately after Session 1:**
+- Thank you email
+- Link to experiment template (digital version)
+- Reminder of when next session is
+- Your contact info for questions
+
+**Mid-week check-in (optional):**
+- Brief encouragement
+- One troubleshooting tip
+- Reminder that they can reach out
+
+**Before next session (2 days):**
+- Reminder of date/time/location
+- What to bring (their experiment notes)
+- One reflection prompt to prepare
+
+**What NOT to do:**
+- Send daily emails (too much)
+- Make them feel guilty if they haven't tried experiments yet
+- Add new requirements or homework
+
+---
+
+### Handling Questions Between Sessions
+
+**Common questions you'll receive:**
+
+**"Is this okay to try?"**
+- Respond: "What do you think? What risks are you concerned about?"
+- Help them think through risks and mitigations, don't just say yes or no
+
+**"I'm stuck—can you help?"**
+- Respond: "Tell me more about where you're stuck"
+- Ask questions to help them problem-solve; offer to discuss by phone/video if needed
+
+**"Do I have to try the experiment before Session 2?"**
+- Respond: "It's valuable if you do, but if you don't, we'll use Session 2 to figure out why and refine the plan. Bring your thinking either way."
+
+---
+
+## Materials & Resources
+
+### What Participants Need
+
+**Required:**
+- Experiment template (digital or printed)
+- Access to their classes/teaching context to try experiments
+
+**Optional but helpful:**
+- Shared document or discussion space for async sharing
+- Example experiments from past cohorts
+- Readings on AI in education (keep these optional, not required)
+
+---
+
+### What You Need
+
+**Logistics:**
+- Room booking or Zoom link
+- Co-facilitator (optional but helpful for groups >15)
+- Whiteboard or shared doc for capturing themes
+- Timer for activities
+
+**Content:**
+- Discipline-specific examples
+- Troubleshooting scenarios
+- Post-session communication templates
+
+**Evaluation:**
+- Pre-workshop survey (optional)
+- Post-session reflection prompts
+- Final evaluation survey
+
+---
+
+## Evaluation & Iteration
+
+**How to know if the workshop is working:**
+
+✅ **Participation:** Are people showing up and staying engaged?
+✅ **Experimentation:** Are people trying things, even if they fail?
+✅ **Honesty:** Are people sharing real challenges, not just successes?
+✅ **Peer learning:** Are participants learning from each other, not just from you?
+✅ **Sustained inquiry:** Are people continuing to experiment after the workshop ends?
+
+**Red flags:**
+
+🚨 People stop showing up after Session 1
+🚨 No one is trying experiments
+🚨 Discussion is superficial or performative
+🚨 One person or perspective dominates
+🚨 Participants look to you for all answers
+
+---
+
+### After Each Session: Reflect & Adjust
+
+**Ask yourself:**
+- What went well?
+- What felt off?
+- What would I change next time?
+- What surprised me?
+- Did everyone have a voice?
+- What themes emerged?
+
+**Adjust next session based on:**
+- What participants actually tried (not what you expected)
+- Emerging questions or concerns
+- Energy level and engagement
+- Time—what took longer or shorter than planned?
+
+---
+
+## FAQs for Facilitators
+
+**Q: Do I need to be an AI expert to facilitate this workshop?**
+
+**A:** No. You need to be curious, humble, and good at facilitating peer learning. Participants will teach each other (and you) about AI.
+
+---
+
+**Q: What if participants ask technical questions I can't answer?**
+
+**A:** Say "I don't know—does anyone in the group have experience with this?" or "That's a great question—let's add it to our list to explore." You're facilitating a learning community, not delivering expert training.
+
+---
+
+**Q: What if my institution has restrictive AI policies?**
+
+**A:** Acknowledge the constraints. Focus on experiments within policy boundaries, or frame this as "policy-compliant experimentation." If policies are unclear, use the workshop to collectively surface questions and advocate for clearer guidance.
+
+---
+
+**Q: How do I handle participants with very different levels of AI experience?**
+
+**A:** Pair experienced participants with novices. Position experienced users as resources, not experts. Emphasize that everyone is experimenting and learning, regardless of technical skill.
+
+---
+
+**Q: What if the workshop is too short/long for my context?**
+
+**A:** Adapt! See the timeline variations section above. The core is: design experiment → try it → reflect → iterate. You can compress or expand that cycle based on your constraints.
+
+---
+
+**Q: Can I run this workshop alone, or do I need a co-facilitator?**
+
+**A:** You can run it alone for groups up to 15. For larger groups, a co-facilitator is very helpful for managing breakouts, monitoring chat (if virtual), and providing individual support.
+
+---
+
+## Final Thoughts for Facilitators
+
+**This workshop is as much for you as it is for participants.** You'll learn about AI, about your institution, about what faculty need. Stay curious. Stay humble. Trust the process.
+
+**Your most important job is to create the container** where people feel safe to try, fail, and share. Everything else is secondary.
+
+**You don't need to have all the answers.** Model what it looks like to experiment, learn, and adjust. That's the practice you're teaching.
+
+Good luck. You've got this.
+
+---
+
+**Questions or need support?** [Insert contact info for workshop developers or community]5:["$","div",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width)","children":["$","$L20",null,{"value":[{"value":"About This Guide","id":"about-this-guide","depth":2},{"value":"Workshop Overview","id":"workshop-overview","depth":2},{"value":"Philosophy & Approach","id":"philosophy--approach","depth":3},{"value":"Workshop Structure","id":"workshop-structure","depth":2},{"value":"Recommended Format","id":"recommended-format","depth":3},{"value":"Why This Structure?","id":"why-this-structure","depth":3},{"value":"Adapting This Workshop","id":"adapting-this-workshop","depth":2},{"value":"What to Keep (Core Elements)","id":"what-to-keep-core-elements","depth":3},{"value":"What to Customize (Flexible Elements)","id":"what-to-customize-flexible-elements","depth":3},{"value":"Context-Specific Adaptations","id":"context-specific-adaptations","depth":2},{"value":"Timeline Variations","id":"timeline-variations","depth":3},{"value":"Group Size Considerations","id":"group-size-considerations","depth":3},{"value":"Format Options","id":"format-options","depth":3},{"value":"Session-by-Session Facilitation Notes","id":"session-by-session-facilitation-notes","depth":2},{"value":"Session 1: Welcome & Design First Experiment","id":"session-1-welcome--design-first-experiment","depth":3},{"value":"Session 2: Experiment Check-in & Iteration Workshop","id":"session-2-experiment-check-in--iteration-workshop","depth":3},{"value":"Session 3: Expanding Your Practice","id":"session-3-expanding-your-practice","depth":3},{"value":"Session 4: Reflection, Sharing & Sustaining","id":"session-4-reflection-sharing--sustaining","depth":3},{"value":"Facilitation Skills & Mindset","id":"facilitation-skills--mindset","depth":2},{"value":"Creating Psychological Safety","id":"creating-psychological-safety","depth":3},{"value":"Asking Good Questions","id":"asking-good-questions","depth":3},{"value":"Navigating Difficult Moments","id":"navigating-difficult-moments","depth":3},{"value":"Between-Session Support","id":"between-session-support","depth":2},{"value":"Communication Strategy","id":"communication-strategy","depth":3},{"value":"Handling Questions Between Sessions","id":"handling-questions-between-sessions","depth":3},{"value":"Materials & Resources","id":"materials--resources","depth":2},{"value":"What Participants Need","id":"what-participants-need","depth":3},{"value":"What You Need","id":"what-you-need","depth":3},{"value":"Evaluation & Iteration","id":"evaluation--iteration","depth":2},{"value":"After Each Session: Reflect & Adjust","id":"after-each-session-reflect--adjust","depth":3},{"value":"FAQs for Facilitators","id":"faqs-for-facilitators","depth":2},{"value":"Final Thoughts for Facilitators","id":"final-thoughts-for-facilitators","depth":2}],"children":[["$","$L21",null,{}],["$","$L22",null,{"metadata":"$2:props:children:1:props:children:props:children:props:children:2:props:pageMap:3:children:4:frontMatter","bottomContent":"$undefined","sourceCode":"$23","children":["$L24","$L25"]}]]}]}]
+26:I[63894,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"HeadingAnchor"]
+24:["$","div",null,{"id":"nextra-skip-nav"}]
+25:["$","main",null,{"data-pagefind-body":true,"children":[[["$","h1",null,{"id":"$undefined","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-bold x:mt-2 x:text-4xl","children":["Facilitator Guide: Running the Sandbox Workshop","$undefined"]}],"\n",["$","h2",null,{"id":"about-this-guide","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["About This Guide",["$","$L26",null,{"id":"about-this-guide"}]]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["This guide is for ",["$","strong",null,{"children":"you, the facilitator"}],"—the person responsible for creating the conditions where faculty can experiment safely, reflect honestly, and learn from each other."]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["The workshop content (Sessions 1-4) is written as ",["$","strong",null,{"children":"live-flow material"}]," for participants. This guide is the ",["$","strong",null,{"children":"meta-layer"}],": how to adapt, facilitate, and sustain the workshop in your specific context."]}],"\n",["$","hr",null,{"className":"x:my-[2em] nextra-border"}],"\n",["$","h2",null,{"id":"workshop-overview","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Workshop Overview",["$","$L26",null,{"id":"workshop-overview"}]]}],"\n",["$","h3",null,{"id":"philosophy--approach","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Philosophy & Approach",["$","$L26",null,{"id":"philosophy--approach"}]]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"This is not a training."}]," This is a ",["$","strong",null,{"children":"learning community"}]," where faculty develop their own practice through experimentation."]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Core principles:"}]}],"\n",["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Psychological safety"}]," - Faculty need to feel safe trying things that might fail"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Peer learning"}]," - The best insights come from each other, not the facilitator"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Practice-based"}]," - Learning happens through doing, not just discussing"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Iterative"}]," - Small experiments, honest reflection, continuous adjustment"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Contextual"}]," - What works depends on discipline, students, and teaching style"]}],"\n"]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Your role as facilitator:"}]}],"\n",["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Create the container for safe experimentation"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Ask good questions"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Normalize failure as learning"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Connect participants to each other"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Model curiosity and humility"}],"\n"]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Not your role:"}]}],"\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91","\n","$L92","\n","$L93","\n","$L94","\n","$L95","\n","$L96","\n","$L97","\n","$L98","\n","$L99","\n","$L9a","\n","$L9b","\n","$L9c","\n","$L9d","\n","$L9e","\n","$L9f","\n","$La0","\n","$La1","\n","$La2","\n","$La3","\n","$La4","\n","$La5","\n","$La6","\n","$La7","\n","$La8","\n","$La9","\n","$Laa","\n","$Lab","\n","$Lac","\n","$Lad","\n","$Lae","\n","$Laf","\n","$Lb0","\n","$Lb1","\n","$Lb2","\n","$Lb3","\n","$Lb4","\n","$Lb5","\n","$Lb6","\n","$Lb7","\n","$Lb8","\n","$Lb9","\n","$Lba","\n","$Lbb","\n","$Lbc","\n","$Lbd","\n","$Lbe","\n","$Lbf","\n","$Lc0","\n","$Lc1","\n","$Lc2","\n","$Lc3","\n","$Lc4","\n","$Lc5","\n","$Lc6","\n","$Lc7","\n","$Lc8","\n","$Lc9","\n","$Lca","\n","$Lcb","\n","$Lcc","\n","$Lcd","\n","$Lce","\n","$Lcf","\n","$Ld0","\n","$Ld1","\n","$Ld2","\n","$Ld3","\n","$Ld4","\n","$Ld5","\n","$Ld6","\n","$Ld7","\n","$Ld8","\n","$Ld9","\n","$Lda","\n","$Ldb","\n","$Ldc","\n","$Ldd","\n","$Lde","\n","$Ldf","\n","$Le0","\n","$Le1","\n","$Le2","\n","$Le3","\n","$Le4","\n","$Le5","\n","$Le6","\n","$Le7","\n","$Le8","\n","$Le9","\n","$Lea","\n","$Leb","\n","$Lec","\n","$Led","\n","$Lee","\n","$Lef","\n","$Lf0","\n","$Lf1","\n","$Lf2","\n","$Lf3","\n","$Lf4","\n","$Lf5","\n","$Lf6","\n","$Lf7","\n","$Lf8","\n","$Lf9","\n","$Lfa","\n","$Lfb","\n","$Lfc","\n","$Lfd","\n","$Lfe","\n","$Lff","\n","$L100","\n","$L101","\n","$L102","\n","$L103","\n","$L104","\n","$L105","\n","$L106","\n","$L107","\n","$L108","\n","$L109","\n","$L10a","\n","$L10b","\n","$L10c","\n","$L10d","\n","$L10e","\n","$L10f","\n","$L110","\n","$L111","\n","$L112","\n","$L113","\n","$L114","\n","$L115","\n","$L116","\n","$L117","\n","$L118","\n","$L119","\n","$L11a","\n","$L11b","\n","$L11c","\n","$L11d"],"$L11e"]}]
+11f:I[76241,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"AskAIButton"]
+27:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Be an AI expert"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Have all the answers"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Fix everyone’s problems"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Convince skeptics"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Police what people do"}],"\n"]}]
+28:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+29:["$","h2",null,{"id":"workshop-structure","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Workshop Structure",["$","$L26",null,{"id":"workshop-structure"}]]}]
+2a:["$","h3",null,{"id":"recommended-format","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Recommended Format",["$","$L26",null,{"id":"recommended-format"}]]}]
+2b:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"4 sessions over 4-6 weeks"}]}]
+2c:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Session 1"}]," (90 minutes): Welcome & Design First Experiment"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Session 2"}]," (60-90 minutes): Check-in & Iteration Workshop"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Session 3"}]," (60-90 minutes): Expanding Your Practice"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Session 4"}]," (90 minutes): Reflection, Sharing & Sustaining"]}],"\n"]}]
+2d:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Between-session work:"}]," 2-4 hours per week trying experiments"]}]
+2e:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Total time commitment:"}]," ~20-25 hours over 4-6 weeks"]}]
+2f:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+30:["$","h3",null,{"id":"why-this-structure","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Why This Structure?",["$","$L26",null,{"id":"why-this-structure"}]]}]
+31:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Session 1 is longer"}]," because participants need time to:"]}]
+32:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Build trust and psychological safety"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Understand the sandbox philosophy"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Design their first experiment thoughtfully"}],"\n"]}]
+33:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Sessions 2-3 can be shorter"}]," because:"]}]
+34:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Participants already understand the process"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Much of the learning happens between sessions"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Sessions are for sharing and troubleshooting, not lecturing"}],"\n"]}]
+35:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Session 4 is longer"}]," to create space for:"]}]
+36:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Reflection on the full journey"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Sharing significant insights"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Planning for sustainability"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Closing with intention"}],"\n"]}]
+37:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+38:["$","h2",null,{"id":"adapting-this-workshop","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Adapting This Workshop",["$","$L26",null,{"id":"adapting-this-workshop"}]]}]
+39:["$","h3",null,{"id":"what-to-keep-core-elements","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["What to Keep (Core Elements)",["$","$L26",null,{"id":"what-to-keep-core-elements"}]]}]
+3a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["These are ",["$","strong",null,{"children":"non-negotiable"}]," for maintaining the sandbox philosophy:"]}]
+3b:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["✅ ",["$","strong",null,{"children":"Psychological safety"}]," - Make it safe to fail and share honestly\n✅ ",["$","strong",null,{"children":"Small experiments"}]," - No pressure to transform teaching overnight\n✅ ",["$","strong",null,{"children":"Documentation"}]," - Use the experiment template to capture observations\n✅ ",["$","strong",null,{"children":"Reflection"}]," - Regular opportunities to make meaning of experiences\n✅ ",["$","strong",null,{"children":"Peer learning"}]," - Participants learn from each other, not just from you\n✅ ",["$","strong",null,{"children":"Iteration"}]," - Experiments are starting points, not endpoints"]}]
+3c:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+3d:["$","h3",null,{"id":"what-to-customize-flexible-elements","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["What to Customize (Flexible Elements)",["$","$L26",null,{"id":"what-to-customize-flexible-elements"}]]}]
+3e:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["◯ ",["$","strong",null,{"children":"Timeline"}]," - Adjust to your academic calendar\n◯ ",["$","strong",null,{"children":"Session length"}]," - Shorten or extend based on your context\n◯ ",["$","strong",null,{"children":"Group size"}]," - Works for cohorts of 5-25 (see guidance below)\n◯ ",["$","strong",null,{"children":"Format"}]," - In-person, virtual, or hybrid\n◯ ",["$","strong",null,{"children":"Examples"}]," - Use discipline-specific examples relevant to your participants\n◯ ",["$","strong",null,{"children":"Communication style"}]," - Adapt tone and language to your institutional culture"]}]
+3f:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+40:["$","h2",null,{"id":"context-specific-adaptations","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Context-Specific Adaptations",["$","$L26",null,{"id":"context-specific-adaptations"}]]}]
+41:["$","h3",null,{"id":"timeline-variations","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Timeline Variations",["$","$L26",null,{"id":"timeline-variations"}]]}]
+42:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Intensive format"}]," (2 weeks):"]}]
+43:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"4 sessions over 2 weeks (2 sessions per week)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Between-session work: 3-5 days"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Best for:"}]," Intersession periods, faculty development weeks"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Challenge:"}]," Less time for iteration; experiments may feel rushed"]}],"\n"]}]
+44:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Standard format"}]," (4-6 weeks):"]}]
+45:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"4 sessions over 4-6 weeks (1 session per week or biweekly)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Between-session work: 1-2 weeks"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Best for:"}]," Regular semester, sustained community building"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Challenge:"}]," Maintaining momentum across longer gaps"]}],"\n"]}]
+46:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Extended format"}]," (8-10 weeks):"]}]
+47:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"4 sessions spread across a full semester"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Between-session work: 2-3 weeks"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Best for:"}]," Deep exploration, multiple iterations per experiment"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Challenge:"}]," Participants may lose continuity; need stronger between-session support"]}],"\n"]}]
+48:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+49:["$","h3",null,{"id":"group-size-considerations","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Group Size Considerations",["$","$L26",null,{"id":"group-size-considerations"}]]}]
+4a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Small groups"}]," (5-10 participants):"]}]
+4b:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Advantages:"}]," More intimate sharing, deeper discussion, easier facilitation"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Approach:"}]," Whole-group discussions, paired feedback, minimal breakouts"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Facilitation notes:"}]," You can give more individual attention; surface everyone’s voice"]}],"\n"]}]
+4c:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Medium groups"}]," (10-20 participants):"]}]
+4d:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Advantages:"}]," More diversity of experience, still manageable for connection"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Approach:"}]," Mix of whole-group and small-group activities, use breakout rooms"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Facilitation notes:"}]," Plan for structured small-group time; use breakouts strategically"]}],"\n"]}]
+4e:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Large groups"}]," (20-30+):"]}]
+4f:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Advantages:"}]," Reaches more faculty, more examples to learn from"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Approach:"}]," Use learning stations, breakout rooms, asynchronous components"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Facilitation notes:"}]," Consider co-facilitators; use async discussion boards between sessions; prioritize small-group interaction over whole-group sharing"]}],"\n"]}]
+50:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+51:["$","h3",null,{"id":"format-options","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Format Options",["$","$L26",null,{"id":"format-options"}]]}]
+52:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"In-person:"}]}]
+53:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Advantages:"}]," Easier to build trust, better for paired activities, more spontaneous discussion"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Logistics:"}]," Book accessible room with moveable furniture, whiteboards, good tech setup"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Facilitation notes:"}]," Plan for movement (standing, pairing, regrouping)"]}],"\n"]}]
+54:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Virtual (synchronous):"}]}]
+55:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Advantages:"}]," Accessible to more faculty, easier to record, flexible scheduling"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Logistics:"}]," Use breakout rooms, shared docs, polls, chat"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Facilitation notes:"}]," Plan for engagement (chat participation, visual slides, frequent breakouts); record sessions for those who miss"]}],"\n"]}]
+56:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Hybrid:"}]}]
+57:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Advantages:"}]," Flexibility for participants, accommodates different needs"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Logistics:"}]," Requires excellent tech setup (good camera, mic, screen sharing)"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Facilitation notes:"}]," Actively include remote participants; assign a co-facilitator to monitor chat/virtual room"]}],"\n"]}]
+58:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Asynchronous components:"}]}]
+59:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Use discussion boards for sharing experiments between sessions"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Post reflection prompts for participants to respond to at their own pace"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Create video walkthroughs of the experiment template"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Best for:"}]," Supporting large groups, accommodating busy schedules, extending learning between sessions"]}],"\n"]}]
+5a:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+5b:["$","h2",null,{"id":"session-by-session-facilitation-notes","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Session-by-Session Facilitation Notes",["$","$L26",null,{"id":"session-by-session-facilitation-notes"}]]}]
+5c:["$","h3",null,{"id":"session-1-welcome--design-first-experiment","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Session 1: Welcome & Design First Experiment",["$","$L26",null,{"id":"session-1-welcome--design-first-experiment"}]]}]
+5d:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Your goals:"}]}]
+5e:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Establish psychological safety"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Introduce sandbox philosophy through experience, not lecture"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Help participants design realistic first experiments"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Send them off with confidence (even if uncertain)"}],"\n"]}]
+5f:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Preparation:"}]}]
+60:["$","ul",null,{"className":"contains-task-list","children":["\n",["$","li",null,{"className":"task-list-item","children":[["$","input",null,{"type":"checkbox","disabled":true}]," ","Review participant pre-survey responses (if you collect them)"]}],"\n",["$","li",null,{"className":"task-list-item","children":[["$","input",null,{"type":"checkbox","disabled":true}]," ","Prepare 2-3 discipline-specific examples"]}],"\n",["$","li",null,{"className":"task-list-item","children":[["$","input",null,{"type":"checkbox","disabled":true}]," ","Set up physical/virtual space for paired work"]}],"\n",["$","li",null,{"className":"task-list-item","children":[["$","input",null,{"type":"checkbox","disabled":true}]," ","Print experiment templates (if in-person)"]}],"\n",["$","li",null,{"className":"task-list-item","children":[["$","input",null,{"type":"checkbox","disabled":true}]," ","Prepare opening remarks"]}],"\n"]}]
+61:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Facilitation tips:"}]}]
+62:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Opening (10-15 min):"}]}]
+63:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Welcome people individually as they arrive (names, small talk, ease in)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Share your own curiosity and uncertainty—model not having all the answers"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Explicitly name that skepticism and worry are welcome"}],"\n"]}]
+64:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Setting intentions (5-7 min):"}]}]
+65:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Give real silence for writing—don’t rush this"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Make sharing optional (call for volunteers, don’t go around the circle)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"If someone shares a concern, thank them and normalize it—don’t defend or dismiss"}],"\n"]}]
+66:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Experiment template walkthrough (20-25 min):"}]}]
+67:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Use a real example, not a hypothetical one"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Walk through each section slowly"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Point out what makes it a good sandbox experiment (small, reversible, documented)"}],"\n"]}]
+68:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Individual design time (20-25 min):"}]}]
+69:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Give structured prompts (Option A/B/C) to help people start"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Circulate and check in—answer questions, offer encouragement"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Watch for people who are stuck—offer to talk through it with them"}],"\n"]}]
+6a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Paired feedback (10-15 min):"}]}]
+6b:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Be explicit about roles (listener and designer)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Give time warnings (halfway, 2 minutes left)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Offer sentence starters for giving feedback"}],"\n"]}]
+6c:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Closing (5-10 min):"}]}]
+6d:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Emphasize that NOT trying the experiment is also data—document why"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Remind them of support available between sessions"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"End with encouragement, not pressure"}],"\n"]}]
+6e:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+6f:["$","h3",null,{"id":"session-2-experiment-check-in--iteration-workshop","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Session 2: Experiment Check-in & Iteration Workshop",["$","$L26",null,{"id":"session-2-experiment-check-in--iteration-workshop"}]]}]
+70:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Your goals:"}]}]
+71:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Normalize failure and mixed results"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Help participants reflect honestly on what happened"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Support iteration and troubleshooting"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Build confidence in the experimental process"}],"\n"]}]
+72:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Preparation:"}]}]
+73:["$","ul",null,{"className":"contains-task-list","children":["\n",["$","li",null,{"className":"task-list-item","children":[["$","input",null,{"type":"checkbox","disabled":true}]," ","Review any between-session communication or questions"]}],"\n",["$","li",null,{"className":"task-list-item","children":[["$","input",null,{"type":"checkbox","disabled":true}]," ","Prepare troubleshooting examples"]}],"\n",["$","li",null,{"className":"task-list-item","children":[["$","input",null,{"type":"checkbox","disabled":true}]," ","Set up small groups (3-4 people, mixed disciplines if possible)"]}],"\n",["$","li",null,{"className":"task-list-item","children":[["$","input",null,{"type":"checkbox","disabled":true}]," ","Have backup activities ready if most people didn’t try experiments yet"]}],"\n"]}]
+74:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Facilitation tips:"}]}]
+75:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Opening pulse check:"}]}]
+76:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Use the green/yellow/red/white framework"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Count hands for each color"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Acknowledge the distribution without judgment (“Lots of yellows and reds—that’s perfect for learning”)"}],"\n"]}]
+77:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Individual reflection time (5-7 min):"}]}]
+78:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Protect this quiet time—it’s essential for honest self-assessment"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Resist the urge to fill silence"}],"\n"]}]
+79:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Small group sharing (25-35 min):"}]}]
+7a:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Give clear time structure (7-10 min per person)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Circulate and listen—don’t intervene unless asked"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Notice themes emerging across groups"}],"\n"]}]
+7b:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Whole-group troubleshooting (20-30 min):"}]}]
+7c:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"After small groups, ask: “What challenges came up in your groups?”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Invite participants to share challenges and crowdsource solutions"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Use the “common challenges” section as a resource, but prioritize real examples from the room"}],"\n"]}]
+7d:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Iteration planning (10-15 min):"}]}]
+7e:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Give structured time for participants to decide: iterate, pivot, or pause"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Emphasize that all three options are legitimate"}],"\n"]}]
+7f:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+80:["$","h3",null,{"id":"session-3-expanding-your-practice","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Session 3: Expanding Your Practice",["$","$L26",null,{"id":"session-3-expanding-your-practice"}]]}]
+81:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Your goals:"}]}]
+82:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Deepen the questions beyond surface-level “does it work”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Address pedagogical and ethical considerations"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Support participants in designing more ambitious (but still small) experiments"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Build toward sustained inquiry"}],"\n"]}]
+83:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Preparation:"}]}]
+84:["$","ul",null,{"className":"contains-task-list","children":["\n",["$","li",null,{"className":"task-list-item","children":[["$","input",null,{"type":"checkbox","disabled":true}]," ","Review themes from previous sessions"]}],"\n",["$","li",null,{"className":"task-list-item","children":[["$","input",null,{"type":"checkbox","disabled":true}]," ","Prepare examples that illustrate deeper questions (equity, learning, values)"]}],"\n",["$","li",null,{"className":"task-list-item","children":[["$","input",null,{"type":"checkbox","disabled":true}]," ","Set up learning stations or breakouts (if using that format)"]}],"\n",["$","li",null,{"className":"task-list-item","children":[["$","input",null,{"type":"checkbox","disabled":true}]," ","Have discussion prompts ready for ethical and pedagogical questions"]}],"\n"]}]
+85:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Facilitation tips:"}]}]
+86:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Opening patterns discussion (10-15 min):"}]}]
+87:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Use a whiteboard or shared doc to capture themes"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Ask: “What patterns are you noticing across your experiments?”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Reflect themes back to the group—this builds collective knowledge"}],"\n"]}]
+88:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Deepening questions (20-25 min):"}]}]
+89:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Don’t lecture—use prompts and examples to open discussion"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Give space for disagreement and ambiguity"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Lean into questions that don’t have easy answers (equity, student learning)"}],"\n"]}]
+8a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Values reflection (5-7 min):"}]}]
+8b:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"This is personal work—protect quiet time"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Make sharing optional"}],"\n"]}]
+8c:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Second experiment design (20-25 min):"}]}]
+8d:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Participants already know the template—they need less guidance now"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Circulate and ask questions: “How does this build on what you learned?” “What’s different this time?”"}],"\n"]}]
+8e:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Peer consultation (15-20 min):"}]}]
+8f:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Use pairs or small groups"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Encourage participants to challenge each other thoughtfully"}],"\n"]}]
+90:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+91:["$","h3",null,{"id":"session-4-reflection-sharing--sustaining","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Session 4: Reflection, Sharing & Sustaining",["$","$L26",null,{"id":"session-4-reflection-sharing--sustaining"}]]}]
+92:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Your goals:"}]}]
+93:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Honor the work participants have done"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Help participants articulate their learning"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Build a plan for continued practice"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Create closure and celebrate growth"}],"\n"]}]
+94:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Preparation:"}]}]
+95:["$","ul",null,{"className":"contains-task-list","children":["\n",["$","li",null,{"className":"task-list-item","children":[["$","input",null,{"type":"checkbox","disabled":true}]," ","Decide on sharing format (showcase vs. learning stations)"]}],"\n",["$","li",null,{"className":"task-list-item","children":[["$","input",null,{"type":"checkbox","disabled":true}]," ","Prepare options for ongoing connection (check-in schedule, discussion space, etc.)"]}],"\n",["$","li",null,{"className":"task-list-item","children":[["$","input",null,{"type":"checkbox","disabled":true}]," ","Have final evaluation survey ready"]}],"\n",["$","li",null,{"className":"task-list-item","children":[["$","input",null,{"type":"checkbox","disabled":true}]," ","Bring closing ceremony energy (this matters!)"]}],"\n"]}]
+96:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Facilitation tips:"}]}]
+97:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Opening reflection (10-15 min):"}]}]
+98:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Give everyone a voice in the opening round"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Expect emotion—transformation is happening here"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Hold space for people to name growth and change"}],"\n"]}]
+99:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Individual reflection time (10-12 min):"}]}]
+9a:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"This is their documentation for future reference—give real time"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Resist rushing this section"}],"\n"]}]
+9b:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Gallery of experiments (30-40 min):"}]}]
+9c:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Choose format based on group size (showcase for small, stations for large)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Celebrate what people tried, not just what “worked”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Make space for questions and learning from each other"}],"\n"]}]
+9d:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Continuation planning (15-20 min):"}]}]
+9e:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Be concrete about what support is available"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Ask participants what they need to sustain this"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Offer options for ongoing connection—gauge interest, commit to what’s realistic"}],"\n"]}]
+9f:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Closing ceremony (10-15 min):"}]}]
+a0:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Make this meaningful—this is where you honor the journey"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Public commitments create accountability (but make them optional)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"End with gratitude and acknowledgment"}],"\n"]}]
+a1:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+a2:["$","h2",null,{"id":"facilitation-skills--mindset","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Facilitation Skills & Mindset",["$","$L26",null,{"id":"facilitation-skills--mindset"}]]}]
+a3:["$","h3",null,{"id":"creating-psychological-safety","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Creating Psychological Safety",["$","$L26",null,{"id":"creating-psychological-safety"}]]}]
+a4:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Psychological safety"}]," is the foundation of this workshop. Without it, faculty won’t share honestly, take risks, or admit when things don’t work."]}]
+a5:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"How to build it:"}]}]
+a6:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["✅ ",["$","strong",null,{"children":"Model vulnerability"}]," - Share your own uncertainties, mistakes, and questions\n✅ ",["$","strong",null,{"children":"Normalize failure"}]," - Celebrate experiments that didn’t work as valuable learning\n✅ ",["$","strong",null,{"children":"Make sharing optional"}]," - Never force people to speak; invite volunteers\n✅ ",["$","strong",null,{"children":"Respond without judgment"}]," - Thank people for sharing, especially when it’s hard\n✅ ",["$","strong",null,{"children":"Name discomfort"}]," - Acknowledge when topics are controversial or uncomfortable\n✅ ",["$","strong",null,{"children":"Protect confidentiality"}]," - What’s shared in the workshop stays in the workshop (unless someone gives permission to share)"]}]
+a7:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"What undermines it:"}]}]
+a8:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"❌ Dismissing concerns or skepticism"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"❌ Positioning yourself as the expert with all the answers"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"❌ Comparing participants’ progress to each other"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"❌ Rushing through reflection or sharing time"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"❌ Letting one person dominate discussion"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"❌ Failing to address harmful comments (e.g., dismissive remarks about students or colleagues)"}],"\n"]}]
+a9:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+aa:["$","h3",null,{"id":"asking-good-questions","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Asking Good Questions",["$","$L26",null,{"id":"asking-good-questions"}]]}]
+ab:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Your job is not to answer questions—it’s to ask them."}]}]
+ac:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Good facilitation questions:"}]}]
+ad:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"For opening up thinking:"}]}]
+ae:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"“What are you noticing?”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"“What surprised you?”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"“What’s making you curious?”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"“What would you try if you knew it would work?”"}],"\n"]}]
+af:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"For deepening reflection:"}]}]
+b0:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"“What does that tell you about…?”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"“How does this connect to what you value in your teaching?”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"“What assumptions are you holding?”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"“What would have to be true for this to work?”"}],"\n"]}]
+b1:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"For supporting peers:"}]}]
+b2:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"“What questions does this raise for you?”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"“What resonates with your experience?”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"“What would you be curious to try based on what you just heard?”"}],"\n"]}]
+b3:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"For troubleshooting:"}]}]
+b4:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"“What part of this is in your control?”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"“What would make this easier or more realistic?”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"“What’s the smallest version of this you could try?”"}],"\n"]}]
+b5:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+b6:["$","h3",null,{"id":"navigating-difficult-moments","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Navigating Difficult Moments",["$","$L26",null,{"id":"navigating-difficult-moments"}]]}]
+b7:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Challenge: Someone is very skeptical or resistant"}]}]
+b8:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"What to do:"}]}]
+b9:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Acknowledge their concerns as legitimate"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Ask: “What would need to be true for you to feel differently?” or “What worries you most?”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Emphasize that experiments are optional and reversible"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Pair them with someone who shares their concerns but is trying things anyway"}],"\n"]}]
+ba:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"What NOT to do:"}]}]
+bb:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Try to convince them or defend AI"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Dismiss their concerns as uninformed"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Force them to participate in activities they’re uncomfortable with"}],"\n"]}]
+bc:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+bd:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Challenge: Someone dominates discussion"}]}]
+be:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"What to do:"}]}]
+bf:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Use structured turn-taking (“Let’s hear from someone who hasn’t spoken yet”)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Break into smaller groups where one person can’t dominate"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Speak privately: “I appreciate your contributions—can you help me make space for quieter voices?”"}],"\n"]}]
+c0:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"What NOT to do:"}]}]
+c1:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Let it continue unchecked"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Embarrass them publicly"}],"\n"]}]
+c2:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+c3:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Challenge: Someone shares something problematic (e.g., using AI in ways that harm students)"}]}]
+c4:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"What to do:"}]}]
+c5:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Pause and name the concern: “I want to pause here—this raises some questions for me about…”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Invite the group: “What concerns does this raise for you?”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Redirect to principles: “How does this align with our principle of transparency/responsibility?”"}],"\n"]}]
+c6:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"What NOT to do:"}]}]
+c7:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Let it pass without comment (silence = endorsement)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Attack the person"}],"\n"]}]
+c8:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+c9:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Challenge: Most people didn’t try their experiments"}]}]
+ca:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"What to do:"}]}]
+cb:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Normalize it: “This is common—trying new things is hard”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Explore why: “What got in the way?”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Pivot to observation: “What did you notice in your teaching this week, even if you didn’t run the experiment?”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Refine experiments: “What would make this more doable?”"}],"\n"]}]
+cc:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"What NOT to do:"}]}]
+cd:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Guilt or shame"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Skip reflection and just move on"}],"\n"]}]
+ce:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+cf:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Challenge: The conversation gets too abstract or theoretical"}]}]
+d0:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"What to do:"}]}]
+d1:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Bring it back to practice: “What would this look like in your classroom next week?”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Ask for examples: “Can someone share a concrete example?”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Redirect to the experiment template: “How would you document this as an experiment?”"}],"\n"]}]
+d2:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+d3:["$","h2",null,{"id":"between-session-support","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Between-Session Support",["$","$L26",null,{"id":"between-session-support"}]]}]
+d4:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Your goal:"}]," Keep momentum without overwhelming participants."]}]
+d5:["$","h3",null,{"id":"communication-strategy","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Communication Strategy",["$","$L26",null,{"id":"communication-strategy"}]]}]
+d6:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"What to send:"}]}]
+d7:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Immediately after Session 1:"}]}]
+d8:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Thank you email"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Link to experiment template (digital version)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Reminder of when next session is"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Your contact info for questions"}],"\n"]}]
+d9:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Mid-week check-in (optional):"}]}]
+da:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Brief encouragement"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"One troubleshooting tip"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Reminder that they can reach out"}],"\n"]}]
+db:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Before next session (2 days):"}]}]
+dc:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Reminder of date/time/location"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"What to bring (their experiment notes)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"One reflection prompt to prepare"}],"\n"]}]
+dd:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"What NOT to do:"}]}]
+de:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Send daily emails (too much)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Make them feel guilty if they haven’t tried experiments yet"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Add new requirements or homework"}],"\n"]}]
+df:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+e0:["$","h3",null,{"id":"handling-questions-between-sessions","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Handling Questions Between Sessions",["$","$L26",null,{"id":"handling-questions-between-sessions"}]]}]
+e1:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Common questions you’ll receive:"}]}]
+e2:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"“Is this okay to try?”"}]}]
+e3:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Respond: “What do you think? What risks are you concerned about?”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Help them think through risks and mitigations, don’t just say yes or no"}],"\n"]}]
+e4:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"“I’m stuck—can you help?”"}]}]
+e5:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Respond: “Tell me more about where you’re stuck”"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Ask questions to help them problem-solve; offer to discuss by phone/video if needed"}],"\n"]}]
+e6:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"“Do I have to try the experiment before Session 2?”"}]}]
+e7:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Respond: “It’s valuable if you do, but if you don’t, we’ll use Session 2 to figure out why and refine the plan. Bring your thinking either way.”"}],"\n"]}]
+e8:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+e9:["$","h2",null,{"id":"materials--resources","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Materials & Resources",["$","$L26",null,{"id":"materials--resources"}]]}]
+ea:["$","h3",null,{"id":"what-participants-need","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["What Participants Need",["$","$L26",null,{"id":"what-participants-need"}]]}]
+eb:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Required:"}]}]
+ec:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Experiment template (digital or printed)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Access to their classes/teaching context to try experiments"}],"\n"]}]
+ed:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Optional but helpful:"}]}]
+ee:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Shared document or discussion space for async sharing"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Example experiments from past cohorts"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Readings on AI in education (keep these optional, not required)"}],"\n"]}]
+ef:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+f0:["$","h3",null,{"id":"what-you-need","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["What You Need",["$","$L26",null,{"id":"what-you-need"}]]}]
+f1:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Logistics:"}]}]
+f2:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Room booking or Zoom link"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Co-facilitator (optional but helpful for groups >15)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Whiteboard or shared doc for capturing themes"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Timer for activities"}],"\n"]}]
+f3:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Content:"}]}]
+f4:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Discipline-specific examples"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Troubleshooting scenarios"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Post-session communication templates"}],"\n"]}]
+f5:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Evaluation:"}]}]
+f6:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Pre-workshop survey (optional)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Post-session reflection prompts"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Final evaluation survey"}],"\n"]}]
+f7:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+f8:["$","h2",null,{"id":"evaluation--iteration","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Evaluation & Iteration",["$","$L26",null,{"id":"evaluation--iteration"}]]}]
+f9:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"How to know if the workshop is working:"}]}]
+fa:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["✅ ",["$","strong",null,{"children":"Participation:"}]," Are people showing up and staying engaged?\n✅ ",["$","strong",null,{"children":"Experimentation:"}]," Are people trying things, even if they fail?\n✅ ",["$","strong",null,{"children":"Honesty:"}]," Are people sharing real challenges, not just successes?\n✅ ",["$","strong",null,{"children":"Peer learning:"}]," Are participants learning from each other, not just from you?\n✅ ",["$","strong",null,{"children":"Sustained inquiry:"}]," Are people continuing to experiment after the workshop ends?"]}]
+fb:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Red flags:"}]}]
+fc:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"🚨 People stop showing up after Session 1\n🚨 No one is trying experiments\n🚨 Discussion is superficial or performative\n🚨 One person or perspective dominates\n🚨 Participants look to you for all answers"}]
+fd:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+fe:["$","h3",null,{"id":"after-each-session-reflect--adjust","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["After Each Session: Reflect & Adjust",["$","$L26",null,{"id":"after-each-session-reflect--adjust"}]]}]
+ff:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Ask yourself:"}]}]
+100:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"What went well?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"What felt off?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"What would I change next time?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"What surprised me?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Did everyone have a voice?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"What themes emerged?"}],"\n"]}]
+101:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Adjust next session based on:"}]}]
+102:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"What participants actually tried (not what you expected)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Emerging questions or concerns"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Energy level and engagement"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Time—what took longer or shorter than planned?"}],"\n"]}]
+103:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+104:["$","h2",null,{"id":"faqs-for-facilitators","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["FAQs for Facilitators",["$","$L26",null,{"id":"faqs-for-facilitators"}]]}]
+105:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Q: Do I need to be an AI expert to facilitate this workshop?"}]}]
+106:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"A:"}]," No. You need to be curious, humble, and good at facilitating peer learning. Participants will teach each other (and you) about AI."]}]
+107:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+108:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Q: What if participants ask technical questions I can’t answer?"}]}]
+109:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"A:"}]," Say “I don’t know—does anyone in the group have experience with this?” or “That’s a great question—let’s add it to our list to explore.” You’re facilitating a learning community, not delivering expert training."]}]
+10a:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+10b:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Q: What if my institution has restrictive AI policies?"}]}]
+10c:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"A:"}]," Acknowledge the constraints. Focus on experiments within policy boundaries, or frame this as “policy-compliant experimentation.” If policies are unclear, use the workshop to collectively surface questions and advocate for clearer guidance."]}]
+10d:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+10e:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Q: How do I handle participants with very different levels of AI experience?"}]}]
+10f:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"A:"}]," Pair experienced participants with novices. Position experienced users as resources, not experts. Emphasize that everyone is experimenting and learning, regardless of technical skill."]}]
+110:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+111:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Q: What if the workshop is too short/long for my context?"}]}]
+112:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"A:"}]," Adapt! See the timeline variations section above. The core is: design experiment → try it → reflect → iterate. You can compress or expand that cycle based on your constraints."]}]
+113:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+114:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Q: Can I run this workshop alone, or do I need a co-facilitator?"}]}]
+115:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"A:"}]," You can run it alone for groups up to 15. For larger groups, a co-facilitator is very helpful for managing breakouts, monitoring chat (if virtual), and providing individual support."]}]
+116:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+117:["$","h2",null,{"id":"final-thoughts-for-facilitators","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Final Thoughts for Facilitators",["$","$L26",null,{"id":"final-thoughts-for-facilitators"}]]}]
+118:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"This workshop is as much for you as it is for participants."}]," You’ll learn about AI, about your institution, about what faculty need. Stay curious. Stay humble. Trust the process."]}]
+119:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Your most important job is to create the container"}]," where people feel safe to try, fail, and share. Everything else is secondary."]}]
+11a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"You don’t need to have all the answers."}]," Model what it looks like to experiment, learn, and adjust. That’s the practice you’re teaching."]}]
+11b:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Good luck. You’ve got this."}]
+11c:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+11d:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Questions or need support?"}]," [Insert contact info for workshop developers or community]"]}]
+120:T5820,# Facilitator Guide: Running the Sandbox Workshop
+
+## About This Guide
+
+This guide is for **you, the facilitator**—the person responsible for creating the conditions where faculty can experiment safely, reflect honestly, and learn from each other.
+
+The workshop content (Sessions 1-4) is written as **live-flow material** for participants. This guide is the **meta-layer**: how to adapt, facilitate, and sustain the workshop in your specific context.
+
+---
+
+## Workshop Overview
+
+### Philosophy & Approach
+
+**This is not a training.** This is a **learning community** where faculty develop their own practice through experimentation.
+
+**Core principles:**
+- **Psychological safety** - Faculty need to feel safe trying things that might fail
+- **Peer learning** - The best insights come from each other, not the facilitator
+- **Practice-based** - Learning happens through doing, not just discussing
+- **Iterative** - Small experiments, honest reflection, continuous adjustment
+- **Contextual** - What works depends on discipline, students, and teaching style
+
+**Your role as facilitator:**
+- Create the container for safe experimentation
+- Ask good questions
+- Normalize failure as learning
+- Connect participants to each other
+- Model curiosity and humility
+
+**Not your role:**
+- Be an AI expert
+- Have all the answers
+- Fix everyone's problems
+- Convince skeptics
+- Police what people do
+
+---
+
+## Workshop Structure
+
+### Recommended Format
+
+**4 sessions over 4-6 weeks**
+
+- **Session 1** (90 minutes): Welcome & Design First Experiment
+- **Session 2** (60-90 minutes): Check-in & Iteration Workshop
+- **Session 3** (60-90 minutes): Expanding Your Practice
+- **Session 4** (90 minutes): Reflection, Sharing & Sustaining
+
+**Between-session work:** 2-4 hours per week trying experiments
+
+**Total time commitment:** ~20-25 hours over 4-6 weeks
+
+---
+
+### Why This Structure?
+
+**Session 1 is longer** because participants need time to:
+- Build trust and psychological safety
+- Understand the sandbox philosophy
+- Design their first experiment thoughtfully
+
+**Sessions 2-3 can be shorter** because:
+- Participants already understand the process
+- Much of the learning happens between sessions
+- Sessions are for sharing and troubleshooting, not lecturing
+
+**Session 4 is longer** to create space for:
+- Reflection on the full journey
+- Sharing significant insights
+- Planning for sustainability
+- Closing with intention
+
+---
+
+## Adapting This Workshop
+
+### What to Keep (Core Elements)
+
+These are **non-negotiable** for maintaining the sandbox philosophy:
+
+✅ **Psychological safety** - Make it safe to fail and share honestly
+✅ **Small experiments** - No pressure to transform teaching overnight
+✅ **Documentation** - Use the experiment template to capture observations
+✅ **Reflection** - Regular opportunities to make meaning of experiences
+✅ **Peer learning** - Participants learn from each other, not just from you
+✅ **Iteration** - Experiments are starting points, not endpoints
+
+---
+
+### What to Customize (Flexible Elements)
+
+◯ **Timeline** - Adjust to your academic calendar
+◯ **Session length** - Shorten or extend based on your context
+◯ **Group size** - Works for cohorts of 5-25 (see guidance below)
+◯ **Format** - In-person, virtual, or hybrid
+◯ **Examples** - Use discipline-specific examples relevant to your participants
+◯ **Communication style** - Adapt tone and language to your institutional culture
+
+---
+
+## Context-Specific Adaptations
+
+### Timeline Variations
+
+**Intensive format** (2 weeks):
+- 4 sessions over 2 weeks (2 sessions per week)
+- Between-session work: 3-5 days
+- **Best for:** Intersession periods, faculty development weeks
+- **Challenge:** Less time for iteration; experiments may feel rushed
+
+**Standard format** (4-6 weeks):
+- 4 sessions over 4-6 weeks (1 session per week or biweekly)
+- Between-session work: 1-2 weeks
+- **Best for:** Regular semester, sustained community building
+- **Challenge:** Maintaining momentum across longer gaps
+
+**Extended format** (8-10 weeks):
+- 4 sessions spread across a full semester
+- Between-session work: 2-3 weeks
+- **Best for:** Deep exploration, multiple iterations per experiment
+- **Challenge:** Participants may lose continuity; need stronger between-session support
+
+---
+
+### Group Size Considerations
+
+**Small groups** (5-10 participants):
+- **Advantages:** More intimate sharing, deeper discussion, easier facilitation
+- **Approach:** Whole-group discussions, paired feedback, minimal breakouts
+- **Facilitation notes:** You can give more individual attention; surface everyone's voice
+
+**Medium groups** (10-20 participants):
+- **Advantages:** More diversity of experience, still manageable for connection
+- **Approach:** Mix of whole-group and small-group activities, use breakout rooms
+- **Facilitation notes:** Plan for structured small-group time; use breakouts strategically
+
+**Large groups** (20-30+):
+- **Advantages:** Reaches more faculty, more examples to learn from
+- **Approach:** Use learning stations, breakout rooms, asynchronous components
+- **Facilitation notes:** Consider co-facilitators; use async discussion boards between sessions; prioritize small-group interaction over whole-group sharing
+
+---
+
+### Format Options
+
+**In-person:**
+- **Advantages:** Easier to build trust, better for paired activities, more spontaneous discussion
+- **Logistics:** Book accessible room with moveable furniture, whiteboards, good tech setup
+- **Facilitation notes:** Plan for movement (standing, pairing, regrouping)
+
+**Virtual (synchronous):**
+- **Advantages:** Accessible to more faculty, easier to record, flexible scheduling
+- **Logistics:** Use breakout rooms, shared docs, polls, chat
+- **Facilitation notes:** Plan for engagement (chat participation, visual slides, frequent breakouts); record sessions for those who miss
+
+**Hybrid:**
+- **Advantages:** Flexibility for participants, accommodates different needs
+- **Logistics:** Requires excellent tech setup (good camera, mic, screen sharing)
+- **Facilitation notes:** Actively include remote participants; assign a co-facilitator to monitor chat/virtual room
+
+**Asynchronous components:**
+- Use discussion boards for sharing experiments between sessions
+- Post reflection prompts for participants to respond to at their own pace
+- Create video walkthroughs of the experiment template
+- **Best for:** Supporting large groups, accommodating busy schedules, extending learning between sessions
+
+---
+
+## Session-by-Session Facilitation Notes
+
+### Session 1: Welcome & Design First Experiment
+
+**Your goals:**
+- Establish psychological safety
+- Introduce sandbox philosophy through experience, not lecture
+- Help participants design realistic first experiments
+- Send them off with confidence (even if uncertain)
+
+**Preparation:**
+- [ ] Review participant pre-survey responses (if you collect them)
+- [ ] Prepare 2-3 discipline-specific examples
+- [ ] Set up physical/virtual space for paired work
+- [ ] Print experiment templates (if in-person)
+- [ ] Prepare opening remarks
+
+**Facilitation tips:**
+
+**Opening (10-15 min):**
+- Welcome people individually as they arrive (names, small talk, ease in)
+- Share your own curiosity and uncertainty—model not having all the answers
+- Explicitly name that skepticism and worry are welcome
+
+**Setting intentions (5-7 min):**
+- Give real silence for writing—don't rush this
+- Make sharing optional (call for volunteers, don't go around the circle)
+- If someone shares a concern, thank them and normalize it—don't defend or dismiss
+
+**Experiment template walkthrough (20-25 min):**
+- Use a real example, not a hypothetical one
+- Walk through each section slowly
+- Point out what makes it a good sandbox experiment (small, reversible, documented)
+
+**Individual design time (20-25 min):**
+- Give structured prompts (Option A/B/C) to help people start
+- Circulate and check in—answer questions, offer encouragement
+- Watch for people who are stuck—offer to talk through it with them
+
+**Paired feedback (10-15 min):**
+- Be explicit about roles (listener and designer)
+- Give time warnings (halfway, 2 minutes left)
+- Offer sentence starters for giving feedback
+
+**Closing (5-10 min):**
+- Emphasize that NOT trying the experiment is also data—document why
+- Remind them of support available between sessions
+- End with encouragement, not pressure
+
+---
+
+### Session 2: Experiment Check-in & Iteration Workshop
+
+**Your goals:**
+- Normalize failure and mixed results
+- Help participants reflect honestly on what happened
+- Support iteration and troubleshooting
+- Build confidence in the experimental process
+
+**Preparation:**
+- [ ] Review any between-session communication or questions
+- [ ] Prepare troubleshooting examples
+- [ ] Set up small groups (3-4 people, mixed disciplines if possible)
+- [ ] Have backup activities ready if most people didn't try experiments yet
+
+**Facilitation tips:**
+
+**Opening pulse check:**
+- Use the green/yellow/red/white framework
+- Count hands for each color
+- Acknowledge the distribution without judgment ("Lots of yellows and reds—that's perfect for learning")
+
+**Individual reflection time (5-7 min):**
+- Protect this quiet time—it's essential for honest self-assessment
+- Resist the urge to fill silence
+
+**Small group sharing (25-35 min):**
+- Give clear time structure (7-10 min per person)
+- Circulate and listen—don't intervene unless asked
+- Notice themes emerging across groups
+
+**Whole-group troubleshooting (20-30 min):**
+- After small groups, ask: "What challenges came up in your groups?"
+- Invite participants to share challenges and crowdsource solutions
+- Use the "common challenges" section as a resource, but prioritize real examples from the room
+
+**Iteration planning (10-15 min):**
+- Give structured time for participants to decide: iterate, pivot, or pause
+- Emphasize that all three options are legitimate
+
+---
+
+### Session 3: Expanding Your Practice
+
+**Your goals:**
+- Deepen the questions beyond surface-level "does it work"
+- Address pedagogical and ethical considerations
+- Support participants in designing more ambitious (but still small) experiments
+- Build toward sustained inquiry
+
+**Preparation:**
+- [ ] Review themes from previous sessions
+- [ ] Prepare examples that illustrate deeper questions (equity, learning, values)
+- [ ] Set up learning stations or breakouts (if using that format)
+- [ ] Have discussion prompts ready for ethical and pedagogical questions
+
+**Facilitation tips:**
+
+**Opening patterns discussion (10-15 min):**
+- Use a whiteboard or shared doc to capture themes
+- Ask: "What patterns are you noticing across your experiments?"
+- Reflect themes back to the group—this builds collective knowledge
+
+**Deepening questions (20-25 min):**
+- Don't lecture—use prompts and examples to open discussion
+- Give space for disagreement and ambiguity
+- Lean into questions that don't have easy answers (equity, student learning)
+
+**Values reflection (5-7 min):**
+- This is personal work—protect quiet time
+- Make sharing optional
+
+**Second experiment design (20-25 min):**
+- Participants already know the template—they need less guidance now
+- Circulate and ask questions: "How does this build on what you learned?" "What's different this time?"
+
+**Peer consultation (15-20 min):**
+- Use pairs or small groups
+- Encourage participants to challenge each other thoughtfully
+
+---
+
+### Session 4: Reflection, Sharing & Sustaining
+
+**Your goals:**
+- Honor the work participants have done
+- Help participants articulate their learning
+- Build a plan for continued practice
+- Create closure and celebrate growth
+
+**Preparation:**
+- [ ] Decide on sharing format (showcase vs. learning stations)
+- [ ] Prepare options for ongoing connection (check-in schedule, discussion space, etc.)
+- [ ] Have final evaluation survey ready
+- [ ] Bring closing ceremony energy (this matters!)
+
+**Facilitation tips:**
+
+**Opening reflection (10-15 min):**
+- Give everyone a voice in the opening round
+- Expect emotion—transformation is happening here
+- Hold space for people to name growth and change
+
+**Individual reflection time (10-12 min):**
+- This is their documentation for future reference—give real time
+- Resist rushing this section
+
+**Gallery of experiments (30-40 min):**
+- Choose format based on group size (showcase for small, stations for large)
+- Celebrate what people tried, not just what "worked"
+- Make space for questions and learning from each other
+
+**Continuation planning (15-20 min):**
+- Be concrete about what support is available
+- Ask participants what they need to sustain this
+- Offer options for ongoing connection—gauge interest, commit to what's realistic
+
+**Closing ceremony (10-15 min):**
+- Make this meaningful—this is where you honor the journey
+- Public commitments create accountability (but make them optional)
+- End with gratitude and acknowledgment
+
+---
+
+## Facilitation Skills & Mindset
+
+### Creating Psychological Safety
+
+**Psychological safety** is the foundation of this workshop. Without it, faculty won't share honestly, take risks, or admit when things don't work.
+
+**How to build it:**
+
+✅ **Model vulnerability** - Share your own uncertainties, mistakes, and questions
+✅ **Normalize failure** - Celebrate experiments that didn't work as valuable learning
+✅ **Make sharing optional** - Never force people to speak; invite volunteers
+✅ **Respond without judgment** - Thank people for sharing, especially when it's hard
+✅ **Name discomfort** - Acknowledge when topics are controversial or uncomfortable
+✅ **Protect confidentiality** - What's shared in the workshop stays in the workshop (unless someone gives permission to share)
+
+**What undermines it:**
+
+- ❌ Dismissing concerns or skepticism
+- ❌ Positioning yourself as the expert with all the answers
+- ❌ Comparing participants' progress to each other
+- ❌ Rushing through reflection or sharing time
+- ❌ Letting one person dominate discussion
+- ❌ Failing to address harmful comments (e.g., dismissive remarks about students or colleagues)
+
+---
+
+### Asking Good Questions
+
+**Your job is not to answer questions—it's to ask them.**
+
+**Good facilitation questions:**
+
+**For opening up thinking:**
+- "What are you noticing?"
+- "What surprised you?"
+- "What's making you curious?"
+- "What would you try if you knew it would work?"
+
+**For deepening reflection:**
+- "What does that tell you about...?"
+- "How does this connect to what you value in your teaching?"
+- "What assumptions are you holding?"
+- "What would have to be true for this to work?"
+
+**For supporting peers:**
+- "What questions does this raise for you?"
+- "What resonates with your experience?"
+- "What would you be curious to try based on what you just heard?"
+
+**For troubleshooting:**
+- "What part of this is in your control?"
+- "What would make this easier or more realistic?"
+- "What's the smallest version of this you could try?"
+
+---
+
+### Navigating Difficult Moments
+
+**Challenge: Someone is very skeptical or resistant**
+
+**What to do:**
+- Acknowledge their concerns as legitimate
+- Ask: "What would need to be true for you to feel differently?" or "What worries you most?"
+- Emphasize that experiments are optional and reversible
+- Pair them with someone who shares their concerns but is trying things anyway
+
+**What NOT to do:**
+- Try to convince them or defend AI
+- Dismiss their concerns as uninformed
+- Force them to participate in activities they're uncomfortable with
+
+---
+
+**Challenge: Someone dominates discussion**
+
+**What to do:**
+- Use structured turn-taking ("Let's hear from someone who hasn't spoken yet")
+- Break into smaller groups where one person can't dominate
+- Speak privately: "I appreciate your contributions—can you help me make space for quieter voices?"
+
+**What NOT to do:**
+- Let it continue unchecked
+- Embarrass them publicly
+
+---
+
+**Challenge: Someone shares something problematic (e.g., using AI in ways that harm students)**
+
+**What to do:**
+- Pause and name the concern: "I want to pause here—this raises some questions for me about..."
+- Invite the group: "What concerns does this raise for you?"
+- Redirect to principles: "How does this align with our principle of transparency/responsibility?"
+
+**What NOT to do:**
+- Let it pass without comment (silence = endorsement)
+- Attack the person
+
+---
+
+**Challenge: Most people didn't try their experiments**
+
+**What to do:**
+- Normalize it: "This is common—trying new things is hard"
+- Explore why: "What got in the way?"
+- Pivot to observation: "What did you notice in your teaching this week, even if you didn't run the experiment?"
+- Refine experiments: "What would make this more doable?"
+
+**What NOT to do:**
+- Guilt or shame
+- Skip reflection and just move on
+
+---
+
+**Challenge: The conversation gets too abstract or theoretical**
+
+**What to do:**
+- Bring it back to practice: "What would this look like in your classroom next week?"
+- Ask for examples: "Can someone share a concrete example?"
+- Redirect to the experiment template: "How would you document this as an experiment?"
+
+---
+
+## Between-Session Support
+
+**Your goal:** Keep momentum without overwhelming participants.
+
+### Communication Strategy
+
+**What to send:**
+
+**Immediately after Session 1:**
+- Thank you email
+- Link to experiment template (digital version)
+- Reminder of when next session is
+- Your contact info for questions
+
+**Mid-week check-in (optional):**
+- Brief encouragement
+- One troubleshooting tip
+- Reminder that they can reach out
+
+**Before next session (2 days):**
+- Reminder of date/time/location
+- What to bring (their experiment notes)
+- One reflection prompt to prepare
+
+**What NOT to do:**
+- Send daily emails (too much)
+- Make them feel guilty if they haven't tried experiments yet
+- Add new requirements or homework
+
+---
+
+### Handling Questions Between Sessions
+
+**Common questions you'll receive:**
+
+**"Is this okay to try?"**
+- Respond: "What do you think? What risks are you concerned about?"
+- Help them think through risks and mitigations, don't just say yes or no
+
+**"I'm stuck—can you help?"**
+- Respond: "Tell me more about where you're stuck"
+- Ask questions to help them problem-solve; offer to discuss by phone/video if needed
+
+**"Do I have to try the experiment before Session 2?"**
+- Respond: "It's valuable if you do, but if you don't, we'll use Session 2 to figure out why and refine the plan. Bring your thinking either way."
+
+---
+
+## Materials & Resources
+
+### What Participants Need
+
+**Required:**
+- Experiment template (digital or printed)
+- Access to their classes/teaching context to try experiments
+
+**Optional but helpful:**
+- Shared document or discussion space for async sharing
+- Example experiments from past cohorts
+- Readings on AI in education (keep these optional, not required)
+
+---
+
+### What You Need
+
+**Logistics:**
+- Room booking or Zoom link
+- Co-facilitator (optional but helpful for groups >15)
+- Whiteboard or shared doc for capturing themes
+- Timer for activities
+
+**Content:**
+- Discipline-specific examples
+- Troubleshooting scenarios
+- Post-session communication templates
+
+**Evaluation:**
+- Pre-workshop survey (optional)
+- Post-session reflection prompts
+- Final evaluation survey
+
+---
+
+## Evaluation & Iteration
+
+**How to know if the workshop is working:**
+
+✅ **Participation:** Are people showing up and staying engaged?
+✅ **Experimentation:** Are people trying things, even if they fail?
+✅ **Honesty:** Are people sharing real challenges, not just successes?
+✅ **Peer learning:** Are participants learning from each other, not just from you?
+✅ **Sustained inquiry:** Are people continuing to experiment after the workshop ends?
+
+**Red flags:**
+
+🚨 People stop showing up after Session 1
+🚨 No one is trying experiments
+🚨 Discussion is superficial or performative
+🚨 One person or perspective dominates
+🚨 Participants look to you for all answers
+
+---
+
+### After Each Session: Reflect & Adjust
+
+**Ask yourself:**
+- What went well?
+- What felt off?
+- What would I change next time?
+- What surprised me?
+- Did everyone have a voice?
+- What themes emerged?
+
+**Adjust next session based on:**
+- What participants actually tried (not what you expected)
+- Emerging questions or concerns
+- Energy level and engagement
+- Time—what took longer or shorter than planned?
+
+---
+
+## FAQs for Facilitators
+
+**Q: Do I need to be an AI expert to facilitate this workshop?**
+
+**A:** No. You need to be curious, humble, and good at facilitating peer learning. Participants will teach each other (and you) about AI.
+
+---
+
+**Q: What if participants ask technical questions I can't answer?**
+
+**A:** Say "I don't know—does anyone in the group have experience with this?" or "That's a great question—let's add it to our list to explore." You're facilitating a learning community, not delivering expert training.
+
+---
+
+**Q: What if my institution has restrictive AI policies?**
+
+**A:** Acknowledge the constraints. Focus on experiments within policy boundaries, or frame this as "policy-compliant experimentation." If policies are unclear, use the workshop to collectively surface questions and advocate for clearer guidance.
+
+---
+
+**Q: How do I handle participants with very different levels of AI experience?**
+
+**A:** Pair experienced participants with novices. Position experienced users as resources, not experts. Emphasize that everyone is experimenting and learning, regardless of technical skill.
+
+---
+
+**Q: What if the workshop is too short/long for my context?**
+
+**A:** Adapt! See the timeline variations section above. The core is: design experiment → try it → reflect → iterate. You can compress or expand that cycle based on your constraints.
+
+---
+
+**Q: Can I run this workshop alone, or do I need a co-facilitator?**
+
+**A:** You can run it alone for groups up to 15. For larger groups, a co-facilitator is very helpful for managing breakouts, monitoring chat (if virtual), and providing individual support.
+
+---
+
+## Final Thoughts for Facilitators
+
+**This workshop is as much for you as it is for participants.** You'll learn about AI, about your institution, about what faculty need. Stay curious. Stay humble. Trust the process.
+
+**Your most important job is to create the container** where people feel safe to try, fail, and share. Everything else is secondary.
+
+**You don't need to have all the answers.** Model what it looks like to experiment, learn, and adjust. That's the practice you're teaching.
+
+Good luck. You've got this.
+
+---
+
+**Questions or need support?** [Insert contact info for workshop developers or community]11e:["$","$L11f",null,{"pageTitle":"Facilitator Guide: Running the Sandbox Workshop","pageContent":"$120","audienceSection":"facilitator"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+121:I[27201,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Facilitator Guide: Running the Sandbox Workshop"}],["$","meta","1",{"name":"description","content":"Documentation for Gen AI Sandbox"}],["$","link","2",{"rel":"icon","href":"/genai-sandbox-dawson/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L121","3",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"
