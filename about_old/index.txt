@@ -9,7 +9,7 @@ d:"$Sreact.suspense"
 f:I[68027,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"default"]
 :HL["/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","style"]
 :HL["/genai-sandbox-dawson/_next/static/chunks/6641b9d63c16715d.css","style"]
-0:{"P":null,"b":"fZ09AUajf-2q3HdsBPeCF","p":"/genai-sandbox-dawson","c":["","about",""],"i":false,"f":[[["",{"children":[["mdxPath","about","oc"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/6641b9d63c16715d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["mdxPath","about","oc"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/6641b9d63c16715d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+0:{"P":null,"b":"fZ09AUajf-2q3HdsBPeCF","p":"/genai-sandbox-dawson","c":["","about_old",""],"i":false,"f":[[["",{"children":[["mdxPath","about_old","oc"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/6641b9d63c16715d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["mdxPath","about_old","oc"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/6641b9d63c16715d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
 10:I[68386,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"ThemeConfigProvider"]
 11:I[6344,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"LastUpdated"]
 12:I[98091,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"Search"]
@@ -31,11 +31,116 @@ f:I[68027,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/gen
 21:I[55169,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"TOCProvider"]
 22:I[769,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"Sidebar"]
 23:I[47486,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"ClientWrapper"]
-24:I[63894,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"HeadingAnchor"]
-25:I[76241,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"AskAIButton"]
-5:["$","div",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width)","children":["$","$L21",null,{"value":[{"value":"About PIM collaboration with Concordia University Continuing Education","id":"about-pim-collaboration-with-concordia-university-continuing-education","depth":2},{"value":"About IRV.","id":"about-irv","depth":2}],"children":[["$","$L22",null,{}],["$","$L23",null,{"metadata":"$2:props:children:1:props:children:props:children:props:children:2:props:pageMap:3:frontMatter","bottomContent":"$undefined","sourceCode":"# About the GenAI Sandbox\n\n## About PIM collaboration with Concordia University Continuing Education\n\n## About IRV.\n\nYou may notice a small **“Made with IRV.”** mark in the footer. IRV. is \"inrobotvoice\" an AI agent persona designed \nto assist with maintaining the sandbox project.","children":[["$","div",null,{"id":"nextra-skip-nav"}],["$","main",null,{"data-pagefind-body":true,"children":[[["$","h1",null,{"id":"$undefined","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-bold x:mt-2 x:text-4xl","children":["About the GenAI Sandbox","$undefined"]}],"\n",["$","h2",null,{"id":"about-pim-collaboration-with-concordia-university-continuing-education","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["About PIM collaboration with Concordia University Continuing Education",["$","$L24",null,{"id":"about-pim-collaboration-with-concordia-university-continuing-education"}]]}],"\n",["$","h2",null,{"id":"about-irv","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["About IRV.",["$","$L24",null,{"id":"about-irv"}]]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["You may notice a small ",["$","strong",null,{"children":"“Made with IRV.”"}]," mark in the footer. IRV. is “inrobotvoice” an AI agent persona designed\nto assist with maintaining the sandbox project."]}]],["$","$L25",null,{"pageTitle":"About the GenAI Sandbox","pageContent":"# About the GenAI Sandbox\n\n## About PIM collaboration with Concordia University Continuing Education\n\n## About IRV.\n\nYou may notice a small **“Made with IRV.”** mark in the footer. IRV. is \"inrobotvoice\" an AI agent persona designed \nto assist with maintaining the sandbox project.","audienceSection":"general"}]]}]]}]]}]}]
+25:I[63894,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"HeadingAnchor"]
+24:T7ff,# About the GenAI Sandbox
+
+
+--
+TODO: incorporate this and the context of the PIM grant and partnership with Concordia University
+
+## Why Workshop-in-a-Box?
+
+**Turnkey:** Run as-is with minimal preparation
+
+**Experience-first:** Faculty use AI as learners before thinking about teaching applications
+
+**Practice-based:** Participants leave with ideas they generated, not generic advice
+
+**Sustainable:** Builds a method for ongoing experimentation, not one-time compliance
+
+**Flexible:** Works across disciplines, institutions, and contexts
+
+**Community-oriented:** Supports continued connection beyond the workshop
+
+
+--
+
+
+The GenAI Sandbox at Dawson is a **faculty-first program** and documentation space for exploring AI in teaching and learning. It gives educators a shared language, a consistent workflow, and a set of examples so that experiments can be small, transparent, and repeatable.
+
+## What the sandbox is
+
+- A way to **frame experiments** around clear goals, workflows, evidence, and reflection.  
+- A **library of examples** from different disciplines that you can adapt.  
+- A set of **templates and guardrails** that keep experimentation aligned with Dawson’s principles of Humanism, Responsibility, and Transparency.  
+
+The sandbox does not replace existing policies or curriculum processes; it helps you prototype ideas before they move into those channels.
+
+## Documentation sections
+
+- **Faculty documentation** – quickstart, templates, and examples for planning and running classroom experiments.  
+- **Facilitator documentation** – orientation materials for running sandbox workshops or cohorts.  
+- **Internal notes (internal build only)** – coordination playbooks and status pages used by the team maintaining this site.  
+
+You can always return to the **GenAI Sandbox** home page for an overview of how these pieces fit together.
+
+## About IRV.
+
+You may notice a small **“Made with IRV.”** mark in the footer. IRV. is "inrobotvoice" an AI agent persona designed 
+to assist with maintaining the sandbox project.5:["$","div",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width)","children":["$","$L21",null,{"value":[{"value":"Why Workshop-in-a-Box?","id":"why-workshop-in-a-box","depth":2},{"value":"What the sandbox is","id":"what-the-sandbox-is","depth":2},{"value":"Documentation sections","id":"documentation-sections","depth":2},{"value":"About IRV.","id":"about-irv","depth":2}],"children":[["$","$L22",null,{}],["$","$L23",null,{"metadata":"$2:props:children:1:props:children:props:children:props:children:2:props:pageMap:4:frontMatter","bottomContent":"$undefined","sourceCode":"$24","children":[["$","div",null,{"id":"nextra-skip-nav"}],["$","main",null,{"data-pagefind-body":true,"children":[[["$","h1",null,{"id":"$undefined","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-bold x:mt-2 x:text-4xl","children":["About the GenAI Sandbox","$undefined"]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"—\nTODO: incorporate this and the context of the PIM grant and partnership with Concordia University"}],"\n",["$","h2",null,{"id":"why-workshop-in-a-box","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Why Workshop-in-a-Box?",["$","$L25",null,{"id":"why-workshop-in-a-box"}]]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Turnkey:"}]," Run as-is with minimal preparation"]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Experience-first:"}]," Faculty use AI as learners before thinking about teaching applications"]}],"\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33"],"$L34"]}]]}]]}]}]
+35:I[76241,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"AskAIButton"]
+26:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Practice-based:"}]," Participants leave with ideas they generated, not generic advice"]}]
+27:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Sustainable:"}]," Builds a method for ongoing experimentation, not one-time compliance"]}]
+28:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Flexible:"}]," Works across disciplines, institutions, and contexts"]}]
+29:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Community-oriented:"}]," Supports continued connection beyond the workshop"]}]
+2a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"—"}]
+2b:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["The GenAI Sandbox at Dawson is a ",["$","strong",null,{"children":"faculty-first program"}]," and documentation space for exploring AI in teaching and learning. It gives educators a shared language, a consistent workflow, and a set of examples so that experiments can be small, transparent, and repeatable."]}]
+2c:["$","h2",null,{"id":"what-the-sandbox-is","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["What the sandbox is",["$","$L25",null,{"id":"what-the-sandbox-is"}]]}]
+2d:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":["A way to ",["$","strong",null,{"children":"frame experiments"}]," around clear goals, workflows, evidence, and reflection."]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":["A ",["$","strong",null,{"children":"library of examples"}]," from different disciplines that you can adapt."]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":["A set of ",["$","strong",null,{"children":"templates and guardrails"}]," that keep experimentation aligned with Dawson’s principles of Humanism, Responsibility, and Transparency."]}],"\n"]}]
+2e:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"The sandbox does not replace existing policies or curriculum processes; it helps you prototype ideas before they move into those channels."}]
+2f:["$","h2",null,{"id":"documentation-sections","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Documentation sections",["$","$L25",null,{"id":"documentation-sections"}]]}]
+30:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Faculty documentation"}]," – quickstart, templates, and examples for planning and running classroom experiments."]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Facilitator documentation"}]," – orientation materials for running sandbox workshops or cohorts."]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Internal notes (internal build only)"}]," – coordination playbooks and status pages used by the team maintaining this site."]}],"\n"]}]
+31:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["You can always return to the ",["$","strong",null,{"children":"GenAI Sandbox"}]," home page for an overview of how these pieces fit together."]}]
+32:["$","h2",null,{"id":"about-irv","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["About IRV.",["$","$L25",null,{"id":"about-irv"}]]}]
+33:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["You may notice a small ",["$","strong",null,{"children":"“Made with IRV.”"}]," mark in the footer. IRV. is “inrobotvoice” an AI agent persona designed\nto assist with maintaining the sandbox project."]}]
+36:T7ff,# About the GenAI Sandbox
+
+
+--
+TODO: incorporate this and the context of the PIM grant and partnership with Concordia University
+
+## Why Workshop-in-a-Box?
+
+**Turnkey:** Run as-is with minimal preparation
+
+**Experience-first:** Faculty use AI as learners before thinking about teaching applications
+
+**Practice-based:** Participants leave with ideas they generated, not generic advice
+
+**Sustainable:** Builds a method for ongoing experimentation, not one-time compliance
+
+**Flexible:** Works across disciplines, institutions, and contexts
+
+**Community-oriented:** Supports continued connection beyond the workshop
+
+
+--
+
+
+The GenAI Sandbox at Dawson is a **faculty-first program** and documentation space for exploring AI in teaching and learning. It gives educators a shared language, a consistent workflow, and a set of examples so that experiments can be small, transparent, and repeatable.
+
+## What the sandbox is
+
+- A way to **frame experiments** around clear goals, workflows, evidence, and reflection.  
+- A **library of examples** from different disciplines that you can adapt.  
+- A set of **templates and guardrails** that keep experimentation aligned with Dawson’s principles of Humanism, Responsibility, and Transparency.  
+
+The sandbox does not replace existing policies or curriculum processes; it helps you prototype ideas before they move into those channels.
+
+## Documentation sections
+
+- **Faculty documentation** – quickstart, templates, and examples for planning and running classroom experiments.  
+- **Facilitator documentation** – orientation materials for running sandbox workshops or cohorts.  
+- **Internal notes (internal build only)** – coordination playbooks and status pages used by the team maintaining this site.  
+
+You can always return to the **GenAI Sandbox** home page for an overview of how these pieces fit together.
+
+## About IRV.
+
+You may notice a small **“Made with IRV.”** mark in the footer. IRV. is "inrobotvoice" an AI agent persona designed 
+to assist with maintaining the sandbox project.34:["$","$L35",null,{"pageTitle":"About the GenAI Sandbox","pageContent":"$36","audienceSection":"general"}]
 b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 7:null
-26:I[27201,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"IconMark"]
-9:{"metadata":[["$","title","0",{"children":"About the GenAI Sandbox"}],["$","meta","1",{"name":"description","content":"Documentation for Gen AI Sandbox"}],["$","link","2",{"rel":"icon","href":"/genai-sandbox-dawson/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L26","3",{}]],"error":null,"digest":"$undefined"}
+37:I[27201,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"About the GenAI Sandbox"}],["$","meta","1",{"name":"description","content":"Documentation for Gen AI Sandbox"}],["$","link","2",{"rel":"icon","href":"/genai-sandbox-dawson/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L37","3",{}]],"error":null,"digest":"$undefined"}
 e:"$9:metadata"
