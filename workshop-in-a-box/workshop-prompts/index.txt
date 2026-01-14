@@ -9,7 +9,7 @@ d:"$Sreact.suspense"
 f:I[68027,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"default"]
 :HL["/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","style"]
 :HL["/genai-sandbox-dawson/_next/static/chunks/6641b9d63c16715d.css","style"]
-0:{"P":null,"b":"IRPBh8MIi5EAVrSVwwzBQ","p":"/genai-sandbox-dawson","c":["","workshop-in-a-box","workshop-prompts",""],"i":false,"f":[[["",{"children":[["mdxPath","workshop-in-a-box/workshop-prompts","oc"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/6641b9d63c16715d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["mdxPath","workshop-in-a-box/workshop-prompts","oc"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/6641b9d63c16715d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+0:{"P":null,"b":"tdn2gvOTGZg12KZPWSGsk","p":"/genai-sandbox-dawson","c":["","workshop-in-a-box","workshop-prompts",""],"i":false,"f":[[["",{"children":[["mdxPath","workshop-in-a-box/workshop-prompts","oc"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/6641b9d63c16715d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["mdxPath","workshop-in-a-box/workshop-prompts","oc"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/6641b9d63c16715d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
 10:I[68386,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"ThemeConfigProvider"]
 11:I[6344,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"LastUpdated"]
 12:I[98091,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"Search"]
@@ -33,7 +33,7 @@ f:I[68027,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/gen
 23:I[55169,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"TOCProvider"]
 24:I[769,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"Sidebar"]
 25:I[47486,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"ClientWrapper"]
-26:T4fca,import { WorkshopPrompt } from '../../src/components/WorkshopPrompt'
+26:T5045,import { WorkshopPrompt } from '../../src/components/WorkshopPrompt'
 
 # Workshop Prompts
 
@@ -199,12 +199,12 @@ Help me design a small experiment for creating:
 **[CHOOSE ONE: discussion prompts / practice problems / worked examples / assignment variations / reading comprehension questions].**
 
 Context:
-* Discipline: [YOUR DISCIPLINE]
-* Specific topic or concept:
+- Discipline: [YOUR DISCIPLINE]
+- Specific topic or concept:
   [Be specific — e.g., "photosynthesis for intro biology," not just "biology"]
-* Current challenge:
+- Current challenge:
   [What's hard about creating these materials now? Time? Variety? Quality? Accessibility?]
-* How I currently create these:
+- How I currently create these:
   [Briefly describe your current process]
 
 Design an experiment where I:
@@ -214,12 +214,13 @@ Design an experiment where I:
 4. Decide whether this approach is worth continuing
 
 For this experiment, provide:
-* The exact prompt I should use to generate materials
-* Criteria I should use to evaluate the AI-generated materials
-* Evidence I should collect (e.g., screenshots, student responses, my own annotated observations)
-* One risk to watch for, how to mitigate it, and what would prompt me to stop the experiment
+- The exact prompt I should use to generate materials
+- Criteria I should use to evaluate the AI-generated materials
+- Evidence I should collect (e.g., screenshots, student responses, my own annotated observations)
+- One risk to watch for, how to mitigate it, and what would prompt me to stop the experiment
 
-Keep the experiment small — I should be able to try this within one week.`}
+Keep the experiment small — I should be able to try this within one week.
+If anything in my context is unclear or underspecified, ask one brief clarification question before proposing an experiment.`}
 />
 
 ---
@@ -303,7 +304,7 @@ For this experiment, provide:
 
 Keep the experiment small — this should fit into one activity or class session.
 
-*If anything in my context is unclear, ask one brief clarification question before responding.*`}
+If anything in my context is unclear, ask one brief clarification question before responding.`}
 />
 
 ---
@@ -524,18 +525,18 @@ If anything is unclear or underspecified, ask at most one or two brief clarifica
 3d:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
 3e:["$","h3",null,{"id":"scenario-a-generating-teaching-materials","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Scenario A: Generating Teaching Materials",["$","$L29",null,{"id":"scenario-a-generating-teaching-materials"}]]}]
 3f:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Use this scenario if you want to explore AI support for creating prompts, examples, practice problems, or other instructional materials students directly engage with."}]
-6b:T544,I want to explore using AI to support the creation of teaching materials while maintaining quality and pedagogical soundness.
+6b:T5c1,I want to explore using AI to support the creation of teaching materials while maintaining quality and pedagogical soundness.
 
 Help me design a small experiment for creating:
 **[CHOOSE ONE: discussion prompts / practice problems / worked examples / assignment variations / reading comprehension questions].**
 
 Context:
-* Discipline: [YOUR DISCIPLINE]
-* Specific topic or concept:
+- Discipline: [YOUR DISCIPLINE]
+- Specific topic or concept:
 [Be specific — e.g., "photosynthesis for intro biology," not just "biology"]
-* Current challenge:
+- Current challenge:
 [What's hard about creating these materials now? Time? Variety? Quality? Accessibility?]
-* How I currently create these:
+- How I currently create these:
 [Briefly describe your current process]
 
 Design an experiment where I:
@@ -545,12 +546,13 @@ Design an experiment where I:
 4. Decide whether this approach is worth continuing
 
 For this experiment, provide:
-* The exact prompt I should use to generate materials
-* Criteria I should use to evaluate the AI-generated materials
-* Evidence I should collect (e.g., screenshots, student responses, my own annotated observations)
-* One risk to watch for, how to mitigate it, and what would prompt me to stop the experiment
+- The exact prompt I should use to generate materials
+- Criteria I should use to evaluate the AI-generated materials
+- Evidence I should collect (e.g., screenshots, student responses, my own annotated observations)
+- One risk to watch for, how to mitigate it, and what would prompt me to stop the experiment
 
-Keep the experiment small — I should be able to try this within one week.40:["$","$L2a",null,{"title":"📚 Scenario A: Generating Teaching Materials","description":"Design a small experiment for creating teaching materials with AI assistance and compare to your usual approach.","prompt":"$6b"}]
+Keep the experiment small — I should be able to try this within one week.
+If anything in my context is unclear or underspecified, ask one brief clarification question before proposing an experiment.40:["$","$L2a",null,{"title":"📚 Scenario A: Generating Teaching Materials","description":"Design a small experiment for creating teaching materials with AI assistance and compare to your usual approach.","prompt":"$6b"}]
 41:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
 42:["$","h3",null,{"id":"scenario-b-providing-feedback-and-assessment-support","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Scenario B: Providing Feedback and Assessment Support",["$","$L29",null,{"id":"scenario-b-providing-feedback-and-assessment-support"}]]}]
 43:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Use this if you want to explore:"}]," Using AI to identify patterns in student work, generate feedback, or streamline assessment"]}]
@@ -587,7 +589,7 @@ If anything in my context is unclear or underspecified, ask one brief clarificat
 45:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
 46:["$","h3",null,{"id":"scenario-c-supporting-student-sense-making-and-metacognition","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Scenario C: Supporting Student Sense-Making and Metacognition",["$","$L29",null,{"id":"scenario-c-supporting-student-sense-making-and-metacognition"}]]}]
 47:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Use this scenario if you want to explore AI as a thinking partner or mirror to help students clarify ideas, surface misconceptions, or reflect on their learning process without outsourcing thinking."}]
-6d:T628,I want to explore whether AI can support student sense-making or reflection in my course without replacing students' own reasoning or voice.
+6d:T626,I want to explore whether AI can support student sense-making or reflection in my course without replacing students' own reasoning or voice.
 
 Help me design a small, reversible experiment related to:
 [CHOOSE ONE: concept explanation / misconception checking / reflective writing / exam wrappers / learning journals / self-explanation prompts].
@@ -618,7 +620,7 @@ For this experiment, provide:
 
 Keep the experiment small — this should fit into one activity or class session.
 
-*If anything in my context is unclear, ask one brief clarification question before responding.*48:["$","$L2a",null,{"title":"🎯 Scenario C: Supporting Student Sense-Making & Metacognition","description":"Design an experiment for using AI to support student sense-making or reflection without replacing their own reasoning.","prompt":"$6d"}]
+If anything in my context is unclear, ask one brief clarification question before responding.48:["$","$L2a",null,{"title":"🎯 Scenario C: Supporting Student Sense-Making & Metacognition","description":"Design an experiment for using AI to support student sense-making or reflection without replacing their own reasoning.","prompt":"$6d"}]
 49:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
 4a:["$","h3",null,{"id":"scenario-d-classroom-interaction-and-discussion","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Scenario D: Classroom Interaction and Discussion",["$","$L29",null,{"id":"scenario-d-classroom-interaction-and-discussion"}]]}]
 4b:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Use this scenario if you want to explore AI as a way to reshape or enrich classroom interaction."}]
@@ -708,7 +710,7 @@ If anything in my context is unclear, ask one brief clarification question befor
 65:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"The goal is not to become an AI expert. The goal is to stay curious, try small things, and build judgment about what serves your students’ learning."}]
 66:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
 67:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"End of Workshop Prompts Document"}]}]
-71:T4fca,import { WorkshopPrompt } from '../../src/components/WorkshopPrompt'
+71:T5045,import { WorkshopPrompt } from '../../src/components/WorkshopPrompt'
 
 # Workshop Prompts
 
@@ -874,12 +876,12 @@ Help me design a small experiment for creating:
 **[CHOOSE ONE: discussion prompts / practice problems / worked examples / assignment variations / reading comprehension questions].**
 
 Context:
-* Discipline: [YOUR DISCIPLINE]
-* Specific topic or concept:
+- Discipline: [YOUR DISCIPLINE]
+- Specific topic or concept:
   [Be specific — e.g., "photosynthesis for intro biology," not just "biology"]
-* Current challenge:
+- Current challenge:
   [What's hard about creating these materials now? Time? Variety? Quality? Accessibility?]
-* How I currently create these:
+- How I currently create these:
   [Briefly describe your current process]
 
 Design an experiment where I:
@@ -889,12 +891,13 @@ Design an experiment where I:
 4. Decide whether this approach is worth continuing
 
 For this experiment, provide:
-* The exact prompt I should use to generate materials
-* Criteria I should use to evaluate the AI-generated materials
-* Evidence I should collect (e.g., screenshots, student responses, my own annotated observations)
-* One risk to watch for, how to mitigate it, and what would prompt me to stop the experiment
+- The exact prompt I should use to generate materials
+- Criteria I should use to evaluate the AI-generated materials
+- Evidence I should collect (e.g., screenshots, student responses, my own annotated observations)
+- One risk to watch for, how to mitigate it, and what would prompt me to stop the experiment
 
-Keep the experiment small — I should be able to try this within one week.`}
+Keep the experiment small — I should be able to try this within one week.
+If anything in my context is unclear or underspecified, ask one brief clarification question before proposing an experiment.`}
 />
 
 ---
@@ -978,7 +981,7 @@ For this experiment, provide:
 
 Keep the experiment small — this should fit into one activity or class session.
 
-*If anything in my context is unclear, ask one brief clarification question before responding.*`}
+If anything in my context is unclear, ask one brief clarification question before responding.`}
 />
 
 ---
