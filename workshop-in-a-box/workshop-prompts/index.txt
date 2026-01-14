@@ -6,39 +6,42 @@
 a:I[97367,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"ViewportBoundary"]
 c:I[97367,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"MetadataBoundary"]
 d:"$Sreact.suspense"
-f:I[68027,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"default"]
+f:I[68027,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"default"]
 :HL["/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","style"]
-:HL["/genai-sandbox-dawson/_next/static/chunks/fdaf0973e7be672a.css","style"]
-0:{"P":null,"b":"MsvMD7GuV5Wzf9YJGWQyI","p":"/genai-sandbox-dawson","c":["","workshop-in-a-box","workshop-prompts",""],"i":false,"f":[[["",{"children":[["mdxPath","workshop-in-a-box/workshop-prompts","oc"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/fdaf0973e7be672a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["mdxPath","workshop-in-a-box/workshop-prompts","oc"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/fdaf0973e7be672a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
-10:I[68386,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"ThemeConfigProvider"]
-11:I[6344,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"LastUpdated"]
-12:I[98091,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"Search"]
-13:I[63178,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"ThemeProvider"]
-14:I[91675,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"SkipNavLink"]
-15:I[37985,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"ConfigProvider"]
-2:["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1.0"}],["$","meta",null,{"property":"og:title","content":"Gen AI Sandbox Docs"}],["$","meta",null,{"property":"og:description","content":"Documentation for Gen AI Sandbox"}]],["$","style",null,{"children":":root {\n  --nextra-primary-hue: 212deg;\n  --nextra-primary-saturation: 100%;\n  --nextra-primary-lightness: 45%;\n  --nextra-bg: 250,250,250;\n  --nextra-content-width: 90rem;\n}\n.dark {\n  --nextra-primary-hue: 204deg;\n  --nextra-primary-saturation: 100%;\n  --nextra-primary-lightness: 55%;\n  --nextra-bg: 17,17,17;\n}\n::selection {\n  background: hsla(var(--nextra-primary-hue),var(--nextra-primary-saturation),var(--nextra-primary-lightness),.3);\n}\nhtml {\n  background: rgb(var(--nextra-bg));\n}"}],["$","meta",null,{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"rgb(250,250,250)"}],["$","meta",null,{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"rgb(17,17,17)"}],"$undefined"]}],["$","body",null,{"children":["$","$L10",null,{"value":{"copyPageButton":true,"darkMode":true,"docsRepositoryBase":"https://github.com/your-org/genai-sandbox-nextra/tree/main","editLink":"Edit this page","feedback":{"content":"Question? Give us feedback","labels":"feedback"},"i18n":[],"lastUpdated":["$","$L11",null,{}],"navigation":{"next":true,"prev":true},"search":["$","$L12",null,{}],"sidebar":{"defaultMenuCollapseLevel":2,"defaultOpen":true,"toggleButton":true},"themeSwitch":{"dark":"Dark","light":"Light","system":"System"},"toc":{"backToTop":"Scroll to top","float":true,"title":"On This Page"}},"children":["$","$L13",null,{"attribute":"class","defaultTheme":"system","disableTransitionOnChange":true,"storageKey":"theme","children":[["$","$L14",null,{}],"$undefined",["$","$L15",null,{"pageMap":[{"data":{"index":{"title":"🏠 Home"},"user":{"title":"👤 For Faculty"},"facilitator":{"title":"🎓 For Facilitators"},"workshop-in-a-box":{"title":"📦 Workshop-in-a-Box"},"about":{"title":"About"}}},{"name":"index","route":"/","frontMatter":{"title":"About the Generative AI Sandbox","filePath":"content/index.mdx","timestamp":1768340298000},"title":"🏠 Home"},{"name":"user","route":"/user","children":[{"data":{"index":{"title":"👋 Welcome"},"after-workshop":{"title":"🎓 After the Workshop"},"quickstart":{"title":"Quickstart"},"use-cases":{"title":"Use Cases"},"examples":{"title":"Examples"},"guides":{"title":"Templates & Guides"}}},{"name":"index","route":"/user","frontMatter":{"title":"For Faculty & Educators","filePath":"content/user/index.mdx","timestamp":1768238228000},"title":"👋 Welcome"},{"name":"after-workshop","route":"/user/after-workshop","frontMatter":{"title":"After the Workshop: Your Next Steps","filePath":"content/user/after-workshop.mdx","timestamp":1768238967000},"title":"🎓 After the Workshop"},{"name":"quickstart","route":"/user/quickstart","frontMatter":{"title":"GenAI Sandbox Quickstart","filePath":"content/user/quickstart.mdx","timestamp":1768238228000},"title":"Quickstart"},{"name":"use-cases","route":"/user/use-cases","frontMatter":{"title":"GenAI Sandbox – Faculty Use Case Menu","filePath":"content/user/use-cases.mdx","timestamp":1768238228000},"title":"Use Cases"},{"name":"examples","route":"/user/examples","children":[{"data":{"faculty":{"title":"Faculty Examples"},"shared":{"title":"Shared Examples"},"archive":{"title":"Archive"}}},{"name":"index","route":"/user/examples","frontMatter":{"title":"Examples","filePath":"content/user/examples/index.mdx","timestamp":1768238967000},"title":"Examples"},{"name":"faculty","route":"/user/examples/faculty","children":[{"data":{"index":{"title":"Overview"},"arduino-robotics":{"title":"Arduino Robotics Code Review"},"anthropology":{"title":"Anthropology Word-Weaving"},"industrial-design":{"title":"Industrial Design"},"physics-mcq":{"title":"Physics MCQ"},"observations":{"title":"Faculty Observations"}}},{"name":"index","route":"/user/examples/faculty","frontMatter":{"title":"Faculty Examples","filePath":"content/user/examples/faculty/index.mdx","timestamp":1768238228000},"title":"Overview"},{"name":"arduino-robotics","route":"/user/examples/faculty/arduino-robotics","children":[{"data":{"index":{"title":"Overview"},"quickstart":{"title":"Quickstart Guide"},"simulation":{"title":"Full Simulation"}}},{"name":"index","route":"/user/examples/faculty/arduino-robotics","frontMatter":{"title":"Arduino Robotics Code Review – AI-Assisted Lab Feedback","filePath":"content/user/examples/faculty/arduino-robotics/index.mdx","timestamp":1768238228000},"title":"Overview"},{"name":"quickstart","route":"/user/examples/faculty/arduino-robotics/quickstart","frontMatter":{"title":"Faculty Simulation – Physics Robotics Persona Quickstart","filePath":"content/user/examples/faculty/arduino-robotics/quickstart.mdx","timestamp":1768238228000},"title":"Quickstart Guide"},{"name":"simulation","route":"/user/examples/faculty/arduino-robotics/simulation","frontMatter":{"title":"GenAI Sandbox – Faculty Exploration Template (Arduino Robotics Code Review Simulation)","filePath":"content/user/examples/faculty/arduino-robotics/simulation.mdx","timestamp":1768238228000},"title":"Full Simulation"}],"title":"Arduino Robotics Code Review"},{"name":"anthropology","route":"/user/examples/faculty/anthropology","children":[{"data":{"index":{"title":"Overview"},"quickstart":{"title":"Quickstart Guide"},"simulation":{"title":"Full Simulation"}}},{"name":"index","route":"/user/examples/faculty/anthropology","frontMatter":{"title":"Anthropology Word-Weaving: AI as Reflective Partner","filePath":"content/user/examples/faculty/anthropology/index.mdx","timestamp":1768238228000},"title":"Overview"},{"name":"quickstart","route":"/user/examples/faculty/anthropology/quickstart","frontMatter":{"title":"Anthropology Word-Weaving: Quickstart","filePath":"content/user/examples/faculty/anthropology/quickstart.mdx","timestamp":1768238228000},"title":"Quickstart Guide"},{"name":"simulation","route":"/user/examples/faculty/anthropology/simulation","frontMatter":{"title":"Anthropology Word-Weaving: Full Simulation","filePath":"content/user/examples/faculty/anthropology/simulation.mdx","timestamp":1768238228000},"title":"Full Simulation"}],"title":"Anthropology Word-Weaving"},{"name":"industrial-design","route":"/user/examples/faculty/industrial-design","children":[{"data":{"index":{"title":"Overview"},"quickstart":{"title":"Quickstart Guide"},"simulation":{"title":"Full Simulation"}}},{"name":"index","route":"/user/examples/faculty/industrial-design","frontMatter":{"title":"Industrial Design - AI Co-Designer Workflows","filePath":"content/user/examples/faculty/industrial-design/index.mdx","timestamp":1768238228000},"title":"Overview"},{"name":"quickstart","route":"/user/examples/faculty/industrial-design/quickstart","frontMatter":{"title":"Faculty Simulation – Industrial Design Persona Quickstart","filePath":"content/user/examples/faculty/industrial-design/quickstart.mdx","timestamp":1768340298000},"title":"Quickstart Guide"},{"name":"simulation","route":"/user/examples/faculty/industrial-design/simulation","frontMatter":{"title":"GENAI Sandbox – Faculty Exploration Template (Industrial Design Simulation)","filePath":"content/user/examples/faculty/industrial-design/simulation.mdx","timestamp":1768238228000},"title":"Full Simulation"}],"title":"Industrial Design"},{"name":"physics-mcq","route":"/user/examples/faculty/physics-mcq","children":[{"data":{"index":{"title":"Overview"},"quickstart":{"title":"Quickstart Guide"},"simulation":{"title":"Full Simulation"}}},{"name":"index","route":"/user/examples/faculty/physics-mcq","frontMatter":{"title":"Physics MCQ - AI-Generated Assessment Questions","filePath":"content/user/examples/faculty/physics-mcq/index.mdx","timestamp":1768340298000},"title":"Overview"},{"name":"quickstart","route":"/user/examples/faculty/physics-mcq/quickstart","frontMatter":{"title":"Faculty Simulation – Physics Assessment Persona Quickstart","filePath":"content/user/examples/faculty/physics-mcq/quickstart.mdx","timestamp":1768238228000},"title":"Quickstart Guide"},{"name":"simulation","route":"/user/examples/faculty/physics-mcq/simulation","frontMatter":{"title":"GENAI Sandbox – Faculty Exploration Template (Physics MCQ Simulation)","filePath":"content/user/examples/faculty/physics-mcq/simulation.mdx","timestamp":1766506476000},"title":"Full Simulation"}],"title":"Physics MCQ"},{"name":"observations","route":"/user/examples/faculty/observations","frontMatter":{"title":"Observations","filePath":"content/user/examples/faculty/observations.mdx","timestamp":1768238228000},"title":"Faculty Observations"}],"title":"Faculty Examples"},{"name":"shared","route":"/user/examples/shared","children":[{"data":{"verification-log-example":{"title":"Verification Log Example"},"workflow-snapshot-example":{"title":"Workflow Snapshot Example"}}},{"name":"index","route":"/user/examples/shared","frontMatter":{"title":"Shared Examples","filePath":"content/user/examples/shared/index.mdx","timestamp":1768238228000},"title":"Shared Examples"},{"name":"verification-log-example","route":"/user/examples/shared/verification-log-example","frontMatter":{"title":"Verification Log Example – Student SPACE Project","filePath":"content/user/examples/shared/verification-log-example.mdx","timestamp":1768238967000},"title":"Verification Log Example"},{"name":"workflow-snapshot-example","route":"/user/examples/shared/workflow-snapshot-example","frontMatter":{"title":"Workflow Snapshot Example – Faculty Prototype","filePath":"content/user/examples/shared/workflow-snapshot-example.mdx","timestamp":1768238967000},"title":"Workflow Snapshot Example"}],"title":"Shared Examples"},{"name":"archive","route":"/user/examples/archive","children":[{"name":"index","route":"/user/examples/archive","frontMatter":{"title":"Examples Archive","filePath":"content/user/examples/archive/index.mdx","timestamp":1768238228000},"title":"Examples Archive"},{"name":"faculty-sim-appliedarts-2025-09-21","route":"/user/examples/archive/faculty-sim-appliedarts-2025-09-21","frontMatter":{"title":"GENAI Sandbox – Faculty Exploration Template (Applied Arts Simulation)","filePath":"content/user/examples/archive/faculty-sim-appliedarts-2025-09-21.mdx","timestamp":1768238967000},"title":"GENAI Sandbox – Faculty Exploration Template (Applied Arts Simulation)"},{"name":"faculty-sim-appliedarts-quickstart-2025-09-21","route":"/user/examples/archive/faculty-sim-appliedarts-quickstart-2025-09-21","frontMatter":{"title":"Faculty Simulation – Applied Arts Persona Quickstart","filePath":"content/user/examples/archive/faculty-sim-appliedarts-quickstart-2025-09-21.mdx","timestamp":1768238228000},"title":"Faculty Simulation – Applied Arts Persona Quickstart"},{"name":"faculty-sim-physics-2025-09-21","route":"/user/examples/archive/faculty-sim-physics-2025-09-21","frontMatter":{"title":"GENAI Sandbox – Faculty Exploration Template (Physics Simulation)","filePath":"content/user/examples/archive/faculty-sim-physics-2025-09-21.mdx","timestamp":1768238228000},"title":"GENAI Sandbox – Faculty Exploration Template (Physics Simulation)"},{"name":"faculty-sim-physics-quickstart-2025-09-21","route":"/user/examples/archive/faculty-sim-physics-quickstart-2025-09-21","frontMatter":{"title":"Faculty Simulation – Physics Persona Quickstart","filePath":"content/user/examples/archive/faculty-sim-physics-quickstart-2025-09-21.mdx","timestamp":1766506476000},"title":"Faculty Simulation – Physics Persona Quickstart"},{"name":"humanities-2024","route":"/user/examples/archive/humanities-2024","children":[{"data":{"index":{"title":"Overview"},"quickstart":{"title":"Quickstart Guide"},"simulation":{"title":"Full Simulation"}}},{"name":"index","route":"/user/examples/archive/humanities-2024","frontMatter":{"title":"Humanities - AI-Enhanced Critical Analysis","filePath":"content/user/examples/archive/humanities-2024/index.mdx","timestamp":1768238228000},"title":"Overview"},{"name":"quickstart","route":"/user/examples/archive/humanities-2024/quickstart","frontMatter":{"title":"Faculty Simulation – Humanities Persona Quickstart","filePath":"content/user/examples/archive/humanities-2024/quickstart.mdx","timestamp":1768238967000},"title":"Quickstart Guide"},{"name":"simulation","route":"/user/examples/archive/humanities-2024/simulation","frontMatter":{"title":"GENAI Sandbox – Faculty Exploration Template (Humanities Simulation)","filePath":"content/user/examples/archive/humanities-2024/simulation.mdx","timestamp":1768238228000},"title":"Full Simulation"}],"title":"Humanities 2024"}],"title":"Archive"}],"title":"Examples"},{"name":"guides","route":"/user/guides","children":[{"data":{"experiment-planner":{"title":"Experiment Planner Template"}}},{"name":"experiment-planner","route":"/user/guides/experiment-planner","frontMatter":{"title":"Experiment Planner","filePath":"content/user/guides/experiment-planner.mdx","timestamp":1768238967000},"title":"Experiment Planner Template"}],"title":"Templates & Guides"}],"title":"👤 For Faculty"},{"name":"facilitator","route":"/facilitator","children":[{"data":{"index":{"title":"👋 Welcome Facilitators"},"---":{"type":"separator","title":"Workshop Formats"},"facilitator-guide-90min":{"title":"🎯 90-Minute Workshop Guide"},"facilitator-guide-extended":{"title":"📘 Extended Series Guide"},"---2":{"type":"separator","title":"Extended Session Materials"},"session-1":{"title":"Session 1: Welcome"},"session-2":{"title":"Session 2: Check-in"},"session-3":{"title":"Session 3: Expanding"},"session-4":{"title":"Session 4: Sustaining"}}},{"name":"index","route":"/facilitator","frontMatter":{"title":"Welcome Facilitators","filePath":"content/facilitator/index.mdx","timestamp":1768238228000},"title":"👋 Welcome Facilitators"},{"name":"---","type":"separator","title":"Workshop Formats"},{"name":"facilitator-guide-90min","route":"/facilitator/facilitator-guide-90min","frontMatter":{"title":"Facilitator Guide: 90-Minute Sandbox Workshop","filePath":"content/facilitator/facilitator-guide-90min.mdx","timestamp":1768340298000},"title":"🎯 90-Minute Workshop Guide"},{"name":"facilitator-guide-extended","route":"/facilitator/facilitator-guide-extended","frontMatter":{"title":"Facilitator Guide: Running the Sandbox Workshop","filePath":"content/facilitator/facilitator-guide-extended.mdx","timestamp":1768238228000},"title":"📘 Extended Series Guide"},{"name":"---2","type":"separator","title":"Extended Session Materials"},{"name":"session-1","route":"/facilitator/session-1","frontMatter":{"title":"Session 1: Welcome to the Sandbox","filePath":"content/facilitator/session-1.mdx","timestamp":1768238228000},"title":"Session 1: Welcome"},{"name":"session-2","route":"/facilitator/session-2","frontMatter":{"title":"Session 2: Experiment Check-in & Iteration Workshop","filePath":"content/facilitator/session-2.mdx","timestamp":1768238228000},"title":"Session 2: Check-in"},{"name":"session-3","route":"/facilitator/session-3","frontMatter":{"title":"Session 3: Expanding Your Practice","filePath":"content/facilitator/session-3.mdx","timestamp":1768238228000},"title":"Session 3: Expanding"},{"name":"session-4","route":"/facilitator/session-4","frontMatter":{"title":"Session 4: Reflection, Sharing & Sustaining Your Practice","filePath":"content/facilitator/session-4.mdx","timestamp":1768238228000},"title":"Session 4: Sustaining"}],"title":"🎓 For Facilitators"},{"name":"workshop-in-a-box","route":"/workshop-in-a-box","children":[{"data":{"index":{"title":"👋 Workshop Overview"},"workshop-90min":{"title":"🎯 90-Minute Workshop"},"workshop-prompts":{"title":"💬 Workshop Prompts"}}},{"name":"index","route":"/workshop-in-a-box","frontMatter":{"title":"Workshop-in-a-Box: Faculty AI Sandbox","filePath":"content/workshop-in-a-box/index.mdx","timestamp":1768238228000},"title":"👋 Workshop Overview"},{"name":"workshop-90min","route":"/workshop-in-a-box/workshop-90min","frontMatter":{"title":"Workshop-in-a-Box: 90-Minute Faculty Sandbox","filePath":"content/workshop-in-a-box/workshop-90min.mdx","timestamp":1768340298000},"title":"🎯 90-Minute Workshop"},{"name":"workshop-prompts","route":"/workshop-in-a-box/workshop-prompts","frontMatter":{"title":"Workshop Prompts","filePath":"content/workshop-in-a-box/workshop-prompts.mdx","timestamp":1768238228000},"title":"💬 Workshop Prompts"}],"title":"📦 Workshop-in-a-Box"},{"name":"about","route":"/about","frontMatter":{"title":"About the GenAI Sandbox","filePath":"content/about.mdx","timestamp":1768340298000},"title":"About"}],"navbar":"$L16","footer":"$L17","children":["$L18","$L19"]}]]}]}]}]]}]
-1a:I[22016,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"default"]
-1b:I[43634,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"ClientNavbar"]
-1c:I[31277,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"Switchers"]
-1d:I[34924,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"LocaleSwitch"]
-1e:I[75684,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"ThemeSwitch"]
-1f:I[769,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"MobileNav"]
-16:["$","header",null,{"className":"nextra-navbar x:sticky x:top-0 x:z-30 x:w-full x:bg-transparent x:print:hidden x:max-md:[.nextra-banner:not([class$=hidden])~&]:top-(--nextra-banner-height)","children":[["$","div",null,{"className":"nextra-navbar-blur x:absolute x:-z-1 x:size-full nextra-border x:border-b x:backdrop-blur-md x:bg-nextra-bg/70"}],["$","nav",null,{"style":{"height":"var(--nextra-navbar-height)"},"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width) x:items-center x:gap-4 x:pl-[max(env(safe-area-inset-left),1.5rem)] x:pr-[max(env(safe-area-inset-right),1.5rem)] x:justify-end","children":[["$","$L1a",null,{"href":"/","className":"x:flex x:items-center x:me-auto x:transition-opacity x:focus-visible:nextra-focus x:hover:opacity-75","aria-label":"Home page","children":["$","b",null,{"children":"Generative AI Sandbox Docs"}]}],["$","$L1b",null,{"className":"","children":["$undefined","$undefined",["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":"1.5rem","marginLeft":"auto"},"children":[["$","$L1a",null,{"href":"/user","style":{"textDecoration":"none","color":"inherit","fontSize":"0.9rem","fontWeight":500},"children":"For Faculty"}],["$","$L1a",null,{"href":"/facilitator","style":{"textDecoration":"none","color":"inherit","fontSize":"0.9rem","fontWeight":500},"children":"For Facilitators"}],["$","$L1a",null,{"href":"/workshop-in-a-box","style":{"textDecoration":"none","color":"inherit","fontSize":"0.9rem","fontWeight":500},"children":"Workshop"}],["$","$L1a",null,{"href":"/about","style":{"textDecoration":"none","color":"inherit","fontSize":"0.9rem","fontWeight":500},"children":"About"}]]}]]}]]}]]}]
-17:["$","div",null,{"className":"x:bg-gray-100 x:pb-[env(safe-area-inset-bottom)] x:dark:bg-neutral-900 x:print:bg-transparent","children":[["$","$L1c",null,{"children":["$","div",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width) x:gap-2 x:py-2 x:px-4","children":[["$","$L1d",null,{}],["$","$L1e",null,{}]]}]}],["$","hr",null,{"className":"nextra-border"}],["$","footer",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width) x:justify-center x:py-12 x:text-gray-600 x:dark:text-gray-400 x:md:justify-start x:pl-[max(env(safe-area-inset-left),1.5rem)] x:pr-[max(env(safe-area-inset-right),1.5rem)]","children":["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"1rem","padding":"1.5rem 2rem 1rem","maxWidth":"1200px","margin":"0 auto","width":"100%"},"children":[["$","div",null,{"style":{"display":"flex","alignItems":"center","justifyContent":"space-between","flexWrap":"wrap","gap":"1.5rem"},"children":[["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":"1.5rem"},"children":[["$","a",null,{"href":"https://www.dawsoncollege.qc.ca/about-us","target":"_blank","rel":"noopener noreferrer","style":{"display":"flex","alignItems":"center"},"children":["$","img",null,{"src":"/genai-sandbox-dawson/Dawson_En_Logo_Full_Color_RGB.png","alt":"Dawson College","style":{"height":"45px","width":"auto"}}]}],["$","a",null,{"href":"https://pim.quebec/en/about","target":"_blank","rel":"noopener noreferrer","style":{"display":"flex","alignItems":"center"},"children":["$","img",null,{"src":"/genai-sandbox-dawson/PIM_banniere.png","alt":"Pôle interordres de Montréal","style":{"height":"45px","width":"auto"}}]}]]}],["$","div",null,{"style":{"textAlign":"right"},"children":["$","span",null,{"style":{"fontSize":"1.125rem","fontWeight":600,"opacity":0.8},"children":"Generative AI Sandbox"}]}]]}],["$","div",null,{"style":{"display":"flex","alignItems":"center","justifyContent":"space-between","paddingTop":"0.75rem","borderTop":"1px solid rgba(128, 128, 128, 0.15)","fontSize":"0.75rem","opacity":0.6},"children":[["$","span",null,{"children":["© ",2026," Dawson College · All rights reserved"]}],["$","img",null,{"src":"/genai-sandbox-dawson/IRV-logo-small.png","alt":"I.R.V.","style":{"height":"14px","width":"auto","opacity":0.7}}]]}]]}]}]]}]
-18:["$","$L1f",null,{}]
-19:["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"mx-auto max-w-3xl px-6 py-16","children":["$","div",null,{"className":"rounded-lg border border-gray-200 bg-white p-8 shadow-sm dark:border-gray-800 dark:bg-gray-900","children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-wide text-gray-500 dark:text-gray-400","children":"404"}],["$","h1",null,{"className":"mt-2 text-3xl font-bold text-gray-900 dark:text-white","children":"Page not found"}],["$","p",null,{"className":"mt-3 text-gray-600 dark:text-gray-300","children":"The page you requested does not exist or has moved. Try heading back to the docs."}],["$","div",null,{"className":"mt-6 flex flex-wrap gap-3","children":[["$","$L1a",null,{"href":"/","className":"inline-flex items-center rounded-md bg-blue-600 px-4 py-2 text-sm font-semibold text-white hover:bg-blue-700","children":"Go to home"}],["$","$L1a",null,{"href":"/user/quickstart","className":"inline-flex items-center rounded-md border border-gray-300 px-4 py-2 text-sm font-semibold text-gray-700 hover:bg-gray-50 dark:border-gray-700 dark:text-gray-200 dark:hover:bg-gray-800","children":"Browse quickstart"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
-20:I[55169,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"TOCProvider"]
-21:I[769,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"Sidebar"]
-22:I[47486,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"ClientWrapper"]
-23:T455a,# Workshop Prompts
+:HL["/genai-sandbox-dawson/_next/static/chunks/6641b9d63c16715d.css","style"]
+0:{"P":null,"b":"999krzQyqjdYSW7jHTq63","p":"/genai-sandbox-dawson","c":["","workshop-in-a-box","workshop-prompts",""],"i":false,"f":[[["",{"children":[["mdxPath","workshop-in-a-box/workshop-prompts","oc"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/6641b9d63c16715d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["mdxPath","workshop-in-a-box/workshop-prompts","oc"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/6641b9d63c16715d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+10:I[68386,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"ThemeConfigProvider"]
+11:I[6344,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"LastUpdated"]
+12:I[98091,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"Search"]
+13:I[63178,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"ThemeProvider"]
+14:I[91675,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"SkipNavLink"]
+15:I[37985,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"ConfigProvider"]
+2:["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1.0"}],["$","meta",null,{"property":"og:title","content":"Gen AI Sandbox Docs"}],["$","meta",null,{"property":"og:description","content":"Documentation for Gen AI Sandbox"}]],["$","style",null,{"children":":root {\n  --nextra-primary-hue: 212deg;\n  --nextra-primary-saturation: 100%;\n  --nextra-primary-lightness: 45%;\n  --nextra-bg: 250,250,250;\n  --nextra-content-width: 90rem;\n}\n.dark {\n  --nextra-primary-hue: 204deg;\n  --nextra-primary-saturation: 100%;\n  --nextra-primary-lightness: 55%;\n  --nextra-bg: 17,17,17;\n}\n::selection {\n  background: hsla(var(--nextra-primary-hue),var(--nextra-primary-saturation),var(--nextra-primary-lightness),.3);\n}\nhtml {\n  background: rgb(var(--nextra-bg));\n}"}],["$","meta",null,{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"rgb(250,250,250)"}],["$","meta",null,{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"rgb(17,17,17)"}],"$undefined"]}],["$","body",null,{"children":["$","$L10",null,{"value":{"copyPageButton":true,"darkMode":true,"docsRepositoryBase":"https://github.com/your-org/genai-sandbox-nextra/tree/main","editLink":"Edit this page","feedback":{"content":"Question? Give us feedback","labels":"feedback"},"i18n":[],"lastUpdated":["$","$L11",null,{}],"navigation":{"next":true,"prev":true},"search":["$","$L12",null,{}],"sidebar":{"defaultMenuCollapseLevel":2,"defaultOpen":true,"toggleButton":true},"themeSwitch":{"dark":"Dark","light":"Light","system":"System"},"toc":{"backToTop":"Scroll to top","float":true,"title":"On This Page"}},"children":["$","$L13",null,{"attribute":"class","defaultTheme":"system","disableTransitionOnChange":true,"storageKey":"theme","children":[["$","$L14",null,{}],"$undefined",["$","$L15",null,{"pageMap":[{"data":{"index":{"title":"🏠 Home"},"workshop-in-a-box":{"title":"📦 Workshop-in-a-Box"},"about":{"title":"About"}}},{"name":"index","route":"/","frontMatter":{"title":"About the Generative AI Sandbox","filePath":"content/index.mdx","timestamp":1768340298000},"title":"🏠 Home"},{"name":"workshop-in-a-box","route":"/workshop-in-a-box","children":[{"data":{"index":{"title":"👋 Workshop Overview"},"workshop-90min":{"title":"🎯 90-Minute Workshop"},"workshop-prompts":{"title":"💬 Workshop Prompts"}}},{"name":"index","route":"/workshop-in-a-box","frontMatter":{"title":"Workshop-in-a-Box","filePath":"content/workshop-in-a-box/index.mdx","timestamp":1768394679000},"title":"👋 Workshop Overview"},{"name":"workshop-90min","route":"/workshop-in-a-box/workshop-90min","frontMatter":{"title":"Workshop-in-a-Box: 90-Minute Faculty Sandbox","filePath":"content/workshop-in-a-box/workshop-90min.mdx","timestamp":1768238228000},"title":"🎯 90-Minute Workshop"},{"name":"workshop-prompts","route":"/workshop-in-a-box/workshop-prompts","frontMatter":{"title":"Workshop Prompts","filePath":"content/workshop-in-a-box/workshop-prompts.mdx","timestamp":1768394679000},"title":"💬 Workshop Prompts"}],"title":"📦 Workshop-in-a-Box"},{"name":"about","route":"/about","frontMatter":{"title":"About the GenAI Sandbox","filePath":"content/about.mdx","timestamp":1768394679000},"title":"About"},{"name":"facilitator","route":"/facilitator","frontMatter":{"title":"For Facilitators & Workshop Leaders","filePath":"content/facilitator.mdx","timestamp":1766506476000},"title":"For Facilitators & Workshop Leaders"},{"name":"user","route":"/user","frontMatter":{"title":"For Faculty & Educators","filePath":"content/user.mdx","timestamp":1768238228000},"title":"For Faculty & Educators"}],"navbar":["$","header",null,{"className":"nextra-navbar x:sticky x:top-0 x:z-30 x:w-full x:bg-transparent x:print:hidden x:max-md:[.nextra-banner:not([class$=hidden])~&]:top-(--nextra-banner-height)","children":[["$","div",null,{"className":"nextra-navbar-blur x:absolute x:-z-1 x:size-full nextra-border x:border-b x:backdrop-blur-md x:bg-nextra-bg/70"}],["$","nav",null,{"style":{"height":"var(--nextra-navbar-height)"},"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width) x:items-center x:gap-4 x:pl-[max(env(safe-area-inset-left),1.5rem)] x:pr-[max(env(safe-area-inset-right),1.5rem)] x:justify-end","children":["$L16","$L17"]}]]}],"footer":"$L18","children":["$L19","$L1a"]}]]}]}]}]]}]
+1b:I[22016,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"default"]
+1c:I[43634,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"ClientNavbar"]
+1d:I[31277,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"Switchers"]
+1e:I[34924,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"LocaleSwitch"]
+1f:I[75684,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"ThemeSwitch"]
+20:I[769,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"MobileNav"]
+16:["$","$L1b",null,{"href":"/","className":"x:flex x:items-center x:me-auto x:transition-opacity x:focus-visible:nextra-focus x:hover:opacity-75","aria-label":"Home page","children":["$","b",null,{"children":"✨ GenAI Sandbox Docs ✨"}]}]
+17:["$","$L1c",null,{"className":"","children":["$undefined","$undefined",["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":"1.5rem","marginLeft":"auto"},"children":[["$","$L1b",null,{"href":"/user","style":{"textDecoration":"none","color":"inherit","fontSize":"0.9rem","fontWeight":500},"children":"For Faculty"}],["$","$L1b",null,{"href":"/facilitator","style":{"textDecoration":"none","color":"inherit","fontSize":"0.9rem","fontWeight":500},"children":"For Facilitators"}],["$","$L1b",null,{"href":"/workshop-in-a-box","style":{"textDecoration":"none","color":"inherit","fontSize":"0.9rem","fontWeight":500},"children":"Workshop"}],["$","$L1b",null,{"href":"/about","style":{"textDecoration":"none","color":"inherit","fontSize":"0.9rem","fontWeight":500},"children":"About"}]]}]]}]
+18:["$","div",null,{"className":"x:bg-gray-100 x:pb-[env(safe-area-inset-bottom)] x:dark:bg-neutral-900 x:print:bg-transparent","children":[["$","$L1d",null,{"children":["$","div",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width) x:gap-2 x:py-2 x:px-4","children":[["$","$L1e",null,{}],["$","$L1f",null,{}]]}]}],["$","hr",null,{"className":"nextra-border"}],["$","footer",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width) x:justify-center x:py-12 x:text-gray-600 x:dark:text-gray-400 x:md:justify-start x:pl-[max(env(safe-area-inset-left),1.5rem)] x:pr-[max(env(safe-area-inset-right),1.5rem)]","children":["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"1rem","padding":"1.5rem 2rem 1rem","maxWidth":"1200px","margin":"0 auto","width":"100%"},"children":[["$","div",null,{"style":{"display":"flex","alignItems":"center","justifyContent":"space-between","flexWrap":"wrap","gap":"1.5rem"},"children":[["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":"1.5rem"},"children":[["$","a",null,{"href":"https://www.dawsoncollege.qc.ca/about-us","target":"_blank","rel":"noopener noreferrer","style":{"display":"flex","alignItems":"center"},"children":["$","img",null,{"src":"/genai-sandbox-dawson/Dawson_En_Logo_Full_Color_RGB.png","alt":"Dawson College","style":{"height":"45px","width":"auto"}}]}],["$","a",null,{"href":"https://pim.quebec/en/about","target":"_blank","rel":"noopener noreferrer","style":{"display":"flex","alignItems":"center"},"children":["$","img",null,{"src":"/genai-sandbox-dawson/PIM_banniere.png","alt":"Pôle interordres de Montréal","style":{"height":"45px","width":"auto"}}]}]]}],["$","div",null,{"style":{"textAlign":"right"},"children":["$","span",null,{"style":{"fontSize":"1.125rem","fontWeight":600,"opacity":0.8},"children":"Generative AI Sandbox"}]}]]}],["$","div",null,{"style":{"display":"flex","alignItems":"center","justifyContent":"space-between","paddingTop":"0.75rem","borderTop":"1px solid rgba(128, 128, 128, 0.15)","fontSize":"0.75rem","opacity":0.6},"children":[["$","span",null,{"children":["© ",2026," Dawson College · All rights reserved"]}],["$","img",null,{"src":"/genai-sandbox-dawson/IRV-logo-small.png","alt":"I.R.V.","style":{"height":"14px","width":"auto","opacity":0.7}}]]}]]}]}]]}]
+19:["$","$L20",null,{}]
+1a:["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"mx-auto max-w-3xl px-6 py-16","children":["$","div",null,{"className":"rounded-lg border border-gray-200 bg-white p-8 shadow-sm dark:border-gray-800 dark:bg-gray-900","children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-wide text-gray-500 dark:text-gray-400","children":"404"}],["$","h1",null,{"className":"mt-2 text-3xl font-bold text-gray-900 dark:text-white","children":"Page not found"}],["$","p",null,{"className":"mt-3 text-gray-600 dark:text-gray-300","children":"The page you requested does not exist or has moved. Try heading back to the docs."}],["$","div",null,{"className":"mt-6 flex flex-wrap gap-3","children":[["$","$L1b",null,{"href":"/","className":"inline-flex items-center rounded-md bg-blue-600 px-4 py-2 text-sm font-semibold text-white hover:bg-blue-700","children":"Go to home"}],["$","$L1b",null,{"href":"/user/quickstart","className":"inline-flex items-center rounded-md border border-gray-300 px-4 py-2 text-sm font-semibold text-gray-700 hover:bg-gray-50 dark:border-gray-700 dark:text-gray-200 dark:hover:bg-gray-800","children":"Browse quickstart"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+21:I[55169,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"TOCProvider"]
+22:I[769,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"Sidebar"]
+23:I[47486,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"ClientWrapper"]
+24:T4fca,import { WorkshopPrompt } from '../../src/components/WorkshopPrompt'
+
+# Workshop Prompts
 
 ## How to Use These Prompts
 
-All prompts below are **ready to copy and paste into ChatGPT** (or another LLM).
+All prompts below are **ready to copy and paste into ChatGPT** (or another LLM). Click "Show Prompt" to expand, then click "Copy Prompt" to copy.
 
-**For facilitators:** Use Set 1 prompts to prepare your demonstration.
+**For facilitators:** Use or modify Set 1 prompts to prepare your demonstration.
 
-**For participants:** You'll use Set 2 (hands-on activity) and Set 3 (brainstorming) during the workshop.
+**For participants:** You'll use Set 2 (hands-on activity) and Set 3 (brainstormin/design) during the workshop.
 
 ---
 
@@ -46,16 +49,18 @@ All prompts below are **ready to copy and paste into ChatGPT** (or another LLM).
 
 Choose ONE of these scenarios to demonstrate during the workshop. You can run this beforehand and show the output, or run it live.
 
-**Purpose:** Show participants what a sandbox experiment looks like - small, specific, and tied to real teaching challenges.
+**Purpose:** Show participants what a sandbox experiment looks like. It should be small, specific, and tied to real teaching challenges.
 
-**Facilitator note:** Modify these to match your audience's disciplines if running a department-specific workshop.
+**Facilitator note:** Modify these to match your audience's disciplines. E.g., if running a department-specific workshop.
 
 ---
 
 ### Scenario A: Generating Discussion Prompts (Social Sciences/Humanities)
 
-```
-I'm a college sociology instructor preparing for a class discussion on social stratification. I typically create 3-4 discussion prompts per class, but they often feel repetitive or too broad.
+<WorkshopPrompt
+  title="📝 Facilitator Demo: Discussion Prompts for Social Sciences"
+  description="Expected output: 5 discussion prompts with brief rationale. Facilitator reviews these with participants, discussing what makes them 'sandbox-appropriate' (specific, testable, reversible)."
+  prompt={`I'm a college sociology instructor preparing for a class discussion on social stratification. I typically create 3-4 discussion prompts per class, but they often feel repetitive or too broad.
 
 Help me generate 5 alternative discussion prompts for a 75-minute class on social stratification.
 
@@ -71,17 +76,17 @@ I want prompts that:
 - Are specific enough to spark debate but open enough for multiple perspectives
 - Connect theory to students' lived experiences
 - Encourage students to analyze rather than just describe
-- Can be answered in 10-15 minutes of small group discussion
-```
-
-**Expected output:** 5 discussion prompts with brief rationale. Facilitator reviews these with participants, discussing what makes them "sandbox-appropriate" (specific, testable, reversible).
+- Can be answered in 10-15 minutes of small group discussion`}
+/>
 
 ---
 
 ### Scenario B: Creating Scaffolded Practice Problems (STEM)
 
-```
-I teach introductory calculus at a community college. Many of my students struggle with the concept of limits - they can follow my examples but freeze when trying problems on their own.
+<WorkshopPrompt
+  title="📐 Facilitator Demo: Scaffolded Practice Problems for STEM"
+  description="Expected output: 4 scaffolded problems with hints and progression notes. Facilitator highlights how this could be used as a small experiment: 'Try this sequence in one section, compare to your usual problems in another section.'"
+  prompt={`I teach introductory calculus at the college level. Many of my students struggle with the concept of limits. They can follow my examples but freeze when trying problems on their own.
 
 Help me create a scaffolded sequence of 4 practice problems on limits that gradually increase in difficulty.
 
@@ -96,17 +101,17 @@ For each problem:
 2. Indicate what new challenge this problem introduces compared to the previous one
 3. Suggest one hint I could give if students get stuck
 
-The first problem should be very straightforward. The fourth should be challenging but still solvable with the techniques we've covered.
-```
-
-**Expected output:** 4 scaffolded problems with hints and progression notes. Facilitator highlights how this could be used as a small experiment: "Try this sequence in one section, compare to your usual problems in another section."
+The first problem should be very straightforward. The fourth should be challenging but still solvable with the techniques we've covered.`}
+/>
 
 ---
 
 ### Scenario C: Designing Low-Stakes Reflection Prompts (Any Discipline)
 
-```
-I teach a professional writing course and want to incorporate more reflective practice without adding to my grading load. I'm interested in using short reflection prompts at the end of each class.
+<WorkshopPrompt
+  title="💭 Facilitator Demo: Reflection Prompts for Any Discipline"
+  description="Expected output: 5 varied reflection prompts with implementation suggestions. Facilitator emphasizes documentation: 'You'd want to note which prompts generated the most thoughtful responses.'"
+  prompt={`I teach a professional writing course and want to incorporate more reflective practice without adding to my grading load. I'm interested in using short reflection prompts at the end of each class.
 
 Help me create 5 different one-minute reflection prompts that encourage students to think about their learning process without requiring extensive written responses.
 
@@ -122,10 +127,8 @@ For each prompt:
 2. Explain what aspect of learning this prompt targets (skill development, process awareness, confidence, etc.)
 3. Suggest how students might respond (whole class artifact, quick write, think-pair-share, etc.)
 
-Keep prompts simple, specific, and genuinely useful for students to think about their progress.
-```
-
-**Expected output:** 5 varied reflection prompts with implementation suggestions. Facilitator emphasizes documentation: "You'd want to note which prompts generated the most thoughtful responses."
+Keep prompts simple, specific, and genuinely useful for students to think about their progress.`}
+/>
 
 ---
 
@@ -139,38 +142,35 @@ Keep prompts simple, specific, and genuinely useful for students to think about 
 
 ### Activity: Brainstorm Your Own Teaching Challenge
 
-```
-I'm a college instructor exploring how AI might support my teaching. I want to brainstorm small, reversible experiments I could try in my course.
+<WorkshopPrompt
+  title="✨ Participant Activity: Brainstorm Your Own Experiments"
+  description="Fill in your context, copy to ChatGPT, review ideas, pick ONE, and be ready to share. Time: 10-15 minutes."
+  prompt={`I'm a college instructor exploring whether and how AI might support my teaching. I want to design small, reversible experiments I could try in my course.
 
-Help me generate 5 potential "sandbox experiments" - small, low-risk ways to experiment with AI in teaching.
+Help me generate 5 potential sandbox experiments: small, low-risk trials I can run, observe carefully, and then decide whether to keep, revise, or discard.
 
 Context about my teaching:
 - Discipline: [INSERT YOUR DISCIPLINE OR SUBJECT AREA]
-- Course level: [e.g., first-year intro, upper-level specialized, graduate, mixed]
-- One thing that feels stuck, repetitive, or challenging in my teaching: [INSERT YOUR CHALLENGE - be specific]
-- What I value most in teaching: [e.g., deep discussion, student agency, conceptual understanding, practical skills, etc.]
+- Course level: [e.g., first-year intro]
+- One thing that feels stuck, repetitive, or challenging in my teaching or in my students' learning (e.g., misconceptions, feedback cycles, engagement, transfer of skills):
+  [INSERT YOUR CHALLENGE – be specific]
+- What I value most in teaching:
+  [e.g., deep discussion, student agency, conceptual understanding, practical skills, etc.]
 
 For each experiment idea:
-1. Give it a clear, specific title (not generic like "Use AI for feedback")
-2. Describe exactly what I would do (1-2 sentences)
-3. Explain what I would learn from trying this (what question would this answer?)
-4. Note one potential risk or concern to watch for
+- Give it a clear, specific title (avoid generic labels like "Use AI for feedback")
+- Describe exactly what I would do (1–2 sentences)
+- Explain what I would learn from trying this (what question does this experiment help answer?)
+- Note one potential risk or concern to watch for (a signal the experiment may need adjustment or stopping early)
 
 I want experiments that are:
 - Small enough to try in one or two class sessions
 - Reversible (I can stop if it's not working)
 - Focused on student learning, not just saving me time
-- Aligned with my teaching values
-```
+- Aligned with my pedagogical values
 
-**What to do:**
-1. Fill in your context (discipline, course level, challenge, values)
-2. Copy the full prompt into ChatGPT
-3. Review the 5 experiment ideas
-4. Pick ONE that feels most relevant to you
-5. Be ready to share in small groups
-
-**Time for this activity:** 10-15 minutes
+If anything is unclear or underspecified, ask at most one or two brief clarification questions before proposing experiments.`}
+/>
 
 ---
 
@@ -186,33 +186,39 @@ I want experiments that are:
 
 ### Scenario A: Generating Teaching Materials
 
-**Use this if you want to explore:** Creating prompts, examples, practice problems, or other instructional content
+Use this scenario if you want to explore AI support for creating prompts, examples, practice problems, or other instructional materials students directly engage with.
 
-```
-I want to explore using AI to help me generate teaching materials more efficiently while maintaining quality and pedagogical soundness.
+<WorkshopPrompt
+  title="📚 Scenario A: Generating Teaching Materials"
+  description="Design a small experiment for creating teaching materials with AI assistance and compare to your usual approach."
+  prompt={`I want to explore using AI to support the creation of teaching materials while maintaining quality and pedagogical soundness.
 
-Help me design a small experiment for creating [CHOOSE ONE: discussion prompts / practice problems / worked examples / assignment variations / reading comprehension questions].
+Help me design a small experiment for creating:
+**[CHOOSE ONE: discussion prompts / practice problems / worked examples / assignment variations / reading comprehension questions].**
 
 Context:
-- Discipline: [YOUR DISCIPLINE]
-- Specific topic or concept: [BE SPECIFIC - e.g., "photosynthesis for intro biology" not just "biology"]
-- Current challenge: [What's hard about creating these materials now? Time? Variety? Quality? Accessibility?]
-- How I currently create these: [Your current process]
+* Discipline: [YOUR DISCIPLINE]
+* Specific topic or concept:
+  [Be specific — e.g., "photosynthesis for intro biology," not just "biology"]
+* Current challenge:
+  [What's hard about creating these materials now? Time? Variety? Quality? Accessibility?]
+* How I currently create these:
+  [Briefly describe your current process]
 
 Design an experiment where I:
 1. Create materials using AI assistance
-2. Compare them to my usual approach
+2. Compare them to my usual approach using criteria I already care about (e.g., clarity, alignment, level, accessibility)
 3. Document what's better, worse, or different
-4. Decide if this is worth continuing
+4. Decide whether this approach is worth continuing
 
 For this experiment, provide:
-- The specific prompt I should use to generate materials (write it out exactly)
-- What criteria I should use to evaluate the AI-generated materials
-- What evidence I should collect (screenshots, student responses, my own observations)
-- One risk to watch for and how to mitigate it
+* The exact prompt I should use to generate materials
+* Criteria I should use to evaluate the AI-generated materials
+* Evidence I should collect (e.g., screenshots, student responses, my own annotated observations)
+* One risk to watch for, how to mitigate it, and what would prompt me to stop the experiment
 
-Keep the experiment small - I should be able to try this in one week.
-```
+Keep the experiment small — I should be able to try this within one week.`}
+/>
 
 ---
 
@@ -220,130 +226,165 @@ Keep the experiment small - I should be able to try this in one week.
 
 **Use this if you want to explore:** Using AI to identify patterns in student work, generate feedback, or streamline assessment
 
-```
-I want to explore using AI to help me provide better or more efficient feedback to students.
+<WorkshopPrompt
+  title="✍️ Scenario B: Providing Feedback and Assessment Support"
+  description="Design a small experiment for using AI to support aspects of feedback or assessment without replacing your judgment."
+  prompt={`I want to explore whether AI can support aspects of feedback or assessment in my course without replacing my judgment or diluting learning.
 
-Help me design a small experiment for [CHOOSE ONE: identifying common misconceptions / generating personalized feedback / creating rubrics / spotting patterns in student errors / providing revision suggestions].
+Help me design a small, reversible experiment related to: [CHOOSE ONE: formative feedback on drafts / feedback on problem-solving processes / rubric interpretation / exemplars and commentary / self- or peer-feedback scaffolds].
 
 Context:
-- Discipline: [YOUR DISCIPLINE]
-- Type of student work: [e.g., short essays, problem sets, lab reports, discussion posts, presentations]
-- Current challenge: [What's hard about feedback now? Volume? Consistency? Depth? Timeliness?]
-- What good feedback looks like in my discipline: [Be specific - what do students need to hear?]
+
+Discipline: [YOUR DISCIPLINE]
+- Course level: [intro / intermediate / advanced]
+- Type of task or assessment: [e.g., lab report, essay draft, problem set, presentation]
+- Current challenge: [What feels difficult or stuck right now? Time, consistency, student uptake, depth of feedback, etc.]
+- How feedback or assessment currently works: [Briefly describe your current approach]
 
 Design an experiment where I:
-1. Use AI to assist with feedback on a small sample of student work (5-10 samples)
-2. Compare AI-assisted feedback to my usual feedback
-3. Consider student learning impact (not just my time savings)
-4. Decide what role, if any, AI should play
+
+1. Use AI in a clearly bounded role to support feedback or assessment-related work
+2. Compare the experience and outcomes to my usual approach
+3. Observe how students interpret and act on the feedback
+4. Decide whether this approach supports learning well enough to continue
 
 For this experiment, provide:
-- The specific prompt I should use (include what information about students/assignment I should give the AI)
-- How to ensure feedback remains pedagogically sound and discipline-appropriate
-- What evidence I should collect to evaluate whether this experiment is successful
-- Ethical considerations: What should I tell students? What should I NOT rely on AI for?
 
-Keep the experiment small - I should be able to try this with one assignment.
-```
+- The exact prompt I should use (including guardrails or instructions to the AI)
+- A clear description of what the AI does and does not do
+- Criteria I should use to judge the quality and usefulness of the feedback
+- Evidence I should collect (e.g., samples of feedback, student revisions, my own observations)
+- One risk to watch for, how to mitigate it, and what would prompt me to stop the experiment
+
+Keep the experiment small — I should be able to try this with a single assignment, draft, or class session.
+
+If anything in my context is unclear or underspecified, ask one brief clarification question before proposing an experiment.`}
+/>
 
 ---
 
-### Scenario C: Scaffolding and Supporting Struggling Students
+### Scenario C: Supporting Student Sense-Making and Metacognition
 
-**Use this if you want to explore:** Creating differentiated materials, additional support resources, or adaptive scaffolding
+Use this scenario if you want to explore AI as a thinking partner or mirror to help students clarify ideas, surface misconceptions, or reflect on their learning process without outsourcing thinking.
 
-```
-I want to explore using AI to better support students who are struggling with course concepts.
+<WorkshopPrompt
+  title="🎯 Scenario C: Supporting Student Sense-Making & Metacognition"
+  description="Design an experiment for using AI to support student sense-making or reflection without replacing their own reasoning."
+  prompt={`I want to explore whether AI can support student sense-making or reflection in my course without replacing students' own reasoning or voice.
 
-Help me design a small experiment for [CHOOSE ONE: creating simplified explanations / generating additional practice / building concept maps / providing just-in-time hints / differentiating materials for different skill levels].
+Help me design a small, reversible experiment related to:
+[CHOOSE ONE: concept explanation / misconception checking / reflective writing / exam wrappers / learning journals / self-explanation prompts].
 
 Context:
-- Discipline: [YOUR DISCIPLINE]
-- Specific concept students struggle with: [BE SPECIFIC]
-- What makes this concept hard: [Abstraction? Prerequisites? Terminology? Application?]
-- What I currently do to support struggling students: [Your current approach]
-- What I wish I had time/capacity to do: [Your ideal support]
+
+ Discipline: [YOUR DISCIPLINE]
+- Course level: [intro, etc.]
+- Type of learning activity: [e.g., in-class discussion, homework, reflection, review activity]
+- Current challenge:
+  [What's difficult right now? Superficial understanding, poor transfer, lack of reflection, overconfidence, etc.]
+- How students currently approach this task:
+  [Brief description]
 
 Design an experiment where I:
-1. Use AI to create scaffolding or support materials
-2. Try them with a small group of students who need extra help
-3. Observe whether students can use these materials productively
-4. Decide if this approach helps without creating dependency
+1. Introduce AI as a *bounded support* for sense-making or reflection
+2. Make the AI's role explicit to students (what it can and cannot do)
+3. Observe how students use, resist, or reinterpret the AI's input
+4. Decide whether this approach meaningfully supports learning
 
 For this experiment, provide:
-- The specific prompt I should use to generate support materials
-- How to test whether materials actually help students understand (not just complete the work)
-- What evidence I should collect (student work, confidence, follow-up performance)
-- One major risk: How do I ensure students are still doing the cognitive work, not just consuming AI-generated content?
 
-Keep the experiment small - I should be able to try this with 3-5 students over one week.
-```
+* The exact prompt students would use with the AI
+* Clear instructions I would give students about how to use (and not use) the AI
+* What I would look for to tell whether sense-making has improved
+* Evidence I should collect (student work samples, reflections, observations)
+* One risk to watch for, how to mitigate it, and what would prompt me to stop
+
+Keep the experiment small — this should fit into one activity or class session.
+
+*If anything in my context is unclear, ask one brief clarification question before responding.*`}
+/>
 
 ---
 
-### Scenario D: Brainstorming Assignment Design or Course Improvements
+### Scenario D: Classroom Interaction and Discussion
 
-**Use this if you want to explore:** Redesigning assignments, generating new activity ideas, or refreshing course structure
+Use this scenario if you want to explore AI as a way to reshape or enrich classroom interaction.
 
-```
-I want to use AI as a brainstorming partner to improve an assignment or activity that isn't working well.
+<WorkshopPrompt
+  title="💡 Scenario D: Classroom Interaction & Discussion"
+  description="Design an experiment for using AI to support richer classroom interaction or discussion without flattening voices or short-circuiting debate."
+  prompt={`I want to explore whether AI can support richer classroom interaction or discussion *without flattening voices or short-circuiting debate*.
 
-Help me redesign [CHOOSE ONE: a writing assignment / a group project / a lab activity / a discussion activity / a problem set / an assessment].
+Help me design a small, reversible experiment related to:
+[CHOOSE ONE: discussion preparation / debate framing / question generation / perspective-taking / case analysis / synthesis activities].
 
 Context:
 - Discipline: [YOUR DISCIPLINE]
-- Current assignment/activity: [Describe what students currently do - be specific]
-- What's not working: [Student engagement? Learning outcomes? Clarity? Authenticity? Too easy/hard?]
-- What I want students to learn or practice: [Learning objective - be specific]
-- Constraints I need to maintain: [Time, resources, class size, etc.]
+- Course level: [intro / intermediate / advanced]
+- Type of class session: [lecture, seminar, lab, workshop]
+- Current challenge:
+  [What feels stuck? Low participation, predictable responses, surface discussion, uneven voices, etc.]
+- How discussion currently works:
+  [Brief description]
 
 Design an experiment where I:
-1. Use AI to generate 3-5 alternative versions or significant modifications
-2. Select one to pilot in the next offering of this course
-3. Compare student work/engagement/learning to the original version
-4. Decide what to keep, modify, or discard
+1. Use AI before, during, or after class in a clearly defined role
+2. Make the AI's contribution transparent to students
+3. Observe how the quality and dynamics of discussion change
+4. Decide whether this approach supports the kind of interaction I value
 
 For this experiment, provide:
-- The specific prompt I should use to generate alternatives (include what context the AI needs)
-- What criteria I should use to evaluate whether alternatives are actually better (not just different)
-- How to pilot test this without risking student learning (try in one section? optional version? small group?)
-- What evidence I should collect to make an informed decision
+- The exact prompt I would use (or give to students)
+- How AI input would be positioned (pre-work, catalyst, contrast, synthesis)
+- Criteria I should use to judge discussion quality
+- Evidence I should collect (notes, recordings, student feedback, my own reflections)
+- One risk to watch for, how to mitigate it, and what would prompt me to stop
 
-Keep the experiment small - I should be able to pilot one alternative in the next 2-4 weeks.
-```
+Keep the experiment small — one class session is enough.
+
+If anything in my context is unclear, ask one brief clarification question before responding.`}
+/>
 
 ---
 
-### Scenario E: Student-Facing AI Use (Teaching Students to Use AI Critically)
+### Scenario E: Explicit Expectations and Academic Integrity
 
-**Use this if you want to explore:** Having students use AI as a tool, then teaching them to evaluate and improve outputs
+**Use this if you want to explore:** Making AI use expectations explicit and discussable to improve academic integrity and student decision-making
 
-```
-I want to design an activity where students USE AI as part of their learning, then critically evaluate what it produces.
+<WorkshopPrompt
+  title="🎓 Scenario E: Explicit Expectations and Academic Integrity"
+  description="Design an experiment for making AI use expectations explicit to improve clarity and trust with students."
+  prompt={`I want to explore whether making expectations about AI use explicit and discussable can improve academic integrity and student decision-making in my course.
 
-Help me design a student-facing activity where students [CHOOSE ONE: critique AI-generated content in my discipline / use AI to generate a draft then revise it / compare AI outputs to expert/peer work / identify errors or limitations in AI responses].
+Help me design a small, reversible experiment related to:
+[CHOOSE ONE: AI use statements / assignment-specific boundaries / citation & disclosure practices / student decision logs / integrity discussions].
 
 Context:
 - Discipline: [YOUR DISCIPLINE]
-- What makes something "good" or "accurate" in my field: [Discipline-specific quality markers]
-- Learning goal: [What should students learn by doing this? Critical evaluation? Revision skills? Domain knowledge?]
-- Student skill level: [Are they novices or do they have disciplinary expertise?]
-- How much time in class: [One class period? Homework? Multi-week project?]
+- Course level: [intro / intermediate / advanced]
+- Type of assignment or activity: [e.g., essay, problem set, lab report, project]
+- Current concern or tension:
+  [What feels unclear or fragile right now? Confusion about rules, inconsistent use, fear of misuse, avoidance, etc.]
+- How integrity is currently communicated:
+  [Syllabus language, verbal reminders, policies, honor code, etc.]
 
-Design an experiment where students:
-1. Use AI to generate something discipline-specific (a solution, argument, analysis, design, etc.)
-2. Evaluate what the AI produced using discipline-appropriate criteria
-3. Revise, correct, or improve the AI output
-4. Reflect on what they learned about the discipline (not just about AI)
+Design an experiment where I:
+1. Make expectations about AI use explicit and visible to students
+2. Create space for students to reason about why boundaries exist
+3. Observe how students interpret and act on these expectations
+4. Decide whether this approach improves clarity and trust
 
 For this experiment, provide:
-- The exact prompt students should give to AI (written so students can copy/paste)
-- The evaluation rubric or criteria students should use to assess AI output
-- What I should emphasize to students about citing AI, learning vs. outsourcing, and academic integrity
-- What evidence I should collect to know if students actually learned disciplinary skills (not just how to use AI)
+- The exact language or prompt I would share with students
+- How I would introduce or frame this conversation or activity
+- What signals would indicate improved understanding or integrity
+- Evidence I should collect (student questions, disclosures, reflections, my own observations)
+- One risk to watch for, how to mitigate it, and what would prompt me to stop
 
-Keep the experiment small - this should be completable in 1-2 class periods or one homework assignment.
-```
+Keep the experiment small. This should fit within a single assignment or class discussion.
+
+If anything in my context is unclear, ask one brief clarification question before responding.`}
+/>
 
 ---
 
@@ -372,18 +413,18 @@ Keep the experiment small - this should be completable in 1-2 class periods or o
 
 **For department-specific workshops:**
 
-If your workshop focuses on a specific goal (e.g., "all math faculty exploring problem generation"), you can:
+If your workshop focuses on a specific goal (e.g., "all physics faculty exploring problem generation"), you can:
 - Narrow Set 3 to 2-3 relevant scenarios instead of 5
 - Make prompts less generic by pre-filling discipline and context
 - Add department-specific evaluation criteria
 
 **Example adaptation for narrower focus:**
 
-> *Math Department Workshop: Multiple Choice Questions for Remediation*
+> *Physics Department Workshop: Multiple Choice Questions for Remediation*
 >
 > Replace Set 3 with ONE prompt:
 >
-> "I teach [MATH COURSE]. I want to create a bank of multiple-choice questions that help students identify and address their misconceptions in [SPECIFIC TOPIC].
+> "I teach [PHYS COURSE]. I want to create a bank of multiple-choice questions that help students identify and address their misconceptions in [SPECIFIC TOPIC].
 >
 > Help me design 5 MCQs where:
 > - Each incorrect answer represents a common student error or misconception
@@ -398,19 +439,14 @@ Keep all 5 scenarios in Set 3 and let participants choose based on their interes
 
 ---
 
-## After the Workshop: What Participants Should Do
+## After the Workshop: For Participants
 
-**Immediate next steps (Week 1):**
 1. Save your AI-generated ideas from today
 2. Pick ONE experiment that feels doable
 3. Refine the experiment using the sandbox template (link to faculty resources)
-
-**Try it (Weeks 2-4):**
 4. Run your small experiment
 5. Document what happens (honestly - failures are data)
 6. Collect evidence (screenshots, student responses, your observations)
-
-**Share back (end-of-semester):**
 7. Optional: Reconnect with today's cohort
 8. Share what you tried, what worked, what didn't
 9. Decide what to continue, modify, or stop
@@ -419,107 +455,268 @@ The goal is not to become an AI expert. The goal is to stay curious, try small t
 
 ---
 
-**End of Workshop Prompts Document**5:["$","div",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width)","children":["$","$L20",null,{"value":[{"value":"How to Use These Prompts","id":"how-to-use-these-prompts","depth":2},{"value":"Set 1: Facilitator Demonstration Prompts","id":"set-1-facilitator-demonstration-prompts","depth":2},{"value":"Scenario A: Generating Discussion Prompts (Social Sciences/Humanities)","id":"scenario-a-generating-discussion-prompts-social-scienceshumanities","depth":3},{"value":"Scenario B: Creating Scaffolded Practice Problems (STEM)","id":"scenario-b-creating-scaffolded-practice-problems-stem","depth":3},{"value":"Scenario C: Designing Low-Stakes Reflection Prompts (Any Discipline)","id":"scenario-c-designing-low-stakes-reflection-prompts-any-discipline","depth":3},{"value":"Set 2: Participant Hands-On Prompt (Part 1 Activity)","id":"set-2-participant-hands-on-prompt-part-1-activity","depth":2},{"value":"Activity: Brainstorm Your Own Teaching Challenge","id":"activity-brainstorm-your-own-teaching-challenge","depth":3},{"value":"Set 3: Participant Brainstorming Prompts (Part 2 Activity)","id":"set-3-participant-brainstorming-prompts-part-2-activity","depth":2},{"value":"Scenario A: Generating Teaching Materials","id":"scenario-a-generating-teaching-materials","depth":3},{"value":"Scenario B: Providing Feedback and Assessment Support","id":"scenario-b-providing-feedback-and-assessment-support","depth":3},{"value":"Scenario C: Scaffolding and Supporting Struggling Students","id":"scenario-c-scaffolding-and-supporting-struggling-students","depth":3},{"value":"Scenario D: Brainstorming Assignment Design or Course Improvements","id":"scenario-d-brainstorming-assignment-design-or-course-improvements","depth":3},{"value":"Scenario E: Student-Facing AI Use (Teaching Students to Use AI Critically)","id":"scenario-e-student-facing-ai-use-teaching-students-to-use-ai-critically","depth":3},{"value":"Using These Prompts During the Workshop","id":"using-these-prompts-during-the-workshop","depth":2},{"value":"Facilitator Notes: Adapting These Prompts","id":"facilitator-notes-adapting-these-prompts","depth":2},{"value":"After the Workshop: What Participants Should Do","id":"after-the-workshop-what-participants-should-do","depth":2}],"children":[["$","$L21",null,{}],["$","$L22",null,{"metadata":"$2:props:children:1:props:children:props:children:props:children:2:props:pageMap:4:children:3:frontMatter","bottomContent":"$undefined","sourceCode":"$23","children":["$L24","$L25"]}]]}]}]
-26:I[63894,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"HeadingAnchor"]
-27:I[83987,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"ToggleWordWrapButton"]
-24:["$","div",null,{"id":"nextra-skip-nav"}]
-25:["$","main",null,{"data-pagefind-body":true,"children":[[["$","h1",null,{"id":"$undefined","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-bold x:mt-2 x:text-4xl","children":["Workshop Prompts","$undefined"]}],"\n",["$","h2",null,{"id":"how-to-use-these-prompts","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["How to Use These Prompts",["$","$L26",null,{"id":"how-to-use-these-prompts"}]]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["All prompts below are ",["$","strong",null,{"children":"ready to copy and paste into ChatGPT"}]," (or another LLM)."]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"For facilitators:"}]," Use Set 1 prompts to prepare your demonstration."]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"For participants:"}]," You’ll use Set 2 (hands-on activity) and Set 3 (brainstorming) during the workshop."]}],"\n",["$","hr",null,{"className":"x:my-[2em] nextra-border"}],"\n",["$","h2",null,{"id":"set-1-facilitator-demonstration-prompts","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Set 1: Facilitator Demonstration Prompts",["$","$L26",null,{"id":"set-1-facilitator-demonstration-prompts"}]]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Choose ONE of these scenarios to demonstrate during the workshop. You can run this beforehand and show the output, or run it live."}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Purpose:"}]," Show participants what a sandbox experiment looks like - small, specific, and tied to real teaching challenges."]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Facilitator note:"}]," Modify these to match your audience’s disciplines if running a department-specific workshop."]}],"\n",["$","hr",null,{"className":"x:my-[2em] nextra-border"}],"\n",["$","h3",null,{"id":"scenario-a-generating-discussion-prompts-social-scienceshumanities","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Scenario A: Generating Discussion Prompts (Social Sciences/Humanities)",["$","$L26",null,{"id":"scenario-a-generating-discussion-prompts-social-scienceshumanities"}]]}],"\n",["$","div",null,{"data-pagefind-ignore":"all","className":"nextra-code x:relative x:not-first:mt-[1.25em]","children":["$undefined",["$","pre",null,{"className":"x:group x:focus-visible:nextra-focus x:overflow-x-auto x:subpixel-antialiased x:text-[.9em] x:bg-white x:dark:bg-black x:py-4 x:ring-1 x:ring-inset x:ring-gray-300 x:dark:ring-neutral-700 x:contrast-more:ring-gray-900 x:contrast-more:dark:ring-gray-50 x:contrast-more:contrast-150 x:rounded-md not-prose","tabIndex":"0","children":[["$","div",null,{"className":"x:group-hover:opacity-100 x:group-focus:opacity-100 x:opacity-0 x:transition x:focus-within:opacity-100 x:flex x:gap-1 x:absolute x:right-4 x:top-2","children":[["$","$L27",null,{"children":["$","svg",null,{"viewBox":"0 0 24 24","fill":"currentColor","height":"1em","children":["$","path",null,{"d":"M4 19h6v-2H4v2zM20 5H4v2h16V5zm-3 6H4v2h13.25c1.1 0 2 .9 2 2s-.9 2-2 2H15v-2l-3 3l3 3v-2h2c2.21 0 4-1.79 4-4s-1.79-4-4-4z"}]}]}],false]}],["$","code",null,{"className":"nextra-code","dir":"ltr","children":[["$","span",null,{"children":["$","span",null,{"children":"I'm a college sociology instructor preparing for a class discussion on social stratification. I typically create 3-4 discussion prompts per class, but they often feel repetitive or too broad."}]}],"\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37"]}]]}]]}],"\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d"],"$L7e"]}]
-7f:I[76241,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/168b5ccf453a6584.js"],"AskAIButton"]
-28:["$","span",null,{"children":["$","span",null,{}]}]
-29:["$","span",null,{"children":["$","span",null,{"children":"Help me generate 5 alternative discussion prompts for a 75-minute class on social stratification."}]}]
-2a:["$","span",null,{"children":["$","span",null,{}]}]
-2b:["$","span",null,{"children":["$","span",null,{"children":"Context:"}]}]
-2c:["$","span",null,{"children":["$","span",null,{"children":"- Students: Second-year college, mixed majors (intro-level sociology course)"}]}]
-2d:["$","span",null,{"children":["$","span",null,{"children":"- They've read a chapter on class, income inequality, and social mobility"}]}]
-2e:["$","span",null,{"children":["$","span",null,{"children":"- Learning goal: Students should connect abstract concepts to observable patterns in their own communities"}]}]
-2f:["$","span",null,{"children":["$","span",null,{"children":"- My usual prompts tend to be too generic (e.g., \"What is social stratification?\")"}]}]
-30:["$","span",null,{"children":["$","span",null,{}]}]
-31:["$","span",null,{"children":["$","span",null,{"children":"For each prompt, briefly explain what makes it effective for generating discussion."}]}]
-32:["$","span",null,{"children":["$","span",null,{}]}]
-33:["$","span",null,{"children":["$","span",null,{"children":"I want prompts that:"}]}]
-34:["$","span",null,{"children":["$","span",null,{"children":"- Are specific enough to spark debate but open enough for multiple perspectives"}]}]
-35:["$","span",null,{"children":["$","span",null,{"children":"- Connect theory to students' lived experiences"}]}]
-36:["$","span",null,{"children":["$","span",null,{"children":"- Encourage students to analyze rather than just describe"}]}]
-37:["$","span",null,{"children":["$","span",null,{"children":"- Can be answered in 10-15 minutes of small group discussion"}]}]
-38:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Expected output:"}]," 5 discussion prompts with brief rationale. Facilitator reviews these with participants, discussing what makes them “sandbox-appropriate” (specific, testable, reversible)."]}]
-39:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
-3a:["$","h3",null,{"id":"scenario-b-creating-scaffolded-practice-problems-stem","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Scenario B: Creating Scaffolded Practice Problems (STEM)",["$","$L26",null,{"id":"scenario-b-creating-scaffolded-practice-problems-stem"}]]}]
-3b:["$","div",null,{"data-pagefind-ignore":"all","className":"nextra-code x:relative x:not-first:mt-[1.25em]","children":["$undefined",["$","pre",null,{"className":"x:group x:focus-visible:nextra-focus x:overflow-x-auto x:subpixel-antialiased x:text-[.9em] x:bg-white x:dark:bg-black x:py-4 x:ring-1 x:ring-inset x:ring-gray-300 x:dark:ring-neutral-700 x:contrast-more:ring-gray-900 x:contrast-more:dark:ring-gray-50 x:contrast-more:contrast-150 x:rounded-md not-prose","tabIndex":"0","children":[["$","div",null,{"className":"x:group-hover:opacity-100 x:group-focus:opacity-100 x:opacity-0 x:transition x:focus-within:opacity-100 x:flex x:gap-1 x:absolute x:right-4 x:top-2","children":[["$","$L27",null,{"children":["$","svg",null,{"viewBox":"0 0 24 24","fill":"currentColor","height":"1em","children":["$","path",null,{"d":"M4 19h6v-2H4v2zM20 5H4v2h16V5zm-3 6H4v2h13.25c1.1 0 2 .9 2 2s-.9 2-2 2H15v-2l-3 3l3 3v-2h2c2.21 0 4-1.79 4-4s-1.79-4-4-4z"}]}]}],false]}],["$","code",null,{"className":"nextra-code","dir":"ltr","children":[["$","span",null,{"children":["$","span",null,{"children":"I teach introductory calculus at a community college. Many of my students struggle with the concept of limits - they can follow my examples but freeze when trying problems on their own."}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Help me create a scaffolded sequence of 4 practice problems on limits that gradually increase in difficulty."}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Context:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Topic: Finding limits algebraically (not graphically or numerically)"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Students: First-year college, many are anxious about math"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Current problem: The textbook jumps from simple examples to complex problems too quickly"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- I need problems that build confidence while still challenging students"}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"For each problem:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"1. State the problem clearly"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"2. Indicate what new challenge this problem introduces compared to the previous one"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"3. Suggest one hint I could give if students get stuck"}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"The first problem should be very straightforward. The fourth should be challenging but still solvable with the techniques we've covered."}]}]]}]]}]]}]
-3c:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Expected output:"}]," 4 scaffolded problems with hints and progression notes. Facilitator highlights how this could be used as a small experiment: “Try this sequence in one section, compare to your usual problems in another section.”"]}]
-3d:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
-3e:["$","h3",null,{"id":"scenario-c-designing-low-stakes-reflection-prompts-any-discipline","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Scenario C: Designing Low-Stakes Reflection Prompts (Any Discipline)",["$","$L26",null,{"id":"scenario-c-designing-low-stakes-reflection-prompts-any-discipline"}]]}]
-3f:["$","div",null,{"data-pagefind-ignore":"all","className":"nextra-code x:relative x:not-first:mt-[1.25em]","children":["$undefined",["$","pre",null,{"className":"x:group x:focus-visible:nextra-focus x:overflow-x-auto x:subpixel-antialiased x:text-[.9em] x:bg-white x:dark:bg-black x:py-4 x:ring-1 x:ring-inset x:ring-gray-300 x:dark:ring-neutral-700 x:contrast-more:ring-gray-900 x:contrast-more:dark:ring-gray-50 x:contrast-more:contrast-150 x:rounded-md not-prose","tabIndex":"0","children":[["$","div",null,{"className":"x:group-hover:opacity-100 x:group-focus:opacity-100 x:opacity-0 x:transition x:focus-within:opacity-100 x:flex x:gap-1 x:absolute x:right-4 x:top-2","children":[["$","$L27",null,{"children":["$","svg",null,{"viewBox":"0 0 24 24","fill":"currentColor","height":"1em","children":["$","path",null,{"d":"M4 19h6v-2H4v2zM20 5H4v2h16V5zm-3 6H4v2h13.25c1.1 0 2 .9 2 2s-.9 2-2 2H15v-2l-3 3l3 3v-2h2c2.21 0 4-1.79 4-4s-1.79-4-4-4z"}]}]}],false]}],["$","code",null,{"className":"nextra-code","dir":"ltr","children":[["$","span",null,{"children":["$","span",null,{"children":"I teach a professional writing course and want to incorporate more reflective practice without adding to my grading load. I'm interested in using short reflection prompts at the end of each class."}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Help me create 5 different one-minute reflection prompts that encourage students to think about their learning process without requiring extensive written responses."}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Context:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Course: Professional writing (business communication, resumes, reports)"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Students: Third-year college, career-focused"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Time constraint: Last 3-5 minutes of each 90-minute class"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Goal: Encourage metacognition about writing skills, not evaluate their performance"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- I want variety - not the same \"What did you learn today?\" every time"}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"For each prompt:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"1. Write the exact wording I would display or say to students"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"2. Explain what aspect of learning this prompt targets (skill development, process awareness, confidence, etc.)"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"3. Suggest how students might respond (whole class artifact, quick write, think-pair-share, etc.)"}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Keep prompts simple, specific, and genuinely useful for students to think about their progress."}]}]]}]]}]]}]
-40:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Expected output:"}]," 5 varied reflection prompts with implementation suggestions. Facilitator emphasizes documentation: “You’d want to note which prompts generated the most thoughtful responses.”"]}]
-41:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
-42:["$","h2",null,{"id":"set-2-participant-hands-on-prompt-part-1-activity","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Set 2: Participant Hands-On Prompt (Part 1 Activity)",["$","$L26",null,{"id":"set-2-participant-hands-on-prompt-part-1-activity"}]]}]
-43:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"For participants:"}]," Everyone will try this prompt together during the workshop. This puts you in the position of being a student using AI as a learning tool."]}]
-44:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Purpose:"}]," Experience what it feels like to use AI in a structured, pedagogically sound way."]}]
-45:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
-46:["$","h3",null,{"id":"activity-brainstorm-your-own-teaching-challenge","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Activity: Brainstorm Your Own Teaching Challenge",["$","$L26",null,{"id":"activity-brainstorm-your-own-teaching-challenge"}]]}]
-47:["$","div",null,{"data-pagefind-ignore":"all","className":"nextra-code x:relative x:not-first:mt-[1.25em]","children":["$undefined",["$","pre",null,{"className":"x:group x:focus-visible:nextra-focus x:overflow-x-auto x:subpixel-antialiased x:text-[.9em] x:bg-white x:dark:bg-black x:py-4 x:ring-1 x:ring-inset x:ring-gray-300 x:dark:ring-neutral-700 x:contrast-more:ring-gray-900 x:contrast-more:dark:ring-gray-50 x:contrast-more:contrast-150 x:rounded-md not-prose","tabIndex":"0","children":[["$","div",null,{"className":"x:group-hover:opacity-100 x:group-focus:opacity-100 x:opacity-0 x:transition x:focus-within:opacity-100 x:flex x:gap-1 x:absolute x:right-4 x:top-2","children":[["$","$L27",null,{"children":["$","svg",null,{"viewBox":"0 0 24 24","fill":"currentColor","height":"1em","children":["$","path",null,{"d":"M4 19h6v-2H4v2zM20 5H4v2h16V5zm-3 6H4v2h13.25c1.1 0 2 .9 2 2s-.9 2-2 2H15v-2l-3 3l3 3v-2h2c2.21 0 4-1.79 4-4s-1.79-4-4-4z"}]}]}],false]}],["$","code",null,{"className":"nextra-code","dir":"ltr","children":[["$","span",null,{"children":["$","span",null,{"children":"I'm a college instructor exploring how AI might support my teaching. I want to brainstorm small, reversible experiments I could try in my course."}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Help me generate 5 potential \"sandbox experiments\" - small, low-risk ways to experiment with AI in teaching."}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Context about my teaching:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Discipline: [INSERT YOUR DISCIPLINE OR SUBJECT AREA]"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Course level: [e.g., first-year intro, upper-level specialized, graduate, mixed]"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- One thing that feels stuck, repetitive, or challenging in my teaching: [INSERT YOUR CHALLENGE - be specific]"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- What I value most in teaching: [e.g., deep discussion, student agency, conceptual understanding, practical skills, etc.]"}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"For each experiment idea:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"1. Give it a clear, specific title (not generic like \"Use AI for feedback\")"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"2. Describe exactly what I would do (1-2 sentences)"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"3. Explain what I would learn from trying this (what question would this answer?)"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"4. Note one potential risk or concern to watch for"}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"I want experiments that are:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Small enough to try in one or two class sessions"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Reversible (I can stop if it's not working)"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Focused on student learning, not just saving me time"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Aligned with my teaching values"}]}]]}]]}]]}]
-48:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"What to do:"}]}]
-49:["$","ol",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-decimal x:ms-6","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Fill in your context (discipline, course level, challenge, values)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Copy the full prompt into ChatGPT"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Review the 5 experiment ideas"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Pick ONE that feels most relevant to you"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Be ready to share in small groups"}],"\n"]}]
-4a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Time for this activity:"}]," 10-15 minutes"]}]
+**End of Workshop Prompts Document**5:["$","div",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width)","children":["$","$L21",null,{"value":[{"value":"How to Use These Prompts","id":"how-to-use-these-prompts","depth":2},{"value":"Set 1: Facilitator Demonstration Prompts","id":"set-1-facilitator-demonstration-prompts","depth":2},{"value":"Scenario A: Generating Discussion Prompts (Social Sciences/Humanities)","id":"scenario-a-generating-discussion-prompts-social-scienceshumanities","depth":3},{"value":"Scenario B: Creating Scaffolded Practice Problems (STEM)","id":"scenario-b-creating-scaffolded-practice-problems-stem","depth":3},{"value":"Scenario C: Designing Low-Stakes Reflection Prompts (Any Discipline)","id":"scenario-c-designing-low-stakes-reflection-prompts-any-discipline","depth":3},{"value":"Set 2: Participant Hands-On Prompt (Part 1 Activity)","id":"set-2-participant-hands-on-prompt-part-1-activity","depth":2},{"value":"Activity: Brainstorm Your Own Teaching Challenge","id":"activity-brainstorm-your-own-teaching-challenge","depth":3},{"value":"Set 3: Participant Brainstorming Prompts (Part 2 Activity)","id":"set-3-participant-brainstorming-prompts-part-2-activity","depth":2},{"value":"Scenario A: Generating Teaching Materials","id":"scenario-a-generating-teaching-materials","depth":3},{"value":"Scenario B: Providing Feedback and Assessment Support","id":"scenario-b-providing-feedback-and-assessment-support","depth":3},{"value":"Scenario C: Supporting Student Sense-Making and Metacognition","id":"scenario-c-supporting-student-sense-making-and-metacognition","depth":3},{"value":"Scenario D: Classroom Interaction and Discussion","id":"scenario-d-classroom-interaction-and-discussion","depth":3},{"value":"Scenario E: Explicit Expectations and Academic Integrity","id":"scenario-e-explicit-expectations-and-academic-integrity","depth":3},{"value":"Using These Prompts During the Workshop","id":"using-these-prompts-during-the-workshop","depth":2},{"value":"Facilitator Notes: Adapting These Prompts","id":"facilitator-notes-adapting-these-prompts","depth":2},{"value":"After the Workshop: For Participants","id":"after-the-workshop-for-participants","depth":2}],"children":[["$","$L22",null,{}],["$","$L23",null,{"metadata":"$2:props:children:1:props:children:props:children:props:children:2:props:pageMap:2:children:3:frontMatter","bottomContent":"$undefined","sourceCode":"$24","children":["$L25","$L26"]}]]}]}]
+27:I[63894,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"HeadingAnchor"]
+28:I[62270,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"WorkshopPrompt"]
+25:["$","div",null,{"id":"nextra-skip-nav"}]
+26:["$","main",null,{"data-pagefind-body":true,"children":[[["$","h1",null,{"id":"$undefined","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-bold x:mt-2 x:text-4xl","children":["Workshop Prompts","$undefined"]}],"\n",["$","h2",null,{"id":"how-to-use-these-prompts","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["How to Use These Prompts",["$","$L27",null,{"id":"how-to-use-these-prompts"}]]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["All prompts below are ",["$","strong",null,{"children":"ready to copy and paste into ChatGPT"}]," (or another LLM). Click “Show Prompt” to expand, then click “Copy Prompt” to copy."]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"For facilitators:"}]," Use or modify Set 1 prompts to prepare your demonstration."]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"For participants:"}]," You’ll use Set 2 (hands-on activity) and Set 3 (brainstormin/design) during the workshop."]}],"\n",["$","hr",null,{"className":"x:my-[2em] nextra-border"}],"\n",["$","h2",null,{"id":"set-1-facilitator-demonstration-prompts","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Set 1: Facilitator Demonstration Prompts",["$","$L27",null,{"id":"set-1-facilitator-demonstration-prompts"}]]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Choose ONE of these scenarios to demonstrate during the workshop. You can run this beforehand and show the output, or run it live."}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Purpose:"}]," Show participants what a sandbox experiment looks like. It should be small, specific, and tied to real teaching challenges."]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Facilitator note:"}]," Modify these to match your audience’s disciplines. E.g., if running a department-specific workshop."]}],"\n",["$","hr",null,{"className":"x:my-[2em] nextra-border"}],"\n",["$","h3",null,{"id":"scenario-a-generating-discussion-prompts-social-scienceshumanities","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Scenario A: Generating Discussion Prompts (Social Sciences/Humanities)",["$","$L27",null,{"id":"scenario-a-generating-discussion-prompts-social-scienceshumanities"}]]}],"\n",["$","$L28",null,{"title":"📝 Facilitator Demo: Discussion Prompts for Social Sciences","description":"Expected output: 5 discussion prompts with brief rationale. Facilitator reviews these with participants, discussing what makes them 'sandbox-appropriate' (specific, testable, reversible).","prompt":"I'm a college sociology instructor preparing for a class discussion on social stratification. I typically create 3-4 discussion prompts per class, but they often feel repetitive or too broad.\n\nHelp me generate 5 alternative discussion prompts for a 75-minute class on social stratification.\n\nContext:\n- Students: Second-year college, mixed majors (intro-level sociology course)\n- They've read a chapter on class, income inequality, and social mobility\n- Learning goal: Students should connect abstract concepts to observable patterns in their own communities\n- My usual prompts tend to be too generic (e.g., \"What is social stratification?\")\n\nFor each prompt, briefly explain what makes it effective for generating discussion.\n\nI want prompts that:\n- Are specific enough to spark debate but open enough for multiple perspectives\n- Connect theory to students' lived experiences\n- Encourage students to analyze rather than just describe\n- Can be answered in 10-15 minutes of small group discussion"}],"\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65"],"$L66"]}]
+6e:I[76241,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/f47ce8ab99898d09.js"],"AskAIButton"]
+29:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+2a:["$","h3",null,{"id":"scenario-b-creating-scaffolded-practice-problems-stem","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Scenario B: Creating Scaffolded Practice Problems (STEM)",["$","$L27",null,{"id":"scenario-b-creating-scaffolded-practice-problems-stem"}]]}]
+2b:["$","$L28",null,{"title":"📐 Facilitator Demo: Scaffolded Practice Problems for STEM","description":"Expected output: 4 scaffolded problems with hints and progression notes. Facilitator highlights how this could be used as a small experiment: 'Try this sequence in one section, compare to your usual problems in another section.'","prompt":"I teach introductory calculus at the college level. Many of my students struggle with the concept of limits. They can follow my examples but freeze when trying problems on their own.\n\nHelp me create a scaffolded sequence of 4 practice problems on limits that gradually increase in difficulty.\n\nContext:\n- Topic: Finding limits algebraically (not graphically or numerically)\n- Students: First-year college, many are anxious about math\n- Current problem: The textbook jumps from simple examples to complex problems too quickly\n- I need problems that build confidence while still challenging students\n\nFor each problem:\n1. State the problem clearly\n2. Indicate what new challenge this problem introduces compared to the previous one\n3. Suggest one hint I could give if students get stuck\n\nThe first problem should be very straightforward. The fourth should be challenging but still solvable with the techniques we've covered."}]
+2c:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+2d:["$","h3",null,{"id":"scenario-c-designing-low-stakes-reflection-prompts-any-discipline","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Scenario C: Designing Low-Stakes Reflection Prompts (Any Discipline)",["$","$L27",null,{"id":"scenario-c-designing-low-stakes-reflection-prompts-any-discipline"}]]}]
+67:T449,I teach a professional writing course and want to incorporate more reflective practice without adding to my grading load. I'm interested in using short reflection prompts at the end of each class.
+
+Help me create 5 different one-minute reflection prompts that encourage students to think about their learning process without requiring extensive written responses.
+
+Context:
+- Course: Professional writing (business communication, resumes, reports)
+- Students: Third-year college, career-focused
+- Time constraint: Last 3-5 minutes of each 90-minute class
+- Goal: Encourage metacognition about writing skills, not evaluate their performance
+- I want variety - not the same "What did you learn today?" every time
+
+For each prompt:
+1. Write the exact wording I would display or say to students
+2. Explain what aspect of learning this prompt targets (skill development, process awareness, confidence, etc.)
+3. Suggest how students might respond (whole class artifact, quick write, think-pair-share, etc.)
+
+Keep prompts simple, specific, and genuinely useful for students to think about their progress.2e:["$","$L28",null,{"title":"💭 Facilitator Demo: Reflection Prompts for Any Discipline","description":"Expected output: 5 varied reflection prompts with implementation suggestions. Facilitator emphasizes documentation: 'You'd want to note which prompts generated the most thoughtful responses.'","prompt":"$67"}]
+2f:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+30:["$","h2",null,{"id":"set-2-participant-hands-on-prompt-part-1-activity","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Set 2: Participant Hands-On Prompt (Part 1 Activity)",["$","$L27",null,{"id":"set-2-participant-hands-on-prompt-part-1-activity"}]]}]
+31:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"For participants:"}]," Everyone will try this prompt together during the workshop. This puts you in the position of being a student using AI as a learning tool."]}]
+32:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Purpose:"}]," Experience what it feels like to use AI in a structured, pedagogically sound way."]}]
+33:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+34:["$","h3",null,{"id":"activity-brainstorm-your-own-teaching-challenge","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Activity: Brainstorm Your Own Teaching Challenge",["$","$L27",null,{"id":"activity-brainstorm-your-own-teaching-challenge"}]]}]
+68:T5d1,I'm a college instructor exploring whether and how AI might support my teaching. I want to design small, reversible experiments I could try in my course.
+
+Help me generate 5 potential sandbox experiments: small, low-risk trials I can run, observe carefully, and then decide whether to keep, revise, or discard.
+
+Context about my teaching:
+- Discipline: [INSERT YOUR DISCIPLINE OR SUBJECT AREA]
+- Course level: [e.g., first-year intro]
+- One thing that feels stuck, repetitive, or challenging in my teaching or in my students' learning (e.g., misconceptions, feedback cycles, engagement, transfer of skills):
+[INSERT YOUR CHALLENGE – be specific]
+- What I value most in teaching:
+[e.g., deep discussion, student agency, conceptual understanding, practical skills, etc.]
+
+For each experiment idea:
+- Give it a clear, specific title (avoid generic labels like "Use AI for feedback")
+- Describe exactly what I would do (1–2 sentences)
+- Explain what I would learn from trying this (what question does this experiment help answer?)
+- Note one potential risk or concern to watch for (a signal the experiment may need adjustment or stopping early)
+
+I want experiments that are:
+- Small enough to try in one or two class sessions
+- Reversible (I can stop if it's not working)
+- Focused on student learning, not just saving me time
+- Aligned with my pedagogical values
+
+If anything is unclear or underspecified, ask at most one or two brief clarification questions before proposing experiments.35:["$","$L28",null,{"title":"✨ Participant Activity: Brainstorm Your Own Experiments","description":"Fill in your context, copy to ChatGPT, review ideas, pick ONE, and be ready to share. Time: 10-15 minutes.","prompt":"$68"}]
+36:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+37:["$","h2",null,{"id":"set-3-participant-brainstorming-prompts-part-2-activity","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Set 3: Participant Brainstorming Prompts (Part 2 Activity)",["$","$L27",null,{"id":"set-3-participant-brainstorming-prompts-part-2-activity"}]]}]
+38:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"For participants:"}]," Choose the scenario below that best matches what you want to explore. Use this to generate ideas you can actually try in your teaching."]}]
+39:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Purpose:"}]," Go deeper into one specific area and generate actionable ideas."]}]
+3a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Facilitator note:"}]," These prompts can be modified to be more narrow for department-specific workshops (e.g., all faculty exploring multiple-choice question generation for remediation)."]}]
+3b:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+3c:["$","h3",null,{"id":"scenario-a-generating-teaching-materials","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Scenario A: Generating Teaching Materials",["$","$L27",null,{"id":"scenario-a-generating-teaching-materials"}]]}]
+3d:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Use this scenario if you want to explore AI support for creating prompts, examples, practice problems, or other instructional materials students directly engage with."}]
+69:T544,I want to explore using AI to support the creation of teaching materials while maintaining quality and pedagogical soundness.
+
+Help me design a small experiment for creating:
+**[CHOOSE ONE: discussion prompts / practice problems / worked examples / assignment variations / reading comprehension questions].**
+
+Context:
+* Discipline: [YOUR DISCIPLINE]
+* Specific topic or concept:
+[Be specific — e.g., "photosynthesis for intro biology," not just "biology"]
+* Current challenge:
+[What's hard about creating these materials now? Time? Variety? Quality? Accessibility?]
+* How I currently create these:
+[Briefly describe your current process]
+
+Design an experiment where I:
+1. Create materials using AI assistance
+2. Compare them to my usual approach using criteria I already care about (e.g., clarity, alignment, level, accessibility)
+3. Document what's better, worse, or different
+4. Decide whether this approach is worth continuing
+
+For this experiment, provide:
+* The exact prompt I should use to generate materials
+* Criteria I should use to evaluate the AI-generated materials
+* Evidence I should collect (e.g., screenshots, student responses, my own annotated observations)
+* One risk to watch for, how to mitigate it, and what would prompt me to stop the experiment
+
+Keep the experiment small — I should be able to try this within one week.3e:["$","$L28",null,{"title":"📚 Scenario A: Generating Teaching Materials","description":"Design a small experiment for creating teaching materials with AI assistance and compare to your usual approach.","prompt":"$69"}]
+3f:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+40:["$","h3",null,{"id":"scenario-b-providing-feedback-and-assessment-support","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Scenario B: Providing Feedback and Assessment Support",["$","$L27",null,{"id":"scenario-b-providing-feedback-and-assessment-support"}]]}]
+41:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Use this if you want to explore:"}]," Using AI to identify patterns in student work, generate feedback, or streamline assessment"]}]
+6a:T6ca,I want to explore whether AI can support aspects of feedback or assessment in my course without replacing my judgment or diluting learning.
+
+Help me design a small, reversible experiment related to: [CHOOSE ONE: formative feedback on drafts / feedback on problem-solving processes / rubric interpretation / exemplars and commentary / self- or peer-feedback scaffolds].
+
+Context:
+
+Discipline: [YOUR DISCIPLINE]
+- Course level: [intro / intermediate / advanced]
+- Type of task or assessment: [e.g., lab report, essay draft, problem set, presentation]
+- Current challenge: [What feels difficult or stuck right now? Time, consistency, student uptake, depth of feedback, etc.]
+- How feedback or assessment currently works: [Briefly describe your current approach]
+
+Design an experiment where I:
+
+1. Use AI in a clearly bounded role to support feedback or assessment-related work
+2. Compare the experience and outcomes to my usual approach
+3. Observe how students interpret and act on the feedback
+4. Decide whether this approach supports learning well enough to continue
+
+For this experiment, provide:
+
+- The exact prompt I should use (including guardrails or instructions to the AI)
+- A clear description of what the AI does and does not do
+- Criteria I should use to judge the quality and usefulness of the feedback
+- Evidence I should collect (e.g., samples of feedback, student revisions, my own observations)
+- One risk to watch for, how to mitigate it, and what would prompt me to stop the experiment
+
+Keep the experiment small — I should be able to try this with a single assignment, draft, or class session.
+
+If anything in my context is unclear or underspecified, ask one brief clarification question before proposing an experiment.42:["$","$L28",null,{"title":"✍️ Scenario B: Providing Feedback and Assessment Support","description":"Design a small experiment for using AI to support aspects of feedback or assessment without replacing your judgment.","prompt":"$6a"}]
+43:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+44:["$","h3",null,{"id":"scenario-c-supporting-student-sense-making-and-metacognition","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Scenario C: Supporting Student Sense-Making and Metacognition",["$","$L27",null,{"id":"scenario-c-supporting-student-sense-making-and-metacognition"}]]}]
+45:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Use this scenario if you want to explore AI as a thinking partner or mirror to help students clarify ideas, surface misconceptions, or reflect on their learning process without outsourcing thinking."}]
+6b:T628,I want to explore whether AI can support student sense-making or reflection in my course without replacing students' own reasoning or voice.
+
+Help me design a small, reversible experiment related to:
+[CHOOSE ONE: concept explanation / misconception checking / reflective writing / exam wrappers / learning journals / self-explanation prompts].
+
+Context:
+
+Discipline: [YOUR DISCIPLINE]
+- Course level: [intro, etc.]
+- Type of learning activity: [e.g., in-class discussion, homework, reflection, review activity]
+- Current challenge:
+[What's difficult right now? Superficial understanding, poor transfer, lack of reflection, overconfidence, etc.]
+- How students currently approach this task:
+[Brief description]
+
+Design an experiment where I:
+1. Introduce AI as a *bounded support* for sense-making or reflection
+2. Make the AI's role explicit to students (what it can and cannot do)
+3. Observe how students use, resist, or reinterpret the AI's input
+4. Decide whether this approach meaningfully supports learning
+
+For this experiment, provide:
+
+* The exact prompt students would use with the AI
+* Clear instructions I would give students about how to use (and not use) the AI
+* What I would look for to tell whether sense-making has improved
+* Evidence I should collect (student work samples, reflections, observations)
+* One risk to watch for, how to mitigate it, and what would prompt me to stop
+
+Keep the experiment small — this should fit into one activity or class session.
+
+*If anything in my context is unclear, ask one brief clarification question before responding.*46:["$","$L28",null,{"title":"🎯 Scenario C: Supporting Student Sense-Making & Metacognition","description":"Design an experiment for using AI to support student sense-making or reflection without replacing their own reasoning.","prompt":"$6b"}]
+47:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+48:["$","h3",null,{"id":"scenario-d-classroom-interaction-and-discussion","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Scenario D: Classroom Interaction and Discussion",["$","$L27",null,{"id":"scenario-d-classroom-interaction-and-discussion"}]]}]
+49:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Use this scenario if you want to explore AI as a way to reshape or enrich classroom interaction."}]
+6c:T5c9,I want to explore whether AI can support richer classroom interaction or discussion *without flattening voices or short-circuiting debate*.
+
+Help me design a small, reversible experiment related to:
+[CHOOSE ONE: discussion preparation / debate framing / question generation / perspective-taking / case analysis / synthesis activities].
+
+Context:
+- Discipline: [YOUR DISCIPLINE]
+- Course level: [intro / intermediate / advanced]
+- Type of class session: [lecture, seminar, lab, workshop]
+- Current challenge:
+[What feels stuck? Low participation, predictable responses, surface discussion, uneven voices, etc.]
+- How discussion currently works:
+[Brief description]
+
+Design an experiment where I:
+1. Use AI before, during, or after class in a clearly defined role
+2. Make the AI's contribution transparent to students
+3. Observe how the quality and dynamics of discussion change
+4. Decide whether this approach supports the kind of interaction I value
+
+For this experiment, provide:
+- The exact prompt I would use (or give to students)
+- How AI input would be positioned (pre-work, catalyst, contrast, synthesis)
+- Criteria I should use to judge discussion quality
+- Evidence I should collect (notes, recordings, student feedback, my own reflections)
+- One risk to watch for, how to mitigate it, and what would prompt me to stop
+
+Keep the experiment small — one class session is enough.
+
+If anything in my context is unclear, ask one brief clarification question before responding.4a:["$","$L28",null,{"title":"💡 Scenario D: Classroom Interaction & Discussion","description":"Design an experiment for using AI to support richer classroom interaction or discussion without flattening voices or short-circuiting debate.","prompt":"$6c"}]
 4b:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
-4c:["$","h2",null,{"id":"set-3-participant-brainstorming-prompts-part-2-activity","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Set 3: Participant Brainstorming Prompts (Part 2 Activity)",["$","$L26",null,{"id":"set-3-participant-brainstorming-prompts-part-2-activity"}]]}]
-4d:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"For participants:"}]," Choose the scenario below that best matches what you want to explore. Use this to generate ideas you can actually try in your teaching."]}]
-4e:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Purpose:"}]," Go deeper into one specific area and generate actionable ideas."]}]
-4f:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Facilitator note:"}]," These prompts can be modified to be more narrow for department-specific workshops (e.g., all faculty exploring multiple-choice question generation for remediation)."]}]
-50:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
-51:["$","h3",null,{"id":"scenario-a-generating-teaching-materials","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Scenario A: Generating Teaching Materials",["$","$L26",null,{"id":"scenario-a-generating-teaching-materials"}]]}]
-52:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Use this if you want to explore:"}]," Creating prompts, examples, practice problems, or other instructional content"]}]
-53:["$","div",null,{"data-pagefind-ignore":"all","className":"nextra-code x:relative x:not-first:mt-[1.25em]","children":["$undefined",["$","pre",null,{"className":"x:group x:focus-visible:nextra-focus x:overflow-x-auto x:subpixel-antialiased x:text-[.9em] x:bg-white x:dark:bg-black x:py-4 x:ring-1 x:ring-inset x:ring-gray-300 x:dark:ring-neutral-700 x:contrast-more:ring-gray-900 x:contrast-more:dark:ring-gray-50 x:contrast-more:contrast-150 x:rounded-md not-prose","tabIndex":"0","children":[["$","div",null,{"className":"x:group-hover:opacity-100 x:group-focus:opacity-100 x:opacity-0 x:transition x:focus-within:opacity-100 x:flex x:gap-1 x:absolute x:right-4 x:top-2","children":[["$","$L27",null,{"children":["$","svg",null,{"viewBox":"0 0 24 24","fill":"currentColor","height":"1em","children":["$","path",null,{"d":"M4 19h6v-2H4v2zM20 5H4v2h16V5zm-3 6H4v2h13.25c1.1 0 2 .9 2 2s-.9 2-2 2H15v-2l-3 3l3 3v-2h2c2.21 0 4-1.79 4-4s-1.79-4-4-4z"}]}]}],false]}],["$","code",null,{"className":"nextra-code","dir":"ltr","children":[["$","span",null,{"children":["$","span",null,{"children":"I want to explore using AI to help me generate teaching materials more efficiently while maintaining quality and pedagogical soundness."}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Help me design a small experiment for creating [CHOOSE ONE: discussion prompts / practice problems / worked examples / assignment variations / reading comprehension questions]."}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Context:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Discipline: [YOUR DISCIPLINE]"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Specific topic or concept: [BE SPECIFIC - e.g., \"photosynthesis for intro biology\" not just \"biology\"]"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Current challenge: [What's hard about creating these materials now? Time? Variety? Quality? Accessibility?]"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- How I currently create these: [Your current process]"}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Design an experiment where I:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"1. Create materials using AI assistance"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"2. Compare them to my usual approach"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"3. Document what's better, worse, or different"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"4. Decide if this is worth continuing"}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"For this experiment, provide:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- The specific prompt I should use to generate materials (write it out exactly)"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- What criteria I should use to evaluate the AI-generated materials"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- What evidence I should collect (screenshots, student responses, my own observations)"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- One risk to watch for and how to mitigate it"}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Keep the experiment small - I should be able to try this in one week."}]}]]}]]}]]}]
-54:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
-55:["$","h3",null,{"id":"scenario-b-providing-feedback-and-assessment-support","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Scenario B: Providing Feedback and Assessment Support",["$","$L26",null,{"id":"scenario-b-providing-feedback-and-assessment-support"}]]}]
-56:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Use this if you want to explore:"}]," Using AI to identify patterns in student work, generate feedback, or streamline assessment"]}]
-57:["$","div",null,{"data-pagefind-ignore":"all","className":"nextra-code x:relative x:not-first:mt-[1.25em]","children":["$undefined",["$","pre",null,{"className":"x:group x:focus-visible:nextra-focus x:overflow-x-auto x:subpixel-antialiased x:text-[.9em] x:bg-white x:dark:bg-black x:py-4 x:ring-1 x:ring-inset x:ring-gray-300 x:dark:ring-neutral-700 x:contrast-more:ring-gray-900 x:contrast-more:dark:ring-gray-50 x:contrast-more:contrast-150 x:rounded-md not-prose","tabIndex":"0","children":[["$","div",null,{"className":"x:group-hover:opacity-100 x:group-focus:opacity-100 x:opacity-0 x:transition x:focus-within:opacity-100 x:flex x:gap-1 x:absolute x:right-4 x:top-2","children":[["$","$L27",null,{"children":["$","svg",null,{"viewBox":"0 0 24 24","fill":"currentColor","height":"1em","children":["$","path",null,{"d":"M4 19h6v-2H4v2zM20 5H4v2h16V5zm-3 6H4v2h13.25c1.1 0 2 .9 2 2s-.9 2-2 2H15v-2l-3 3l3 3v-2h2c2.21 0 4-1.79 4-4s-1.79-4-4-4z"}]}]}],false]}],["$","code",null,{"className":"nextra-code","dir":"ltr","children":[["$","span",null,{"children":["$","span",null,{"children":"I want to explore using AI to help me provide better or more efficient feedback to students."}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Help me design a small experiment for [CHOOSE ONE: identifying common misconceptions / generating personalized feedback / creating rubrics / spotting patterns in student errors / providing revision suggestions]."}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Context:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Discipline: [YOUR DISCIPLINE]"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Type of student work: [e.g., short essays, problem sets, lab reports, discussion posts, presentations]"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Current challenge: [What's hard about feedback now? Volume? Consistency? Depth? Timeliness?]"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- What good feedback looks like in my discipline: [Be specific - what do students need to hear?]"}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Design an experiment where I:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"1. Use AI to assist with feedback on a small sample of student work (5-10 samples)"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"2. Compare AI-assisted feedback to my usual feedback"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"3. Consider student learning impact (not just my time savings)"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"4. Decide what role, if any, AI should play"}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"For this experiment, provide:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- The specific prompt I should use (include what information about students/assignment I should give the AI)"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- How to ensure feedback remains pedagogically sound and discipline-appropriate"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- What evidence I should collect to evaluate whether this experiment is successful"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Ethical considerations: What should I tell students? What should I NOT rely on AI for?"}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Keep the experiment small - I should be able to try this with one assignment."}]}]]}]]}]]}]
-58:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
-59:["$","h3",null,{"id":"scenario-c-scaffolding-and-supporting-struggling-students","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Scenario C: Scaffolding and Supporting Struggling Students",["$","$L26",null,{"id":"scenario-c-scaffolding-and-supporting-struggling-students"}]]}]
-5a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Use this if you want to explore:"}]," Creating differentiated materials, additional support resources, or adaptive scaffolding"]}]
-5b:["$","div",null,{"data-pagefind-ignore":"all","className":"nextra-code x:relative x:not-first:mt-[1.25em]","children":["$undefined",["$","pre",null,{"className":"x:group x:focus-visible:nextra-focus x:overflow-x-auto x:subpixel-antialiased x:text-[.9em] x:bg-white x:dark:bg-black x:py-4 x:ring-1 x:ring-inset x:ring-gray-300 x:dark:ring-neutral-700 x:contrast-more:ring-gray-900 x:contrast-more:dark:ring-gray-50 x:contrast-more:contrast-150 x:rounded-md not-prose","tabIndex":"0","children":[["$","div",null,{"className":"x:group-hover:opacity-100 x:group-focus:opacity-100 x:opacity-0 x:transition x:focus-within:opacity-100 x:flex x:gap-1 x:absolute x:right-4 x:top-2","children":[["$","$L27",null,{"children":["$","svg",null,{"viewBox":"0 0 24 24","fill":"currentColor","height":"1em","children":["$","path",null,{"d":"M4 19h6v-2H4v2zM20 5H4v2h16V5zm-3 6H4v2h13.25c1.1 0 2 .9 2 2s-.9 2-2 2H15v-2l-3 3l3 3v-2h2c2.21 0 4-1.79 4-4s-1.79-4-4-4z"}]}]}],false]}],["$","code",null,{"className":"nextra-code","dir":"ltr","children":[["$","span",null,{"children":["$","span",null,{"children":"I want to explore using AI to better support students who are struggling with course concepts."}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Help me design a small experiment for [CHOOSE ONE: creating simplified explanations / generating additional practice / building concept maps / providing just-in-time hints / differentiating materials for different skill levels]."}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Context:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Discipline: [YOUR DISCIPLINE]"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Specific concept students struggle with: [BE SPECIFIC]"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- What makes this concept hard: [Abstraction? Prerequisites? Terminology? Application?]"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- What I currently do to support struggling students: [Your current approach]"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- What I wish I had time/capacity to do: [Your ideal support]"}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Design an experiment where I:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"1. Use AI to create scaffolding or support materials"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"2. Try them with a small group of students who need extra help"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"3. Observe whether students can use these materials productively"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"4. Decide if this approach helps without creating dependency"}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"For this experiment, provide:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- The specific prompt I should use to generate support materials"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- How to test whether materials actually help students understand (not just complete the work)"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- What evidence I should collect (student work, confidence, follow-up performance)"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- One major risk: How do I ensure students are still doing the cognitive work, not just consuming AI-generated content?"}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Keep the experiment small - I should be able to try this with 3-5 students over one week."}]}]]}]]}]]}]
-5c:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
-5d:["$","h3",null,{"id":"scenario-d-brainstorming-assignment-design-or-course-improvements","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Scenario D: Brainstorming Assignment Design or Course Improvements",["$","$L26",null,{"id":"scenario-d-brainstorming-assignment-design-or-course-improvements"}]]}]
-5e:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Use this if you want to explore:"}]," Redesigning assignments, generating new activity ideas, or refreshing course structure"]}]
-5f:["$","div",null,{"data-pagefind-ignore":"all","className":"nextra-code x:relative x:not-first:mt-[1.25em]","children":["$undefined",["$","pre",null,{"className":"x:group x:focus-visible:nextra-focus x:overflow-x-auto x:subpixel-antialiased x:text-[.9em] x:bg-white x:dark:bg-black x:py-4 x:ring-1 x:ring-inset x:ring-gray-300 x:dark:ring-neutral-700 x:contrast-more:ring-gray-900 x:contrast-more:dark:ring-gray-50 x:contrast-more:contrast-150 x:rounded-md not-prose","tabIndex":"0","children":[["$","div",null,{"className":"x:group-hover:opacity-100 x:group-focus:opacity-100 x:opacity-0 x:transition x:focus-within:opacity-100 x:flex x:gap-1 x:absolute x:right-4 x:top-2","children":[["$","$L27",null,{"children":["$","svg",null,{"viewBox":"0 0 24 24","fill":"currentColor","height":"1em","children":["$","path",null,{"d":"M4 19h6v-2H4v2zM20 5H4v2h16V5zm-3 6H4v2h13.25c1.1 0 2 .9 2 2s-.9 2-2 2H15v-2l-3 3l3 3v-2h2c2.21 0 4-1.79 4-4s-1.79-4-4-4z"}]}]}],false]}],["$","code",null,{"className":"nextra-code","dir":"ltr","children":[["$","span",null,{"children":["$","span",null,{"children":"I want to use AI as a brainstorming partner to improve an assignment or activity that isn't working well."}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Help me redesign [CHOOSE ONE: a writing assignment / a group project / a lab activity / a discussion activity / a problem set / an assessment]."}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Context:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Discipline: [YOUR DISCIPLINE]"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Current assignment/activity: [Describe what students currently do - be specific]"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- What's not working: [Student engagement? Learning outcomes? Clarity? Authenticity? Too easy/hard?]"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- What I want students to learn or practice: [Learning objective - be specific]"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Constraints I need to maintain: [Time, resources, class size, etc.]"}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Design an experiment where I:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"1. Use AI to generate 3-5 alternative versions or significant modifications"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"2. Select one to pilot in the next offering of this course"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"3. Compare student work/engagement/learning to the original version"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"4. Decide what to keep, modify, or discard"}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"For this experiment, provide:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- The specific prompt I should use to generate alternatives (include what context the AI needs)"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- What criteria I should use to evaluate whether alternatives are actually better (not just different)"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- How to pilot test this without risking student learning (try in one section? optional version? small group?)"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- What evidence I should collect to make an informed decision"}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Keep the experiment small - I should be able to pilot one alternative in the next 2-4 weeks."}]}]]}]]}]]}]
+4c:["$","h3",null,{"id":"scenario-e-explicit-expectations-and-academic-integrity","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Scenario E: Explicit Expectations and Academic Integrity",["$","$L27",null,{"id":"scenario-e-explicit-expectations-and-academic-integrity"}]]}]
+4d:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Use this if you want to explore:"}]," Making AI use expectations explicit and discussable to improve academic integrity and student decision-making"]}]
+6d:T67a,I want to explore whether making expectations about AI use explicit and discussable can improve academic integrity and student decision-making in my course.
+
+Help me design a small, reversible experiment related to:
+[CHOOSE ONE: AI use statements / assignment-specific boundaries / citation & disclosure practices / student decision logs / integrity discussions].
+
+Context:
+- Discipline: [YOUR DISCIPLINE]
+- Course level: [intro / intermediate / advanced]
+- Type of assignment or activity: [e.g., essay, problem set, lab report, project]
+- Current concern or tension:
+[What feels unclear or fragile right now? Confusion about rules, inconsistent use, fear of misuse, avoidance, etc.]
+- How integrity is currently communicated:
+[Syllabus language, verbal reminders, policies, honor code, etc.]
+
+Design an experiment where I:
+1. Make expectations about AI use explicit and visible to students
+2. Create space for students to reason about why boundaries exist
+3. Observe how students interpret and act on these expectations
+4. Decide whether this approach improves clarity and trust
+
+For this experiment, provide:
+- The exact language or prompt I would share with students
+- How I would introduce or frame this conversation or activity
+- What signals would indicate improved understanding or integrity
+- Evidence I should collect (student questions, disclosures, reflections, my own observations)
+- One risk to watch for, how to mitigate it, and what would prompt me to stop
+
+Keep the experiment small. This should fit within a single assignment or class discussion.
+
+If anything in my context is unclear, ask one brief clarification question before responding.4e:["$","$L28",null,{"title":"🎓 Scenario E: Explicit Expectations and Academic Integrity","description":"Design an experiment for making AI use expectations explicit to improve clarity and trust with students.","prompt":"$6d"}]
+4f:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+50:["$","h2",null,{"id":"using-these-prompts-during-the-workshop","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Using These Prompts During the Workshop",["$","$L27",null,{"id":"using-these-prompts-during-the-workshop"}]]}]
+51:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Part 1 (Hands-On Activity):"}]}]
+52:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"All participants use Set 2"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Time: 10-15 minutes individual work"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Then: Small group sharing (5-7 minutes)"}],"\n"]}]
+53:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Part 2 (Deeper Brainstorming):"}]}]
+54:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Participants choose ONE prompt from Set 3 based on their interest"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Time: 15-20 minutes individual work"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Then: Pair or small group sharing with others who chose the same scenario (10-15 minutes)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Then: Whole group sharing of insights (10 minutes)"}],"\n"]}]
+55:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Facilitator role:"}]}]
+56:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Circulate during individual work"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Answer questions about how to fill in prompts"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Encourage specificity (not “biology” → “enzyme kinetics in intro biology”)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Remind people to save their outputs for later reference"}],"\n"]}]
+57:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
+58:["$","h2",null,{"id":"facilitator-notes-adapting-these-prompts","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Facilitator Notes: Adapting These Prompts",["$","$L27",null,{"id":"facilitator-notes-adapting-these-prompts"}]]}]
+59:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"For department-specific workshops:"}]}]
+5a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"If your workshop focuses on a specific goal (e.g., “all physics faculty exploring problem generation”), you can:"}]
+5b:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Narrow Set 3 to 2-3 relevant scenarios instead of 5"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Make prompts less generic by pre-filling discipline and context"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Add department-specific evaluation criteria"}],"\n"]}]
+5c:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Example adaptation for narrower focus:"}]}]
+5d:["$","blockquote",null,{"className":"x:not-first:mt-[1.25em] x:border-gray-300 x:italic x:text-gray-700 x:dark:border-gray-700 x:dark:text-gray-400 x:border-s-2 x:ps-[1.5em]","children":["\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","em",null,{"children":"Physics Department Workshop: Multiple Choice Questions for Remediation"}]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Replace Set 3 with ONE prompt:"}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"“I teach [PHYS COURSE]. I want to create a bank of multiple-choice questions that help students identify and address their misconceptions in [SPECIFIC TOPIC]."}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Help me design 5 MCQs where:"}],"\n",["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Each incorrect answer represents a common student error or misconception"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"The question requires conceptual understanding, not just procedural recall"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"I can use these for low-stakes self-assessment, not graded exams"}],"\n"]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"For each question, explain what misconception each incorrect answer reveals, so I can provide targeted remediation.”"}],"\n"]}]
+5e:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"For broader institutional workshops:"}]}]
+5f:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Keep all 5 scenarios in Set 3 and let participants choose based on their interests. This creates natural groupings for discussion."}]
 60:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
-61:["$","h3",null,{"id":"scenario-e-student-facing-ai-use-teaching-students-to-use-ai-critically","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Scenario E: Student-Facing AI Use (Teaching Students to Use AI Critically)",["$","$L26",null,{"id":"scenario-e-student-facing-ai-use-teaching-students-to-use-ai-critically"}]]}]
-62:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Use this if you want to explore:"}]," Having students use AI as a tool, then teaching them to evaluate and improve outputs"]}]
-63:["$","div",null,{"data-pagefind-ignore":"all","className":"nextra-code x:relative x:not-first:mt-[1.25em]","children":["$undefined",["$","pre",null,{"className":"x:group x:focus-visible:nextra-focus x:overflow-x-auto x:subpixel-antialiased x:text-[.9em] x:bg-white x:dark:bg-black x:py-4 x:ring-1 x:ring-inset x:ring-gray-300 x:dark:ring-neutral-700 x:contrast-more:ring-gray-900 x:contrast-more:dark:ring-gray-50 x:contrast-more:contrast-150 x:rounded-md not-prose","tabIndex":"0","children":[["$","div",null,{"className":"x:group-hover:opacity-100 x:group-focus:opacity-100 x:opacity-0 x:transition x:focus-within:opacity-100 x:flex x:gap-1 x:absolute x:right-4 x:top-2","children":[["$","$L27",null,{"children":["$","svg",null,{"viewBox":"0 0 24 24","fill":"currentColor","height":"1em","children":["$","path",null,{"d":"M4 19h6v-2H4v2zM20 5H4v2h16V5zm-3 6H4v2h13.25c1.1 0 2 .9 2 2s-.9 2-2 2H15v-2l-3 3l3 3v-2h2c2.21 0 4-1.79 4-4s-1.79-4-4-4z"}]}]}],false]}],["$","code",null,{"className":"nextra-code","dir":"ltr","children":[["$","span",null,{"children":["$","span",null,{"children":"I want to design an activity where students USE AI as part of their learning, then critically evaluate what it produces."}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Help me design a student-facing activity where students [CHOOSE ONE: critique AI-generated content in my discipline / use AI to generate a draft then revise it / compare AI outputs to expert/peer work / identify errors or limitations in AI responses]."}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Context:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Discipline: [YOUR DISCIPLINE]"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- What makes something \"good\" or \"accurate\" in my field: [Discipline-specific quality markers]"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Learning goal: [What should students learn by doing this? Critical evaluation? Revision skills? Domain knowledge?]"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- Student skill level: [Are they novices or do they have disciplinary expertise?]"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- How much time in class: [One class period? Homework? Multi-week project?]"}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Design an experiment where students:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"1. Use AI to generate something discipline-specific (a solution, argument, analysis, design, etc.)"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"2. Evaluate what the AI produced using discipline-appropriate criteria"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"3. Revise, correct, or improve the AI output"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"4. Reflect on what they learned about the discipline (not just about AI)"}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"For this experiment, provide:"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- The exact prompt students should give to AI (written so students can copy/paste)"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- The evaluation rubric or criteria students should use to assess AI output"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- What I should emphasize to students about citing AI, learning vs. outsourcing, and academic integrity"}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"- What evidence I should collect to know if students actually learned disciplinary skills (not just how to use AI)"}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"Keep the experiment small - this should be completable in 1-2 class periods or one homework assignment."}]}]]}]]}]]}]
+61:["$","h2",null,{"id":"after-the-workshop-for-participants","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["After the Workshop: For Participants",["$","$L27",null,{"id":"after-the-workshop-for-participants"}]]}]
+62:["$","ol",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-decimal x:ms-6","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Save your AI-generated ideas from today"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Pick ONE experiment that feels doable"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Refine the experiment using the sandbox template (link to faculty resources)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Run your small experiment"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Document what happens (honestly - failures are data)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Collect evidence (screenshots, student responses, your observations)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Optional: Reconnect with today’s cohort"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Share what you tried, what worked, what didn’t"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Decide what to continue, modify, or stop"}],"\n"]}]
+63:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"The goal is not to become an AI expert. The goal is to stay curious, try small things, and build judgment about what serves your students’ learning."}]
 64:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
-65:["$","h2",null,{"id":"using-these-prompts-during-the-workshop","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Using These Prompts During the Workshop",["$","$L26",null,{"id":"using-these-prompts-during-the-workshop"}]]}]
-66:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Part 1 (Hands-On Activity):"}]}]
-67:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"All participants use Set 2"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Time: 10-15 minutes individual work"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Then: Small group sharing (5-7 minutes)"}],"\n"]}]
-68:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Part 2 (Deeper Brainstorming):"}]}]
-69:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Participants choose ONE prompt from Set 3 based on their interest"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Time: 15-20 minutes individual work"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Then: Pair or small group sharing with others who chose the same scenario (10-15 minutes)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Then: Whole group sharing of insights (10 minutes)"}],"\n"]}]
-6a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Facilitator role:"}]}]
-6b:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Circulate during individual work"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Answer questions about how to fill in prompts"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Encourage specificity (not “biology” → “enzyme kinetics in intro biology”)"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Remind people to save their outputs for later reference"}],"\n"]}]
-6c:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
-6d:["$","h2",null,{"id":"facilitator-notes-adapting-these-prompts","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Facilitator Notes: Adapting These Prompts",["$","$L26",null,{"id":"facilitator-notes-adapting-these-prompts"}]]}]
-6e:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"For department-specific workshops:"}]}]
-6f:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"If your workshop focuses on a specific goal (e.g., “all math faculty exploring problem generation”), you can:"}]
-70:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Narrow Set 3 to 2-3 relevant scenarios instead of 5"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Make prompts less generic by pre-filling discipline and context"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Add department-specific evaluation criteria"}],"\n"]}]
-71:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Example adaptation for narrower focus:"}]}]
-72:["$","blockquote",null,{"className":"x:not-first:mt-[1.25em] x:border-gray-300 x:italic x:text-gray-700 x:dark:border-gray-700 x:dark:text-gray-400 x:border-s-2 x:ps-[1.5em]","children":["\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","em",null,{"children":"Math Department Workshop: Multiple Choice Questions for Remediation"}]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Replace Set 3 with ONE prompt:"}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"“I teach [MATH COURSE]. I want to create a bank of multiple-choice questions that help students identify and address their misconceptions in [SPECIFIC TOPIC]."}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Help me design 5 MCQs where:"}],"\n",["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Each incorrect answer represents a common student error or misconception"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"The question requires conceptual understanding, not just procedural recall"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"I can use these for low-stakes self-assessment, not graded exams"}],"\n"]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"For each question, explain what misconception each incorrect answer reveals, so I can provide targeted remediation.”"}],"\n"]}]
-73:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"For broader institutional workshops:"}]}]
-74:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Keep all 5 scenarios in Set 3 and let participants choose based on their interests. This creates natural groupings for discussion."}]
-75:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
-76:["$","h2",null,{"id":"after-the-workshop-what-participants-should-do","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["After the Workshop: What Participants Should Do",["$","$L26",null,{"id":"after-the-workshop-what-participants-should-do"}]]}]
-77:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"Immediate next steps (Week 1):"}]}]
-78:["$","ol",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-decimal x:ms-6","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Save your AI-generated ideas from today"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Pick ONE experiment that feels doable"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Refine the experiment using the sandbox template (link to faculty resources)"}],"\n"]}]
-79:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Try it (Weeks 2-4):"}],"\n4. Run your small experiment\n5. Document what happens (honestly - failures are data)\n6. Collect evidence (screenshots, student responses, your observations)"]}]
-7a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Share back (end-of-semester):"}],"\n7. Optional: Reconnect with today’s cohort\n8. Share what you tried, what worked, what didn’t\n9. Decide what to continue, modify, or stop"]}]
-7b:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"The goal is not to become an AI expert. The goal is to stay curious, try small things, and build judgment about what serves your students’ learning."}]
-7c:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
-7d:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"End of Workshop Prompts Document"}]}]
-80:T455a,# Workshop Prompts
+65:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["$","strong",null,{"children":"End of Workshop Prompts Document"}]}]
+6f:T4fca,import { WorkshopPrompt } from '../../src/components/WorkshopPrompt'
+
+# Workshop Prompts
 
 ## How to Use These Prompts
 
-All prompts below are **ready to copy and paste into ChatGPT** (or another LLM).
+All prompts below are **ready to copy and paste into ChatGPT** (or another LLM). Click "Show Prompt" to expand, then click "Copy Prompt" to copy.
 
-**For facilitators:** Use Set 1 prompts to prepare your demonstration.
+**For facilitators:** Use or modify Set 1 prompts to prepare your demonstration.
 
-**For participants:** You'll use Set 2 (hands-on activity) and Set 3 (brainstorming) during the workshop.
+**For participants:** You'll use Set 2 (hands-on activity) and Set 3 (brainstormin/design) during the workshop.
 
 ---
 
@@ -527,16 +724,18 @@ All prompts below are **ready to copy and paste into ChatGPT** (or another LLM).
 
 Choose ONE of these scenarios to demonstrate during the workshop. You can run this beforehand and show the output, or run it live.
 
-**Purpose:** Show participants what a sandbox experiment looks like - small, specific, and tied to real teaching challenges.
+**Purpose:** Show participants what a sandbox experiment looks like. It should be small, specific, and tied to real teaching challenges.
 
-**Facilitator note:** Modify these to match your audience's disciplines if running a department-specific workshop.
+**Facilitator note:** Modify these to match your audience's disciplines. E.g., if running a department-specific workshop.
 
 ---
 
 ### Scenario A: Generating Discussion Prompts (Social Sciences/Humanities)
 
-```
-I'm a college sociology instructor preparing for a class discussion on social stratification. I typically create 3-4 discussion prompts per class, but they often feel repetitive or too broad.
+<WorkshopPrompt
+  title="📝 Facilitator Demo: Discussion Prompts for Social Sciences"
+  description="Expected output: 5 discussion prompts with brief rationale. Facilitator reviews these with participants, discussing what makes them 'sandbox-appropriate' (specific, testable, reversible)."
+  prompt={`I'm a college sociology instructor preparing for a class discussion on social stratification. I typically create 3-4 discussion prompts per class, but they often feel repetitive or too broad.
 
 Help me generate 5 alternative discussion prompts for a 75-minute class on social stratification.
 
@@ -552,17 +751,17 @@ I want prompts that:
 - Are specific enough to spark debate but open enough for multiple perspectives
 - Connect theory to students' lived experiences
 - Encourage students to analyze rather than just describe
-- Can be answered in 10-15 minutes of small group discussion
-```
-
-**Expected output:** 5 discussion prompts with brief rationale. Facilitator reviews these with participants, discussing what makes them "sandbox-appropriate" (specific, testable, reversible).
+- Can be answered in 10-15 minutes of small group discussion`}
+/>
 
 ---
 
 ### Scenario B: Creating Scaffolded Practice Problems (STEM)
 
-```
-I teach introductory calculus at a community college. Many of my students struggle with the concept of limits - they can follow my examples but freeze when trying problems on their own.
+<WorkshopPrompt
+  title="📐 Facilitator Demo: Scaffolded Practice Problems for STEM"
+  description="Expected output: 4 scaffolded problems with hints and progression notes. Facilitator highlights how this could be used as a small experiment: 'Try this sequence in one section, compare to your usual problems in another section.'"
+  prompt={`I teach introductory calculus at the college level. Many of my students struggle with the concept of limits. They can follow my examples but freeze when trying problems on their own.
 
 Help me create a scaffolded sequence of 4 practice problems on limits that gradually increase in difficulty.
 
@@ -577,17 +776,17 @@ For each problem:
 2. Indicate what new challenge this problem introduces compared to the previous one
 3. Suggest one hint I could give if students get stuck
 
-The first problem should be very straightforward. The fourth should be challenging but still solvable with the techniques we've covered.
-```
-
-**Expected output:** 4 scaffolded problems with hints and progression notes. Facilitator highlights how this could be used as a small experiment: "Try this sequence in one section, compare to your usual problems in another section."
+The first problem should be very straightforward. The fourth should be challenging but still solvable with the techniques we've covered.`}
+/>
 
 ---
 
 ### Scenario C: Designing Low-Stakes Reflection Prompts (Any Discipline)
 
-```
-I teach a professional writing course and want to incorporate more reflective practice without adding to my grading load. I'm interested in using short reflection prompts at the end of each class.
+<WorkshopPrompt
+  title="💭 Facilitator Demo: Reflection Prompts for Any Discipline"
+  description="Expected output: 5 varied reflection prompts with implementation suggestions. Facilitator emphasizes documentation: 'You'd want to note which prompts generated the most thoughtful responses.'"
+  prompt={`I teach a professional writing course and want to incorporate more reflective practice without adding to my grading load. I'm interested in using short reflection prompts at the end of each class.
 
 Help me create 5 different one-minute reflection prompts that encourage students to think about their learning process without requiring extensive written responses.
 
@@ -603,10 +802,8 @@ For each prompt:
 2. Explain what aspect of learning this prompt targets (skill development, process awareness, confidence, etc.)
 3. Suggest how students might respond (whole class artifact, quick write, think-pair-share, etc.)
 
-Keep prompts simple, specific, and genuinely useful for students to think about their progress.
-```
-
-**Expected output:** 5 varied reflection prompts with implementation suggestions. Facilitator emphasizes documentation: "You'd want to note which prompts generated the most thoughtful responses."
+Keep prompts simple, specific, and genuinely useful for students to think about their progress.`}
+/>
 
 ---
 
@@ -620,38 +817,35 @@ Keep prompts simple, specific, and genuinely useful for students to think about 
 
 ### Activity: Brainstorm Your Own Teaching Challenge
 
-```
-I'm a college instructor exploring how AI might support my teaching. I want to brainstorm small, reversible experiments I could try in my course.
+<WorkshopPrompt
+  title="✨ Participant Activity: Brainstorm Your Own Experiments"
+  description="Fill in your context, copy to ChatGPT, review ideas, pick ONE, and be ready to share. Time: 10-15 minutes."
+  prompt={`I'm a college instructor exploring whether and how AI might support my teaching. I want to design small, reversible experiments I could try in my course.
 
-Help me generate 5 potential "sandbox experiments" - small, low-risk ways to experiment with AI in teaching.
+Help me generate 5 potential sandbox experiments: small, low-risk trials I can run, observe carefully, and then decide whether to keep, revise, or discard.
 
 Context about my teaching:
 - Discipline: [INSERT YOUR DISCIPLINE OR SUBJECT AREA]
-- Course level: [e.g., first-year intro, upper-level specialized, graduate, mixed]
-- One thing that feels stuck, repetitive, or challenging in my teaching: [INSERT YOUR CHALLENGE - be specific]
-- What I value most in teaching: [e.g., deep discussion, student agency, conceptual understanding, practical skills, etc.]
+- Course level: [e.g., first-year intro]
+- One thing that feels stuck, repetitive, or challenging in my teaching or in my students' learning (e.g., misconceptions, feedback cycles, engagement, transfer of skills):
+  [INSERT YOUR CHALLENGE – be specific]
+- What I value most in teaching:
+  [e.g., deep discussion, student agency, conceptual understanding, practical skills, etc.]
 
 For each experiment idea:
-1. Give it a clear, specific title (not generic like "Use AI for feedback")
-2. Describe exactly what I would do (1-2 sentences)
-3. Explain what I would learn from trying this (what question would this answer?)
-4. Note one potential risk or concern to watch for
+- Give it a clear, specific title (avoid generic labels like "Use AI for feedback")
+- Describe exactly what I would do (1–2 sentences)
+- Explain what I would learn from trying this (what question does this experiment help answer?)
+- Note one potential risk or concern to watch for (a signal the experiment may need adjustment or stopping early)
 
 I want experiments that are:
 - Small enough to try in one or two class sessions
 - Reversible (I can stop if it's not working)
 - Focused on student learning, not just saving me time
-- Aligned with my teaching values
-```
+- Aligned with my pedagogical values
 
-**What to do:**
-1. Fill in your context (discipline, course level, challenge, values)
-2. Copy the full prompt into ChatGPT
-3. Review the 5 experiment ideas
-4. Pick ONE that feels most relevant to you
-5. Be ready to share in small groups
-
-**Time for this activity:** 10-15 minutes
+If anything is unclear or underspecified, ask at most one or two brief clarification questions before proposing experiments.`}
+/>
 
 ---
 
@@ -667,33 +861,39 @@ I want experiments that are:
 
 ### Scenario A: Generating Teaching Materials
 
-**Use this if you want to explore:** Creating prompts, examples, practice problems, or other instructional content
+Use this scenario if you want to explore AI support for creating prompts, examples, practice problems, or other instructional materials students directly engage with.
 
-```
-I want to explore using AI to help me generate teaching materials more efficiently while maintaining quality and pedagogical soundness.
+<WorkshopPrompt
+  title="📚 Scenario A: Generating Teaching Materials"
+  description="Design a small experiment for creating teaching materials with AI assistance and compare to your usual approach."
+  prompt={`I want to explore using AI to support the creation of teaching materials while maintaining quality and pedagogical soundness.
 
-Help me design a small experiment for creating [CHOOSE ONE: discussion prompts / practice problems / worked examples / assignment variations / reading comprehension questions].
+Help me design a small experiment for creating:
+**[CHOOSE ONE: discussion prompts / practice problems / worked examples / assignment variations / reading comprehension questions].**
 
 Context:
-- Discipline: [YOUR DISCIPLINE]
-- Specific topic or concept: [BE SPECIFIC - e.g., "photosynthesis for intro biology" not just "biology"]
-- Current challenge: [What's hard about creating these materials now? Time? Variety? Quality? Accessibility?]
-- How I currently create these: [Your current process]
+* Discipline: [YOUR DISCIPLINE]
+* Specific topic or concept:
+  [Be specific — e.g., "photosynthesis for intro biology," not just "biology"]
+* Current challenge:
+  [What's hard about creating these materials now? Time? Variety? Quality? Accessibility?]
+* How I currently create these:
+  [Briefly describe your current process]
 
 Design an experiment where I:
 1. Create materials using AI assistance
-2. Compare them to my usual approach
+2. Compare them to my usual approach using criteria I already care about (e.g., clarity, alignment, level, accessibility)
 3. Document what's better, worse, or different
-4. Decide if this is worth continuing
+4. Decide whether this approach is worth continuing
 
 For this experiment, provide:
-- The specific prompt I should use to generate materials (write it out exactly)
-- What criteria I should use to evaluate the AI-generated materials
-- What evidence I should collect (screenshots, student responses, my own observations)
-- One risk to watch for and how to mitigate it
+* The exact prompt I should use to generate materials
+* Criteria I should use to evaluate the AI-generated materials
+* Evidence I should collect (e.g., screenshots, student responses, my own annotated observations)
+* One risk to watch for, how to mitigate it, and what would prompt me to stop the experiment
 
-Keep the experiment small - I should be able to try this in one week.
-```
+Keep the experiment small — I should be able to try this within one week.`}
+/>
 
 ---
 
@@ -701,130 +901,165 @@ Keep the experiment small - I should be able to try this in one week.
 
 **Use this if you want to explore:** Using AI to identify patterns in student work, generate feedback, or streamline assessment
 
-```
-I want to explore using AI to help me provide better or more efficient feedback to students.
+<WorkshopPrompt
+  title="✍️ Scenario B: Providing Feedback and Assessment Support"
+  description="Design a small experiment for using AI to support aspects of feedback or assessment without replacing your judgment."
+  prompt={`I want to explore whether AI can support aspects of feedback or assessment in my course without replacing my judgment or diluting learning.
 
-Help me design a small experiment for [CHOOSE ONE: identifying common misconceptions / generating personalized feedback / creating rubrics / spotting patterns in student errors / providing revision suggestions].
+Help me design a small, reversible experiment related to: [CHOOSE ONE: formative feedback on drafts / feedback on problem-solving processes / rubric interpretation / exemplars and commentary / self- or peer-feedback scaffolds].
 
 Context:
-- Discipline: [YOUR DISCIPLINE]
-- Type of student work: [e.g., short essays, problem sets, lab reports, discussion posts, presentations]
-- Current challenge: [What's hard about feedback now? Volume? Consistency? Depth? Timeliness?]
-- What good feedback looks like in my discipline: [Be specific - what do students need to hear?]
+
+Discipline: [YOUR DISCIPLINE]
+- Course level: [intro / intermediate / advanced]
+- Type of task or assessment: [e.g., lab report, essay draft, problem set, presentation]
+- Current challenge: [What feels difficult or stuck right now? Time, consistency, student uptake, depth of feedback, etc.]
+- How feedback or assessment currently works: [Briefly describe your current approach]
 
 Design an experiment where I:
-1. Use AI to assist with feedback on a small sample of student work (5-10 samples)
-2. Compare AI-assisted feedback to my usual feedback
-3. Consider student learning impact (not just my time savings)
-4. Decide what role, if any, AI should play
+
+1. Use AI in a clearly bounded role to support feedback or assessment-related work
+2. Compare the experience and outcomes to my usual approach
+3. Observe how students interpret and act on the feedback
+4. Decide whether this approach supports learning well enough to continue
 
 For this experiment, provide:
-- The specific prompt I should use (include what information about students/assignment I should give the AI)
-- How to ensure feedback remains pedagogically sound and discipline-appropriate
-- What evidence I should collect to evaluate whether this experiment is successful
-- Ethical considerations: What should I tell students? What should I NOT rely on AI for?
 
-Keep the experiment small - I should be able to try this with one assignment.
-```
+- The exact prompt I should use (including guardrails or instructions to the AI)
+- A clear description of what the AI does and does not do
+- Criteria I should use to judge the quality and usefulness of the feedback
+- Evidence I should collect (e.g., samples of feedback, student revisions, my own observations)
+- One risk to watch for, how to mitigate it, and what would prompt me to stop the experiment
+
+Keep the experiment small — I should be able to try this with a single assignment, draft, or class session.
+
+If anything in my context is unclear or underspecified, ask one brief clarification question before proposing an experiment.`}
+/>
 
 ---
 
-### Scenario C: Scaffolding and Supporting Struggling Students
+### Scenario C: Supporting Student Sense-Making and Metacognition
 
-**Use this if you want to explore:** Creating differentiated materials, additional support resources, or adaptive scaffolding
+Use this scenario if you want to explore AI as a thinking partner or mirror to help students clarify ideas, surface misconceptions, or reflect on their learning process without outsourcing thinking.
 
-```
-I want to explore using AI to better support students who are struggling with course concepts.
+<WorkshopPrompt
+  title="🎯 Scenario C: Supporting Student Sense-Making & Metacognition"
+  description="Design an experiment for using AI to support student sense-making or reflection without replacing their own reasoning."
+  prompt={`I want to explore whether AI can support student sense-making or reflection in my course without replacing students' own reasoning or voice.
 
-Help me design a small experiment for [CHOOSE ONE: creating simplified explanations / generating additional practice / building concept maps / providing just-in-time hints / differentiating materials for different skill levels].
+Help me design a small, reversible experiment related to:
+[CHOOSE ONE: concept explanation / misconception checking / reflective writing / exam wrappers / learning journals / self-explanation prompts].
 
 Context:
-- Discipline: [YOUR DISCIPLINE]
-- Specific concept students struggle with: [BE SPECIFIC]
-- What makes this concept hard: [Abstraction? Prerequisites? Terminology? Application?]
-- What I currently do to support struggling students: [Your current approach]
-- What I wish I had time/capacity to do: [Your ideal support]
+
+ Discipline: [YOUR DISCIPLINE]
+- Course level: [intro, etc.]
+- Type of learning activity: [e.g., in-class discussion, homework, reflection, review activity]
+- Current challenge:
+  [What's difficult right now? Superficial understanding, poor transfer, lack of reflection, overconfidence, etc.]
+- How students currently approach this task:
+  [Brief description]
 
 Design an experiment where I:
-1. Use AI to create scaffolding or support materials
-2. Try them with a small group of students who need extra help
-3. Observe whether students can use these materials productively
-4. Decide if this approach helps without creating dependency
+1. Introduce AI as a *bounded support* for sense-making or reflection
+2. Make the AI's role explicit to students (what it can and cannot do)
+3. Observe how students use, resist, or reinterpret the AI's input
+4. Decide whether this approach meaningfully supports learning
 
 For this experiment, provide:
-- The specific prompt I should use to generate support materials
-- How to test whether materials actually help students understand (not just complete the work)
-- What evidence I should collect (student work, confidence, follow-up performance)
-- One major risk: How do I ensure students are still doing the cognitive work, not just consuming AI-generated content?
 
-Keep the experiment small - I should be able to try this with 3-5 students over one week.
-```
+* The exact prompt students would use with the AI
+* Clear instructions I would give students about how to use (and not use) the AI
+* What I would look for to tell whether sense-making has improved
+* Evidence I should collect (student work samples, reflections, observations)
+* One risk to watch for, how to mitigate it, and what would prompt me to stop
+
+Keep the experiment small — this should fit into one activity or class session.
+
+*If anything in my context is unclear, ask one brief clarification question before responding.*`}
+/>
 
 ---
 
-### Scenario D: Brainstorming Assignment Design or Course Improvements
+### Scenario D: Classroom Interaction and Discussion
 
-**Use this if you want to explore:** Redesigning assignments, generating new activity ideas, or refreshing course structure
+Use this scenario if you want to explore AI as a way to reshape or enrich classroom interaction.
 
-```
-I want to use AI as a brainstorming partner to improve an assignment or activity that isn't working well.
+<WorkshopPrompt
+  title="💡 Scenario D: Classroom Interaction & Discussion"
+  description="Design an experiment for using AI to support richer classroom interaction or discussion without flattening voices or short-circuiting debate."
+  prompt={`I want to explore whether AI can support richer classroom interaction or discussion *without flattening voices or short-circuiting debate*.
 
-Help me redesign [CHOOSE ONE: a writing assignment / a group project / a lab activity / a discussion activity / a problem set / an assessment].
+Help me design a small, reversible experiment related to:
+[CHOOSE ONE: discussion preparation / debate framing / question generation / perspective-taking / case analysis / synthesis activities].
 
 Context:
 - Discipline: [YOUR DISCIPLINE]
-- Current assignment/activity: [Describe what students currently do - be specific]
-- What's not working: [Student engagement? Learning outcomes? Clarity? Authenticity? Too easy/hard?]
-- What I want students to learn or practice: [Learning objective - be specific]
-- Constraints I need to maintain: [Time, resources, class size, etc.]
+- Course level: [intro / intermediate / advanced]
+- Type of class session: [lecture, seminar, lab, workshop]
+- Current challenge:
+  [What feels stuck? Low participation, predictable responses, surface discussion, uneven voices, etc.]
+- How discussion currently works:
+  [Brief description]
 
 Design an experiment where I:
-1. Use AI to generate 3-5 alternative versions or significant modifications
-2. Select one to pilot in the next offering of this course
-3. Compare student work/engagement/learning to the original version
-4. Decide what to keep, modify, or discard
+1. Use AI before, during, or after class in a clearly defined role
+2. Make the AI's contribution transparent to students
+3. Observe how the quality and dynamics of discussion change
+4. Decide whether this approach supports the kind of interaction I value
 
 For this experiment, provide:
-- The specific prompt I should use to generate alternatives (include what context the AI needs)
-- What criteria I should use to evaluate whether alternatives are actually better (not just different)
-- How to pilot test this without risking student learning (try in one section? optional version? small group?)
-- What evidence I should collect to make an informed decision
+- The exact prompt I would use (or give to students)
+- How AI input would be positioned (pre-work, catalyst, contrast, synthesis)
+- Criteria I should use to judge discussion quality
+- Evidence I should collect (notes, recordings, student feedback, my own reflections)
+- One risk to watch for, how to mitigate it, and what would prompt me to stop
 
-Keep the experiment small - I should be able to pilot one alternative in the next 2-4 weeks.
-```
+Keep the experiment small — one class session is enough.
+
+If anything in my context is unclear, ask one brief clarification question before responding.`}
+/>
 
 ---
 
-### Scenario E: Student-Facing AI Use (Teaching Students to Use AI Critically)
+### Scenario E: Explicit Expectations and Academic Integrity
 
-**Use this if you want to explore:** Having students use AI as a tool, then teaching them to evaluate and improve outputs
+**Use this if you want to explore:** Making AI use expectations explicit and discussable to improve academic integrity and student decision-making
 
-```
-I want to design an activity where students USE AI as part of their learning, then critically evaluate what it produces.
+<WorkshopPrompt
+  title="🎓 Scenario E: Explicit Expectations and Academic Integrity"
+  description="Design an experiment for making AI use expectations explicit to improve clarity and trust with students."
+  prompt={`I want to explore whether making expectations about AI use explicit and discussable can improve academic integrity and student decision-making in my course.
 
-Help me design a student-facing activity where students [CHOOSE ONE: critique AI-generated content in my discipline / use AI to generate a draft then revise it / compare AI outputs to expert/peer work / identify errors or limitations in AI responses].
+Help me design a small, reversible experiment related to:
+[CHOOSE ONE: AI use statements / assignment-specific boundaries / citation & disclosure practices / student decision logs / integrity discussions].
 
 Context:
 - Discipline: [YOUR DISCIPLINE]
-- What makes something "good" or "accurate" in my field: [Discipline-specific quality markers]
-- Learning goal: [What should students learn by doing this? Critical evaluation? Revision skills? Domain knowledge?]
-- Student skill level: [Are they novices or do they have disciplinary expertise?]
-- How much time in class: [One class period? Homework? Multi-week project?]
+- Course level: [intro / intermediate / advanced]
+- Type of assignment or activity: [e.g., essay, problem set, lab report, project]
+- Current concern or tension:
+  [What feels unclear or fragile right now? Confusion about rules, inconsistent use, fear of misuse, avoidance, etc.]
+- How integrity is currently communicated:
+  [Syllabus language, verbal reminders, policies, honor code, etc.]
 
-Design an experiment where students:
-1. Use AI to generate something discipline-specific (a solution, argument, analysis, design, etc.)
-2. Evaluate what the AI produced using discipline-appropriate criteria
-3. Revise, correct, or improve the AI output
-4. Reflect on what they learned about the discipline (not just about AI)
+Design an experiment where I:
+1. Make expectations about AI use explicit and visible to students
+2. Create space for students to reason about why boundaries exist
+3. Observe how students interpret and act on these expectations
+4. Decide whether this approach improves clarity and trust
 
 For this experiment, provide:
-- The exact prompt students should give to AI (written so students can copy/paste)
-- The evaluation rubric or criteria students should use to assess AI output
-- What I should emphasize to students about citing AI, learning vs. outsourcing, and academic integrity
-- What evidence I should collect to know if students actually learned disciplinary skills (not just how to use AI)
+- The exact language or prompt I would share with students
+- How I would introduce or frame this conversation or activity
+- What signals would indicate improved understanding or integrity
+- Evidence I should collect (student questions, disclosures, reflections, my own observations)
+- One risk to watch for, how to mitigate it, and what would prompt me to stop
 
-Keep the experiment small - this should be completable in 1-2 class periods or one homework assignment.
-```
+Keep the experiment small. This should fit within a single assignment or class discussion.
+
+If anything in my context is unclear, ask one brief clarification question before responding.`}
+/>
 
 ---
 
@@ -853,18 +1088,18 @@ Keep the experiment small - this should be completable in 1-2 class periods or o
 
 **For department-specific workshops:**
 
-If your workshop focuses on a specific goal (e.g., "all math faculty exploring problem generation"), you can:
+If your workshop focuses on a specific goal (e.g., "all physics faculty exploring problem generation"), you can:
 - Narrow Set 3 to 2-3 relevant scenarios instead of 5
 - Make prompts less generic by pre-filling discipline and context
 - Add department-specific evaluation criteria
 
 **Example adaptation for narrower focus:**
 
-> *Math Department Workshop: Multiple Choice Questions for Remediation*
+> *Physics Department Workshop: Multiple Choice Questions for Remediation*
 >
 > Replace Set 3 with ONE prompt:
 >
-> "I teach [MATH COURSE]. I want to create a bank of multiple-choice questions that help students identify and address their misconceptions in [SPECIFIC TOPIC].
+> "I teach [PHYS COURSE]. I want to create a bank of multiple-choice questions that help students identify and address their misconceptions in [SPECIFIC TOPIC].
 >
 > Help me design 5 MCQs where:
 > - Each incorrect answer represents a common student error or misconception
@@ -879,19 +1114,14 @@ Keep all 5 scenarios in Set 3 and let participants choose based on their interes
 
 ---
 
-## After the Workshop: What Participants Should Do
+## After the Workshop: For Participants
 
-**Immediate next steps (Week 1):**
 1. Save your AI-generated ideas from today
 2. Pick ONE experiment that feels doable
 3. Refine the experiment using the sandbox template (link to faculty resources)
-
-**Try it (Weeks 2-4):**
 4. Run your small experiment
 5. Document what happens (honestly - failures are data)
 6. Collect evidence (screenshots, student responses, your observations)
-
-**Share back (end-of-semester):**
 7. Optional: Reconnect with today's cohort
 8. Share what you tried, what worked, what didn't
 9. Decide what to continue, modify, or stop
@@ -900,9 +1130,9 @@ The goal is not to become an AI expert. The goal is to stay curious, try small t
 
 ---
 
-**End of Workshop Prompts Document**7e:["$","$L7f",null,{"pageTitle":"Workshop Prompts","pageContent":"$80","audienceSection":"workshop"}]
+**End of Workshop Prompts Document**66:["$","$L6e",null,{"pageTitle":"Workshop Prompts","pageContent":"$6f","audienceSection":"workshop"}]
 b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 7:null
-81:I[27201,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"IconMark"]
-9:{"metadata":[["$","title","0",{"children":"Workshop Prompts"}],["$","meta","1",{"name":"description","content":"Documentation for Gen AI Sandbox"}],["$","link","2",{"rel":"icon","href":"/genai-sandbox-dawson/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L81","3",{}]],"error":null,"digest":"$undefined"}
+70:I[27201,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Workshop Prompts"}],["$","meta","1",{"name":"description","content":"Documentation for Gen AI Sandbox"}],["$","link","2",{"rel":"icon","href":"/genai-sandbox-dawson/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L70","3",{}]],"error":null,"digest":"$undefined"}
 e:"$9:metadata"
