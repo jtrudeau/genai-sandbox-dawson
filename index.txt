@@ -8,8 +8,8 @@ c:I[97367,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/gen
 d:"$Sreact.suspense"
 f:I[68027,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"default"]
 :HL["/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","style"]
-:HL["/genai-sandbox-dawson/_next/static/chunks/8a360e7bc5437e91.css","style"]
-0:{"P":null,"b":"K3K9kW60suDLmMwXR4i3g","p":"/genai-sandbox-dawson","c":["",""],"i":false,"f":[[["",{"children":[["mdxPath","","oc"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/8a360e7bc5437e91.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["mdxPath","","oc"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/8a360e7bc5437e91.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+:HL["/genai-sandbox-dawson/_next/static/chunks/8a49515c0a589110.css","style"]
+0:{"P":null,"b":"yQHcAsnxbomvk_dNCP1lu","p":"/genai-sandbox-dawson","c":["",""],"i":false,"f":[[["",{"children":[["mdxPath","","oc"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/8a49515c0a589110.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["mdxPath","","oc"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/8a49515c0a589110.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
 10:I[68386,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"ThemeConfigProvider"]
 11:I[6344,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"LastUpdated"]
 12:I[98091,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"Search"]
@@ -30,47 +30,53 @@ f:I[68027,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/gen
 20:I[55169,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"TOCProvider"]
 21:I[769,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"Sidebar"]
 22:I[47486,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"ClientWrapper"]
-23:Tefe,import { Card } from '../src/components/ui/card'
+23:T1197,import { Card } from '../src/components/ui/card'
 import Link from 'next/link'
 
 # About the Generative AI Sandbox
-The GenAI Sandbox is a low-stakes space for educators to explore what generative AI *might* do for teaching and learning, and what it definitely shouldn't, through small, reversible teaching experiments.
 
-Using AI is not a mandate, and it is not about adopting tools for their own sake.
+The GenAI Sandbox at Dawson College supports practical, low-risk experimentation with generative AI in teaching and learning.
 
+The goal is straightforward: run small, sandboxed experiments, document what you observe, and make informed decisions about what to continue, revise, or stop.
 
-<div className="inline-flex items-center gap-2 px-6 py-3 bg-blue-50 dark:bg-blue-950 rounded-lg border-l-4 border-blue-500 my-8">
-  <span className="text-sm font-medium text-gray-700 dark:text-gray-200">
-{/*     Start small → Try something real → Notice what happens → Reflect with others → Decide what (if anything) to keep
-*/}
-    The sandbox is intended for educators approaching generative AI from different starting points, whether cautiously exploring, actively experimenting, 
-    critically questioning, or simply seeking to make sense of the current landscape.
-  </span>
-</div>
+Using AI is not a mandate. This site is for educators who want a clear, responsible process for testing possibilities in their own context.
 
+<Card className="border-l-4 border-l-blue-500 p-6 my-8">
+  <div className="mb-2">
+    No prior generative AI experience is required.
+  </div>
+  <div className="text-sm text-gray-600 dark:text-gray-400">
+    What matters is keeping experiments sandboxed, documenting judgments, and reflecting on evidence.
+  </div>
+</Card>
 
+## Why a sandbox?
+<Card className="border-l-4 border-l-slate-400 p-6 my-8">
+  <div className="mb-3">
+    A sandbox is a responsible way to work with generative AI in education: start small, protect students and staff from unnecessary risk, and evaluate impact before scaling.
+  </div>
+  <ul className="list-disc pl-5 space-y-2 text-sm text-gray-700 dark:text-gray-300">
+    <li>Define one clear target: a learning activity, assessment task, feedback process, or workflow.</li>
+    <li>Keep scope limited so the experiment is transparent, manageable, and easy to pause.</li>
+    <li>Keep educator judgment central; AI supports decisions, but does not replace them.</li>
+    <li>Document what happened, including benefits, limits, and integrity concerns.</li>
+    <li>Use evidence to decide what to continue, revise, or stop.</li>
+  </ul>
+</Card>
 
-This sandbox concept supports responsible, situated experimentation with generative AI to 
-test interventions, gather evidence about their effects on teaching and learning, 
-and make deliberate decisions about whether an approach should be used in practice, if at all.
-
-
-No prior experience with generative AI is required. What matters most is that experiments 
-are safe, documented, and open to reflection. Not that they succeed.
-
-
-
-
-## Start here
+## Start Here
 <div className="grid grid-cols-1 md:grid-cols-3 gap-6 my-8 not-prose">
   <Link href="/user" className="no-underline block">
     <Card className="h-full hover:scale-[1.02] transition-transform cursor-pointer border-l-4 border-l-blue-500 p-6">
       <div className="flex items-start gap-3">
         <span className="text-3xl">👤</span>
         <div>
-          <div className="text-lg font-bold mb-2 text-gray-900 dark:text-white">I'm a Faculty Member</div>
+          <div className="text-lg font-bold mb-2 text-gray-900 dark:text-white">I&apos;m a Faculty Member</div>
           <div className="text-sm text-gray-600 dark:text-gray-400">
-            Plan and run my own AI experiment in my teaching practice
+            Plan and run one experiment for teaching, assessment, course design, or program work.
+          </div>
+          <div className="mt-3 inline-flex items-center rounded bg-amber-100 px-2 py-1 text-xs font-medium text-amber-800 dark:bg-amber-900 dark:text-amber-200">
+            Coming soon..
           </div>
         </div>
       </div>
@@ -82,9 +88,12 @@ are safe, documented, and open to reflection. Not that they succeed.
       <div className="flex items-start gap-3">
         <span className="text-3xl">🎓</span>
         <div>
-          <div className="text-lg font-bold mb-2 text-gray-900 dark:text-white">I'm a Facilitator</div>
+          <div className="text-lg font-bold mb-2 text-gray-900 dark:text-white">I&apos;m a Facilitator</div>
           <div className="text-sm text-gray-600 dark:text-gray-400">
-            Run sandbox workshops and support faculty experiments
+            Prepare and run workshops that support sandboxed experimentation and reflective follow-through.
+          </div>
+          <div className="mt-3 inline-flex items-center rounded bg-amber-100 px-2 py-1 text-xs font-medium text-amber-800 dark:bg-amber-900 dark:text-amber-200">
+            Coming soon..
           </div>
         </div>
       </div>
@@ -98,7 +107,7 @@ are safe, documented, and open to reflection. Not that they succeed.
         <div>
           <div className="text-lg font-bold mb-2 text-gray-900 dark:text-white">Workshop-in-a-Box</div>
           <div className="text-sm text-gray-600 dark:text-gray-400">
-            Ready-to-run Dawson College pilot materials and guide
+            Use ready-to-run workshop materials from the Dawson pilot and adapt them to your context.
           </div>
         </div>
       </div>
@@ -106,24 +115,24 @@ are safe, documented, and open to reflection. Not that they succeed.
   </Link>
 </div>
 
-## What is the Sandbox?
+## What This Site Provides
 <Card className="border-l-4 border-l-blue-500 p-6 my-8">
-  <div className="mb-4">
-    A structured space for <strong>small, reversible experiments</strong> with generative AI in teaching.
-    The Sandbox helps you plan, run, document, and reflect on AI-assisted approaches before committing to large-scale changes.
-  </div>
-  <div className="text-sm text-gray-600 dark:text-gray-400">
-    Guided by Dawson's principles of <strong>Humanism, Responsibility, and Transparency</strong>.
-  </div>
-</Card>5:["$","div",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width)","children":["$","$L20",null,{"value":[{"value":"Start here","id":"start-here","depth":2},{"value":"What is the Sandbox?","id":"what-is-the-sandbox","depth":2}],"children":[["$","$L21",null,{}],["$","$L22",null,{"metadata":"$2:props:children:1:props:children:props:children:props:children:2:props:pageMap:1:frontMatter","bottomContent":"$undefined","sourceCode":"$23","children":["$L24","$L25"]}]]}]}]
+  <ul className="list-disc pl-5 space-y-2">
+    <li>Practical guidance for planning and running one sandboxed experiment.</li>
+    <li>Workshop resources that can be adapted across disciplines and roles.</li>
+    <li>Templates to document evidence and support reflective decisions.</li>
+  </ul>
+</Card>5:["$","div",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width)","children":["$","$L20",null,{"value":[{"value":"Why a sandbox?","id":"why-a-sandbox","depth":2},{"value":"Start Here","id":"start-here","depth":2},{"value":"What This Site Provides","id":"what-this-site-provides","depth":2}],"children":[["$","$L21",null,{}],["$","$L22",null,{"metadata":"$2:props:children:1:props:children:props:children:props:children:2:props:pageMap:1:frontMatter","bottomContent":"$undefined","sourceCode":"$23","children":["$L24","$L25"]}]]}]}]
 26:I[63894,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"HeadingAnchor"]
 24:["$","div",null,{"id":"nextra-skip-nav"}]
-25:["$","main",null,{"data-pagefind-body":true,"children":[["$","h1",null,{"id":"$undefined","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-bold x:mt-2 x:text-4xl","children":["About the Generative AI Sandbox","$undefined"]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["The GenAI Sandbox is a low-stakes space for educators to explore what generative AI ",["$","em",null,{"children":"might"}]," do for teaching and learning, and what it definitely shouldn’t, through small, reversible teaching experiments."]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Using AI is not a mandate, and it is not about adopting tools for their own sake."}],"\n",["$","div",null,{"className":"inline-flex items-center gap-2 px-6 py-3 bg-blue-50 dark:bg-blue-950 rounded-lg border-l-4 border-blue-500 my-8","children":["$","span",null,{"className":"text-sm font-medium text-gray-700 dark:text-gray-200","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"The sandbox is intended for educators approaching generative AI from different starting points, whether cautiously exploring, actively experimenting,\ncritically questioning, or simply seeking to make sense of the current landscape."}]}]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"This sandbox concept supports responsible, situated experimentation with generative AI to\ntest interventions, gather evidence about their effects on teaching and learning,\nand make deliberate decisions about whether an approach should be used in practice, if at all."}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"No prior experience with generative AI is required. What matters most is that experiments\nare safe, documented, and open to reflection. Not that they succeed."}],"\n",["$","h2",null,{"id":"start-here","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Start here",["$","$L26",null,{"id":"start-here"}]]}],"\n",["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-6 my-8 not-prose","children":[["$","$L1a",null,{"href":"/user","className":"no-underline block","children":["$","div",null,{"className":"rounded-lg border bg-white dark:bg-gray-900 border-gray-200 dark:border-gray-800 shadow-sm hover:shadow-md h-full hover:scale-[1.02] transition-transform cursor-pointer border-l-4 border-l-blue-500 p-6","children":["$","div",null,{"className":"flex items-start gap-3","children":[["$","span",null,{"className":"text-3xl","children":"👤"}],["$","div",null,{"children":[["$","div",null,{"className":"text-lg font-bold mb-2 text-gray-900 dark:text-white","children":"I’m a Faculty Member"}],["$","div",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Plan and run my own AI experiment in my teaching practice"}]}]]}]]}]}]}],["$","$L1a",null,{"href":"/facilitator","className":"no-underline block","children":["$","div",null,{"className":"rounded-lg border bg-white dark:bg-gray-900 border-gray-200 dark:border-gray-800 shadow-sm hover:shadow-md h-full hover:scale-[1.02] transition-transform cursor-pointer border-l-4 border-l-green-500 p-6","children":["$","div",null,{"className":"flex items-start gap-3","children":[["$","span",null,{"className":"text-3xl","children":"🎓"}],["$","div",null,{"children":[["$","div",null,{"className":"text-lg font-bold mb-2 text-gray-900 dark:text-white","children":"I’m a Facilitator"}],["$","div",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Run sandbox workshops and support faculty experiments"}]}]]}]]}]}]}],"$L27"]}],"\n","$L28","\n","$L29"]}]
-27:["$","$L1a",null,{"href":"/workshop-in-a-box","className":"no-underline block","children":["$","div",null,{"className":"rounded-lg border bg-white dark:bg-gray-900 border-gray-200 dark:border-gray-800 shadow-sm hover:shadow-md h-full hover:scale-[1.02] transition-transform cursor-pointer border-l-4 border-l-purple-500 p-6","children":["$","div",null,{"className":"flex items-start gap-3","children":[["$","span",null,{"className":"text-3xl","children":"📦"}],["$","div",null,{"children":[["$","div",null,{"className":"text-lg font-bold mb-2 text-gray-900 dark:text-white","children":"Workshop-in-a-Box"}],["$","div",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Ready-to-run Dawson College pilot materials and guide"}]}]]}]]}]}]}]
-28:["$","h2",null,{"id":"what-is-the-sandbox","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["What is the Sandbox?",["$","$L26",null,{"id":"what-is-the-sandbox"}]]}]
-29:["$","div",null,{"className":"rounded-lg border bg-white dark:bg-gray-900 border-gray-200 dark:border-gray-800 shadow-sm hover:shadow-md transition-shadow border-l-4 border-l-blue-500 p-6 my-8","children":[["$","div",null,{"className":"mb-4","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["A structured space for ",["$","strong",null,{"children":"small, reversible experiments"}]," with generative AI in teaching.\nThe Sandbox helps you plan, run, document, and reflect on AI-assisted approaches before committing to large-scale changes."]}]}],["$","div",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["Guided by Dawson’s principles of ",["$","strong",null,{"children":"Humanism, Responsibility, and Transparency"}],"."]}]}]]}]
+25:["$","main",null,{"data-pagefind-body":true,"children":[["$","h1",null,{"id":"$undefined","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-bold x:mt-2 x:text-4xl","children":["About the Generative AI Sandbox","$undefined"]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"The GenAI Sandbox at Dawson College supports practical, low-risk experimentation with generative AI in teaching and learning."}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"The goal is straightforward: run small, sandboxed experiments, document what you observe, and make informed decisions about what to continue, revise, or stop."}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Using AI is not a mandate. This site is for educators who want a clear, responsible process for testing possibilities in their own context."}],"\n",["$","div",null,{"className":"rounded-lg border bg-white dark:bg-gray-900 border-gray-200 dark:border-gray-800 shadow-sm hover:shadow-md transition-shadow border-l-4 border-l-blue-500 p-6 my-8","children":[["$","div",null,{"className":"mb-2","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"No prior generative AI experience is required."}]}],["$","div",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"What matters is keeping experiments sandboxed, documenting judgments, and reflecting on evidence."}]}]]}],"\n",["$","h2",null,{"id":"why-a-sandbox","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Why a sandbox?",["$","$L26",null,{"id":"why-a-sandbox"}]]}],"\n",["$","div",null,{"className":"rounded-lg border bg-white dark:bg-gray-900 border-gray-200 dark:border-gray-800 shadow-sm hover:shadow-md transition-shadow border-l-4 border-l-slate-400 p-6 my-8","children":[["$","div",null,{"className":"mb-3","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"A sandbox is a responsible way to work with generative AI in education: start small, protect students and staff from unnecessary risk, and evaluate impact before scaling."}]}],["$","ul",null,{"className":"list-disc pl-5 space-y-2 text-sm text-gray-700 dark:text-gray-300","children":[["$","li",null,{"children":"Define one clear target: a learning activity, assessment task, feedback process, or workflow."}],["$","li",null,{"children":"Keep scope limited so the experiment is transparent, manageable, and easy to pause."}],["$","li",null,{"children":"Keep educator judgment central; AI supports decisions, but does not replace them."}],["$","li",null,{"children":"Document what happened, including benefits, limits, and integrity concerns."}],["$","li",null,{"children":"Use evidence to decide what to continue, revise, or stop."}]]}]]}],"\n",["$","h2",null,{"id":"start-here","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Start Here",["$","$L26",null,{"id":"start-here"}]]}],"\n",["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-6 my-8 not-prose","children":[["$","$L1a",null,{"href":"/user","className":"no-underline block","children":["$","div",null,{"className":"rounded-lg border bg-white dark:bg-gray-900 border-gray-200 dark:border-gray-800 shadow-sm hover:shadow-md h-full hover:scale-[1.02] transition-transform cursor-pointer border-l-4 border-l-blue-500 p-6","children":["$","div",null,{"className":"flex items-start gap-3","children":[["$","span",null,{"className":"text-3xl","children":"👤"}],"$L27"]}]}]}],"$L28","$L29"]}],"\n","$L2a","\n","$L2b"]}]
+27:["$","div",null,{"children":[["$","div",null,{"className":"text-lg font-bold mb-2 text-gray-900 dark:text-white","children":"I’m a Faculty Member"}],["$","div",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Plan and run one experiment for teaching, assessment, course design, or program work."}]}],["$","div",null,{"className":"mt-3 inline-flex items-center rounded bg-amber-100 px-2 py-1 text-xs font-medium text-amber-800 dark:bg-amber-900 dark:text-amber-200","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Coming soon.."}]}]]}]
+28:["$","$L1a",null,{"href":"/facilitator","className":"no-underline block","children":["$","div",null,{"className":"rounded-lg border bg-white dark:bg-gray-900 border-gray-200 dark:border-gray-800 shadow-sm hover:shadow-md h-full hover:scale-[1.02] transition-transform cursor-pointer border-l-4 border-l-green-500 p-6","children":["$","div",null,{"className":"flex items-start gap-3","children":[["$","span",null,{"className":"text-3xl","children":"🎓"}],["$","div",null,{"children":[["$","div",null,{"className":"text-lg font-bold mb-2 text-gray-900 dark:text-white","children":"I’m a Facilitator"}],["$","div",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Prepare and run workshops that support sandboxed experimentation and reflective follow-through."}]}],["$","div",null,{"className":"mt-3 inline-flex items-center rounded bg-amber-100 px-2 py-1 text-xs font-medium text-amber-800 dark:bg-amber-900 dark:text-amber-200","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Coming soon.."}]}]]}]]}]}]}]
+29:["$","$L1a",null,{"href":"/workshop-in-a-box","className":"no-underline block","children":["$","div",null,{"className":"rounded-lg border bg-white dark:bg-gray-900 border-gray-200 dark:border-gray-800 shadow-sm hover:shadow-md h-full hover:scale-[1.02] transition-transform cursor-pointer border-l-4 border-l-purple-500 p-6","children":["$","div",null,{"className":"flex items-start gap-3","children":[["$","span",null,{"className":"text-3xl","children":"📦"}],["$","div",null,{"children":[["$","div",null,{"className":"text-lg font-bold mb-2 text-gray-900 dark:text-white","children":"Workshop-in-a-Box"}],["$","div",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Use ready-to-run workshop materials from the Dawson pilot and adapt them to your context."}]}]]}]]}]}]}]
+2a:["$","h2",null,{"id":"what-this-site-provides","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["What This Site Provides",["$","$L26",null,{"id":"what-this-site-provides"}]]}]
+2b:["$","div",null,{"className":"rounded-lg border bg-white dark:bg-gray-900 border-gray-200 dark:border-gray-800 shadow-sm hover:shadow-md transition-shadow border-l-4 border-l-blue-500 p-6 my-8","children":["$","ul",null,{"className":"list-disc pl-5 space-y-2","children":[["$","li",null,{"children":"Practical guidance for planning and running one sandboxed experiment."}],["$","li",null,{"children":"Workshop resources that can be adapted across disciplines and roles."}],["$","li",null,{"children":"Templates to document evidence and support reflective decisions."}]]}]}]
 b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 7:null
-2a:I[27201,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"IconMark"]
-9:{"metadata":[["$","title","0",{"children":"About the Generative AI Sandbox"}],["$","meta","1",{"name":"description","content":"Documentation for Gen AI Sandbox"}],["$","link","2",{"rel":"icon","href":"/genai-sandbox-dawson/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L2a","3",{}]],"error":null,"digest":"$undefined"}
+2c:I[27201,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"About the Generative AI Sandbox"}],["$","meta","1",{"name":"description","content":"Documentation for Gen AI Sandbox"}],["$","link","2",{"rel":"icon","href":"/genai-sandbox-dawson/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L2c","3",{}]],"error":null,"digest":"$undefined"}
 e:"$9:metadata"
