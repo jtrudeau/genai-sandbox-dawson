@@ -6,233 +6,439 @@
 a:I[97367,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"ViewportBoundary"]
 c:I[97367,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"MetadataBoundary"]
 d:"$Sreact.suspense"
-f:I[68027,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"default"]
+f:I[68027,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/1d795292eec536ba.js"],"default"]
 :HL["/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","style"]
-:HL["/genai-sandbox-dawson/_next/static/chunks/b682db37feb451fe.css","style"]
-0:{"P":null,"b":"5-wFfexs-twvmRWQgRGLr","p":"/genai-sandbox-dawson","c":["","workshop-in-a-box","workshop-90min",""],"i":false,"f":[[["",{"children":[["mdxPath","workshop-in-a-box/workshop-90min","oc"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/b682db37feb451fe.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["mdxPath","workshop-in-a-box/workshop-90min","oc"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/b682db37feb451fe.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
-10:I[68386,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"ThemeConfigProvider"]
-11:I[6344,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"LastUpdated"]
-12:I[98091,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"Search"]
-13:I[63178,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"ThemeProvider"]
-14:I[91675,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"SkipNavLink"]
-15:I[37985,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"ConfigProvider"]
-2:["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1.0"}],["$","meta",null,{"property":"og:title","content":"Gen AI Sandbox Docs"}],["$","meta",null,{"property":"og:description","content":"Documentation for Gen AI Sandbox"}]],["$","style",null,{"children":":root {\n  --nextra-primary-hue: 212deg;\n  --nextra-primary-saturation: 100%;\n  --nextra-primary-lightness: 45%;\n  --nextra-bg: 250,250,250;\n  --nextra-content-width: 90rem;\n}\n.dark {\n  --nextra-primary-hue: 204deg;\n  --nextra-primary-saturation: 100%;\n  --nextra-primary-lightness: 55%;\n  --nextra-bg: 17,17,17;\n}\n::selection {\n  background: hsla(var(--nextra-primary-hue),var(--nextra-primary-saturation),var(--nextra-primary-lightness),.3);\n}\nhtml {\n  background: rgb(var(--nextra-bg));\n}"}],["$","meta",null,{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"rgb(250,250,250)"}],["$","meta",null,{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"rgb(17,17,17)"}],"$undefined"]}],["$","body",null,{"children":["$","$L10",null,{"value":{"copyPageButton":true,"darkMode":true,"docsRepositoryBase":"https://github.com/your-org/genai-sandbox-nextra/tree/main","editLink":null,"feedback":{"content":null,"labels":"feedback"},"i18n":[],"lastUpdated":["$","$L11",null,{}],"navigation":{"next":true,"prev":true},"search":["$","$L12",null,{}],"sidebar":{"defaultMenuCollapseLevel":1,"defaultOpen":true,"toggleButton":true},"themeSwitch":{"dark":"Dark","light":"Light","system":"System"},"toc":{"backToTop":false,"float":true,"title":"On This Page"}},"children":["$","$L13",null,{"attribute":"class","defaultTheme":"system","disableTransitionOnChange":true,"storageKey":"theme","children":[["$","$L14",null,{}],"$undefined",["$","$L15",null,{"pageMap":[{"data":{"index":{"title":"🏠 Home"},"workshop-in-a-box":{"title":"📦 Workshop-in-a-Box"},"about":{"title":"About"}}},{"name":"index","route":"/","frontMatter":{"title":"About the Generative AI Sandbox","filePath":"content/index.mdx","timestamp":1772468622000},"title":"🏠 Home"},{"name":"workshop-in-a-box","route":"/workshop-in-a-box","children":[{"data":{"index":{"title":"Workshop Overview"},"workshop-90min":{"title":"90-Minute Workshop"},"workshop-prompts":{"title":"Workshop Prompts"},"adapting-for-your-department":{"title":"Adapting for Your Department"},"case-study-physics-mcq":{"title":"Case Study: Physics MCQ"}}},{"name":"index","route":"/workshop-in-a-box","frontMatter":{"title":"Workshop-in-a-Box","filePath":"content/workshop-in-a-box/index.mdx","timestamp":1772468622000},"title":"Workshop Overview"},{"name":"workshop-90min","route":"/workshop-in-a-box/workshop-90min","frontMatter":{"title":"Workshop-in-a-Box: 90-Minute Faculty Sandbox","filePath":"content/workshop-in-a-box/workshop-90min.mdx","timestamp":1772468622000},"title":"90-Minute Workshop"},{"name":"workshop-prompts","route":"/workshop-in-a-box/workshop-prompts","frontMatter":{"title":"Workshop Prompts","filePath":"content/workshop-in-a-box/workshop-prompts.mdx","timestamp":1772468622000},"title":"Workshop Prompts"},{"name":"adapting-for-your-department","route":"/workshop-in-a-box/adapting-for-your-department","frontMatter":{"title":"Adapting the Workshop for Your Department","filePath":"content/workshop-in-a-box/adapting-for-your-department.mdx","timestamp":1772468622000},"title":"Adapting for Your Department"},{"name":"case-study-physics-mcq","route":"/workshop-in-a-box/case-study-physics-mcq","frontMatter":{"title":"Case Study: Physics Department — MCQ Generation","filePath":"content/workshop-in-a-box/case-study-physics-mcq.mdx","timestamp":1772468622000},"title":"Case Study: Physics MCQ"}],"title":"📦 Workshop-in-a-Box"},{"name":"about","route":"/about","frontMatter":{"title":"About the GenAI Sandbox","filePath":"content/about.mdx","timestamp":1772468622000},"title":"About"}],"navbar":["$","header",null,{"className":"nextra-navbar x:sticky x:top-0 x:z-30 x:w-full x:bg-transparent x:print:hidden x:max-md:[.nextra-banner:not([class$=hidden])~&]:top-(--nextra-banner-height)","children":[["$","div",null,{"className":"nextra-navbar-blur x:absolute x:-z-1 x:size-full nextra-border x:border-b x:backdrop-blur-md x:bg-nextra-bg/70"}],"$L16"]}],"footer":"$L17","children":["$L18","$L19"]}]]}]}]}]]}]
-1a:I[22016,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"default"]
-1b:I[43634,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"ClientNavbar"]
-1c:I[31277,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"Switchers"]
-1d:I[34924,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"LocaleSwitch"]
-1e:I[75684,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"ThemeSwitch"]
-1f:I[769,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"MobileNav"]
-16:["$","nav",null,{"style":{"height":"var(--nextra-navbar-height)"},"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width) x:items-center x:gap-4 x:pl-[max(env(safe-area-inset-left),1.5rem)] x:pr-[max(env(safe-area-inset-right),1.5rem)] x:justify-end","children":[["$","$L1a",null,{"href":"/","className":"x:flex x:items-center x:me-auto x:transition-opacity x:focus-visible:nextra-focus x:hover:opacity-75","aria-label":"Home page","children":["$","b",null,{"children":"✨ GenAI Sandbox Docs ✨"}]}],["$","$L1b",null,{"className":"","children":["$undefined","$undefined",["$","nav",null,{"className":"site-nav-links","aria-label":"Primary","children":[["$","$L1a",null,{"href":"/user","className":"site-nav-link","children":"For Faculty"}],["$","$L1a",null,{"href":"/facilitator","className":"site-nav-link","children":"For Facilitators"}],["$","$L1a",null,{"href":"/workshop-in-a-box","className":"site-nav-link","children":"Workshop"}],["$","$L1a",null,{"href":"/about","className":"site-nav-link","children":"About"}]]}]]}]]}]
-17:["$","div",null,{"className":"x:bg-gray-100 x:pb-[env(safe-area-inset-bottom)] x:dark:bg-neutral-900 x:print:bg-transparent","children":[["$","$L1c",null,{"children":["$","div",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width) x:gap-2 x:py-2 x:px-4","children":[["$","$L1d",null,{}],["$","$L1e",null,{}]]}]}],["$","hr",null,{"className":"nextra-border"}],["$","footer",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width) x:justify-center x:py-12 x:text-gray-600 x:dark:text-gray-400 x:md:justify-start x:pl-[max(env(safe-area-inset-left),1.5rem)] x:pr-[max(env(safe-area-inset-right),1.5rem)]","children":["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"1rem","padding":"1.5rem 2rem 1rem","maxWidth":"1200px","margin":"0 auto","width":"100%"},"children":[["$","div",null,{"style":{"display":"flex","alignItems":"center","justifyContent":"space-between","flexWrap":"wrap","gap":"1.5rem"},"children":[["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":"1.5rem"},"children":[["$","a",null,{"href":"https://www.dawsoncollege.qc.ca/about-us","target":"_blank","rel":"noopener noreferrer","style":{"display":"flex","alignItems":"center"},"children":["$","img",null,{"src":"/genai-sandbox-dawson/Dawson_En_Logo_Full_Color_RGB.png","alt":"Dawson College","style":{"height":"45px","width":"auto"}}]}],["$","a",null,{"href":"https://pim.quebec/en/about","target":"_blank","rel":"noopener noreferrer","style":{"display":"flex","alignItems":"center"},"children":["$","img",null,{"src":"/genai-sandbox-dawson/PIM_bannierev2.png","alt":"Pôle interordres de Montréal","style":{"height":"45px","width":"auto"}}]}]]}],["$","div",null,{"style":{"textAlign":"right"},"children":["$","span",null,{"style":{"fontSize":"1.125rem","fontWeight":600,"opacity":0.8},"children":"Generative AI Sandbox"}]}]]}],["$","div",null,{"style":{"display":"flex","alignItems":"center","justifyContent":"space-between","paddingTop":"0.75rem","borderTop":"1px solid rgba(128, 128, 128, 0.15)","fontSize":"0.75rem","opacity":0.6},"children":[["$","span",null,{"children":["© ",2026," Dawson College · All rights reserved"]}],["$","img",null,{"src":"/genai-sandbox-dawson/IRV-logo-small.png","alt":"I.R.V.","style":{"height":"14px","width":"auto","opacity":0.7}}]]}]]}]}]]}]
-18:["$","$L1f",null,{}]
-19:["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"mx-auto max-w-3xl px-6 py-16","children":["$","div",null,{"className":"rounded-lg border border-gray-200 bg-white p-8 shadow-sm dark:border-gray-800 dark:bg-gray-900","children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-wide text-gray-500 dark:text-gray-400","children":"404"}],["$","h1",null,{"className":"mt-2 text-3xl font-bold text-gray-900 dark:text-white","children":"Page not found"}],["$","p",null,{"className":"mt-3 text-gray-600 dark:text-gray-300","children":"The page you requested does not exist or has moved. Try heading back to the docs."}],["$","div",null,{"className":"mt-6 flex flex-wrap gap-3","children":[["$","$L1a",null,{"href":"/","className":"inline-flex items-center rounded-md bg-blue-600 px-4 py-2 text-sm font-semibold text-white hover:bg-blue-700","children":"Go to home"}],["$","$L1a",null,{"href":"/user/quickstart","className":"inline-flex items-center rounded-md border border-gray-300 px-4 py-2 text-sm font-semibold text-gray-700 hover:bg-gray-50 dark:border-gray-700 dark:text-gray-200 dark:hover:bg-gray-800","children":"Browse quickstart"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
-20:I[55169,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"TOCProvider"]
-21:I[769,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"Sidebar"]
-22:I[47486,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"ClientWrapper"]
-23:T114d,# Workshop-in-a-Box: 90-Minute Faculty Sandbox
+:HL["/genai-sandbox-dawson/_next/static/chunks/bcb2ba496d1ba665.css","style"]
+0:{"P":null,"b":"7Y2SAy2ST9lYdAfOSxztY","p":"/genai-sandbox-dawson","c":["","workshop-in-a-box","workshop-90min",""],"i":false,"f":[[["",{"children":[["mdxPath","workshop-in-a-box/workshop-90min","oc"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/bcb2ba496d1ba665.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/genai-sandbox-dawson/_next/static/chunks/1d795292eec536ba.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["mdxPath","workshop-in-a-box/workshop-90min","oc"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/bcb2ba496d1ba665.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+10:I[68386,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/1d795292eec536ba.js"],"ThemeConfigProvider"]
+11:I[6344,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/1d795292eec536ba.js"],"LastUpdated"]
+12:I[98091,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/1d795292eec536ba.js"],"Search"]
+13:I[63178,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/1d795292eec536ba.js"],"ThemeProvider"]
+14:I[91675,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/1d795292eec536ba.js"],"SkipNavLink"]
+15:I[37985,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/1d795292eec536ba.js"],"ConfigProvider"]
+16:I[22016,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/1d795292eec536ba.js"],"default"]
+17:I[43634,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/1d795292eec536ba.js"],"ClientNavbar"]
+2:["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L10",null,{"value":{"copyPageButton":true,"darkMode":true,"docsRepositoryBase":"https://github.com/your-org/genai-sandbox-nextra/tree/main","editLink":null,"feedback":{"content":null,"labels":"feedback"},"i18n":[],"lastUpdated":["$","$L11",null,{}],"navigation":{"next":true,"prev":true},"search":["$","$L12",null,{}],"sidebar":{"defaultMenuCollapseLevel":1,"defaultOpen":true,"toggleButton":true},"themeSwitch":{"dark":"Dark","light":"Light","system":"System"},"toc":{"backToTop":false,"float":true,"title":"On This Page"}},"children":["$","$L13",null,{"attribute":"class","defaultTheme":"system","disableTransitionOnChange":true,"storageKey":"theme","children":[["$","$L14",null,{}],"$undefined",["$","$L15",null,{"pageMap":[{"data":{"index":{"title":"🏠 Home"},"workshop-in-a-box":{"title":"📦 Workshop-in-a-Box"},"about":{"title":"About"}}},{"name":"index","route":"/","frontMatter":{"title":"About the Generative AI Sandbox","filePath":"content/index.mdx","timestamp":1773546061000},"title":"🏠 Home"},{"name":"workshop-in-a-box","route":"/workshop-in-a-box","children":[{"data":{"index":{"title":"Workshop Overview"},"workshop-90min":{"title":"Run a Workshop"},"workshop-prompts":{"title":"Workshop Prompts"},"adapting-for-your-department":{"title":"Adapting for Your Department"},"case-study-physics-mcq":{"title":"Case Study: Physics MCQ"}}},{"name":"index","route":"/workshop-in-a-box","frontMatter":{"title":"Workshop Overview","filePath":"content/workshop-in-a-box/index.mdx","timestamp":1773546061000},"title":"Workshop Overview"},{"name":"workshop-90min","route":"/workshop-in-a-box/workshop-90min","frontMatter":{"title":"Run a Workshop","filePath":"content/workshop-in-a-box/workshop-90min.mdx","timestamp":1773546061000},"title":"Run a Workshop"},{"name":"workshop-prompts","route":"/workshop-in-a-box/workshop-prompts","frontMatter":{"title":"Workshop Prompts","filePath":"content/workshop-in-a-box/workshop-prompts.mdx","timestamp":1773546061000},"title":"Workshop Prompts"},{"name":"adapting-for-your-department","route":"/workshop-in-a-box/adapting-for-your-department","frontMatter":{"title":"Adapting the Workshop for Your Department","filePath":"content/workshop-in-a-box/adapting-for-your-department.mdx","timestamp":1773546061000},"title":"Adapting for Your Department"},{"name":"case-study-physics-mcq","route":"/workshop-in-a-box/case-study-physics-mcq","frontMatter":{"title":"Case Study: Physics Department — MCQ Generation","filePath":"content/workshop-in-a-box/case-study-physics-mcq.mdx","timestamp":1773546061000},"title":"Case Study: Physics MCQ"}],"title":"📦 Workshop-in-a-Box"},{"name":"about","route":"/about","frontMatter":{"title":"About the GenAI Sandbox","filePath":"content/about.mdx","timestamp":1773546061000},"title":"About"}],"navbar":["$","header",null,{"className":"nextra-navbar x:sticky x:top-0 x:z-30 x:w-full x:bg-transparent x:print:hidden x:max-md:[.nextra-banner:not([class$=hidden])~&]:top-(--nextra-banner-height)","children":[["$","div",null,{"className":"nextra-navbar-blur x:absolute x:-z-1 x:size-full nextra-border x:border-b x:backdrop-blur-md x:bg-nextra-bg/70"}],["$","nav",null,{"style":{"height":"var(--nextra-navbar-height)"},"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width) x:items-center x:gap-4 x:pl-[max(env(safe-area-inset-left),1.5rem)] x:pr-[max(env(safe-area-inset-right),1.5rem)] x:justify-end","children":[["$","$L16",null,{"href":"/","className":"x:flex x:items-center x:me-auto x:transition-opacity x:focus-visible:nextra-focus x:hover:opacity-75","aria-label":"Home page","children":["$","b",null,{"children":"✨ GenAI Sandbox Docs ✨"}]}],["$","$L17",null,{"className":"","children":["$undefined","$undefined",["$","nav",null,{"className":"site-nav-links","aria-label":"Primary","children":[["$","$L16",null,{"href":"/user","className":"site-nav-link","children":"For Faculty"}],["$","$L16",null,{"href":"/facilitator","className":"site-nav-link","children":"For Facilitators"}],["$","$L16",null,{"href":"/workshop-in-a-box","className":"site-nav-link","children":"Workshop"}],["$","$L16",null,{"href":"/about","className":"site-nav-link","children":"About"}]]}]]}]]}]]}],"footer":["$","div",null,{"className":"x:bg-gray-100 x:pb-[env(safe-area-inset-bottom)] x:dark:bg-neutral-900 x:print:bg-transparent","children":["$L18","$L19","$L1a"]}],"children":["$L1b","$L1c"]}]]}]}]}]}]
+1d:I[31277,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/1d795292eec536ba.js"],"Switchers"]
+1e:I[34924,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/1d795292eec536ba.js"],"LocaleSwitch"]
+1f:I[75684,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/1d795292eec536ba.js"],"ThemeSwitch"]
+20:I[769,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/1d795292eec536ba.js"],"MobileNav"]
+18:["$","$L1d",null,{"children":["$","div",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width) x:gap-2 x:py-2 x:px-4","children":[["$","$L1e",null,{}],["$","$L1f",null,{}]]}]}]
+19:["$","hr",null,{"className":"nextra-border"}]
+1a:["$","footer",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width) x:justify-center x:py-12 x:text-gray-600 x:dark:text-gray-400 x:md:justify-start x:pl-[max(env(safe-area-inset-left),1.5rem)] x:pr-[max(env(safe-area-inset-right),1.5rem)]","children":["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"1rem","padding":"1.5rem 2rem 1rem","maxWidth":"1200px","margin":"0 auto","width":"100%"},"children":[["$","div",null,{"style":{"display":"flex","alignItems":"center","justifyContent":"space-between","flexWrap":"wrap","gap":"1.5rem"},"children":[["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":"1.5rem"},"children":[["$","a",null,{"href":"https://www.dawsoncollege.qc.ca/about-us","target":"_blank","rel":"noopener noreferrer","style":{"display":"flex","alignItems":"center"},"children":["$","img",null,{"src":"/genai-sandbox-dawson/Dawson_En_Logo_Full_Color_RGB.png","alt":"Dawson College","style":{"height":"45px","width":"auto"}}]}],["$","a",null,{"href":"https://pim.quebec/en/about","target":"_blank","rel":"noopener noreferrer","style":{"display":"flex","alignItems":"center"},"children":["$","img",null,{"src":"/genai-sandbox-dawson/PIM_bannierev2.png","alt":"Pôle interordres de Montréal","style":{"height":"45px","width":"auto"}}]}]]}],["$","div",null,{"style":{"textAlign":"right"},"children":["$","span",null,{"style":{"fontSize":"1.125rem","fontWeight":600,"opacity":0.8},"children":"Generative AI Sandbox"}]}]]}],["$","div",null,{"style":{"display":"flex","alignItems":"center","justifyContent":"space-between","paddingTop":"0.75rem","borderTop":"1px solid rgba(128, 128, 128, 0.15)","fontSize":"0.75rem","opacity":0.6},"children":[["$","span",null,{"children":["© ",2026," Dawson College · All rights reserved"]}],["$","img",null,{"src":"/genai-sandbox-dawson/IRV-logo-small.png","alt":"I.R.V.","style":{"height":"14px","width":"auto","opacity":0.7}}]]}]]}]}]
+1b:["$","$L20",null,{}]
+1c:["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"mx-auto max-w-3xl px-6 py-16","children":["$","div",null,{"className":"rounded-lg border border-gray-200 bg-white p-8 shadow-sm dark:border-gray-800 dark:bg-gray-900","children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-wide text-gray-500 dark:text-gray-400","children":"404"}],["$","h1",null,{"className":"mt-2 text-3xl font-bold text-gray-900 dark:text-white","children":"Page not found"}],["$","p",null,{"className":"mt-3 text-gray-600 dark:text-gray-300","children":"The page you requested does not exist or has moved. Try heading back to the docs."}],["$","div",null,{"className":"mt-6 flex flex-wrap gap-3","children":[["$","$L16",null,{"href":"/","className":"inline-flex items-center rounded-md bg-blue-600 px-4 py-2 text-sm font-semibold text-white hover:bg-blue-700","children":"Go to home"}],["$","$L16",null,{"href":"/user/quickstart","className":"inline-flex items-center rounded-md border border-gray-300 px-4 py-2 text-sm font-semibold text-gray-700 hover:bg-gray-50 dark:border-gray-700 dark:text-gray-200 dark:hover:bg-gray-800","children":"Browse quickstart"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+21:I[55169,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/1d795292eec536ba.js"],"TOCProvider"]
+22:I[769,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/1d795292eec536ba.js"],"Sidebar"]
+23:I[47486,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/1d795292eec536ba.js"],"ClientWrapper"]
+24:T38de,import { Card } from '../../src/components/ui/card'
+import { WorkshopPrompt } from '../../src/components/WorkshopPrompt'
 
-This session is a practical entry point for faculty who want to explore generative AI in teaching and learning without committing to broad change.
+# Run a Workshop
 
-The focus is on sandboxed experiments: try one idea, observe what happens, document evidence, and decide what is worth continuing.
+Use this page to run a standalone sandbox workshop.
+Use it as the main guide for a 90-minute or longer session.
+
+A 90-minute format is a good starting point because it gives you enough time to do five things well:
+
+- frame the sandbox
+- show why context matters
+- add enough context before using AI
+- work through one small example
+- leave with a concrete next step
+
+## Suggested Pacing
+
+| Duration | Recommended use | Practical note |
+| --- | --- | --- |
+| 30-45 minutes | first meeting focused only on experiment discovery | use the short-session guidance in [Facilitator Home](/facilitator) instead of compressing the full workshop |
+| 75 minutes | short PD slot or experienced group | keep the same structure and reduce scenario depth |
+| 90 minutes | first implementation or varied participant backgrounds | best balance for complete outcomes |
+| 120+ minutes | department team or deeper planning | add more time for adaptation and reflection |
 
 ## Session Outcomes
 
-By the end of the session, participants should have:
+Aim for participants to leave with:
 
-1. a clear understanding of the sandbox approach
-2. firsthand experience using AI in a sandboxed activity
-3. one or more experiment ideas tied to their own context
-4. a practical next-step pathway for implementation
+- a specific task or artifact they want to work on
+- a brief or prompt they can build on
+- a small example they could realistically try
+- a sense of what they want the result to do
+- a sense of what they would want to review, adapt, or avoid
+- one possible next step if they want to continue
 
-## Agenda at a Glance
+## Suggested Agenda (90 Minutes)
 
-- **Part 1 (20 min):** Frame the sandbox and run one live demonstration
-- **Part 2 (50 min):** Participant exploration, small-group exchange, deeper scenario work
-- **Part 3 (20 min):** Synthesis, next steps, and continuity resources
+- Part 1 (20 min): frame the sandbox and compare a vague ask with the same ask plus context
+- Part 2 (45 min): write a short context and work through one small example
+- Part 3 (25 min): pause, review what happened, and look ahead
 
----
+## Before You Run the Session
 
-## Part 1: Framing and Demonstration (20 minutes)
+Decide these basics before you begin:
+
+- one demo you will show, including the vague version and the version with context
+- one scenario path you are most likely to use from [Workshop Scenarios](/facilitator/workshop-scenarios)
+- how people will work in the room and what AI access they will have
+- one simple starter participants can adapt, such as the quick example, a short context template, or Set 2 from [Workshop Prompts](/workshop-in-a-box/workshop-prompts)
+- what boundaries, cautions, or follow-up options you want to mention during the session
+
+<Card className="border-l-4 border-l-amber-500 p-6 my-8">
+  <div className="mb-3 font-medium">
+    Room setup and tool access
+  </div>
+  <div className="mb-3">
+    Do not assume every participant has their own device, account, or AI tool.
+  </div>
+  <ul className="list-disc ml-6 mb-3">
+    <li>individual work: each person has their own device and chat window</li>
+    <li>shared work: pairs or small groups share one device or one thread</li>
+    <li>limited access: the facilitator runs the tool on a shared screen and participants work from notes, discussion, and a few volunteer examples</li>
+  </ul>
+  <div className="text-sm text-gray-600 dark:text-gray-400">
+    Any chat-style AI tool can work for this workshop. What matters is seeing what changes when a vague ask becomes specific enough to judge.
+  </div>
+</Card>
+
+## Part 1: Show Why Context Matters
 
 ### Frame the Session
 
-Open with the purpose of the workshop:
+Open with purpose:
 
 - this is not tool training
-- this is not a mandate to adopt AI
-- this is structured exploration in a low-stakes setting
+- this is not a survey of everything AI can do
+- any chat-style AI tool can work for the workshop
+- we will work from one specific task in a course, support, or other work context
+- we will start with something small enough to try and learn from
+- the goal is to leave with a starting point they can use for one task
 
-Introduce the working principles:
+Introduce the simple model:
 
-- small and reversible experiments
-- transparent documentation
-- faculty judgment as the decision point
-- student learning as the primary criterion
+- LLMs are good at filling in patterns
+- if your ask is vague, they fill in the gaps with generic assumptions
+- if you give a specific task, enough background, what you want the result to do, and any limits, the response is easier to judge
+- the educator still sets the standard and decides what to keep, revise, or reject
 
-### Demonstrate One Sandboxed Example
+In this workshop, **context** means the details of your teaching or support situation that help you judge whether the response fits your situation.
 
-Use one facilitator prompt from [Workshop Prompts](/workshop-in-a-box/workshop-prompts).
+- the prompt is what you type
+- the context is the situation you bring with it
 
-As you demo, make your evaluation criteria explicit:
+The core lesson is simple: set the context before you ask.
 
-- What is the task?
-- What is the quality bar?
-- What does the output do well?
-- What requires revision or rejection?
+<Card className="border-l-4 border-l-sky-500 p-6 my-8">
+  <div className="mb-3 font-medium">
+    Concrete example: the same task with and without context
+  </div>
+  <div className="mb-3">
+    <strong>Vague ask:</strong> &quot;Make me 5 quiz questions on cell transport.&quot;
+  </div>
+  <div className="mb-3">
+    <strong>With context:</strong> &quot;I teach Intro Biology. I need 5 short review questions for next week&apos;s class on cell transport. My students often confuse diffusion, osmosis, and active transport. I want questions that reveal those misconceptions without being too difficult. Keep the language clear enough for first-year students. I will check scientific accuracy and whether the questions match what we covered in class.&quot;
+  </div>
+  <div className="text-sm text-gray-600 dark:text-gray-400">
+    The prompt is the request for quiz questions. The context is the course, timing, student difficulty, desired level, and what the educator will review.
+  </div>
+</Card>
 
-Keep the demonstration short. The goal is to model a process, not to optimize a perfect result.
+### Demonstrate a Vague Ask and the Same Ask with Context
 
----
+Use one facilitator prompt from [Workshop Prompts](/workshop-in-a-box/workshop-prompts), but do not begin with the full version.
+Start with a vague ask first, then improve it in front of the group.
 
-## Part 2: Participant Exploration and Sharing (50 minutes)
+Suggested sequence:
 
-### Activity A: Shared Hands-On Prompt (10-15 minutes)
+1. show a short request tied to a teaching or support task
+2. ask the group what is missing
+3. add the task, the course or support-work context, what you want the result to do, any limits, and what you plan to check
+4. run the version with context
+5. compare the two outputs briefly
 
-Participants complete the Set 2 prompt from [Workshop Prompts](/workshop-in-a-box/workshop-prompts).
+Debrief with:
 
-Ask participants to fill in their real context, run the prompt, and choose one experiment idea they could plausibly test.
+- what changed once the context became more specific?
+- what still needed human review?
+- what would make this worth using in your practice?
 
-Suggested capture prompts:
+Keep the demonstration short.
+The point is to make the contrast visible, not to impress people with the output.
 
-- Which idea is most relevant to your context?
-- What would need adjustment before trying it?
-- What risk or constraint stands out immediately?
+## Part 2: Work Through One Small Example
 
-### Pair/Small-Group Exchange (5-7 minutes)
+<Card className="border-l-4 border-l-emerald-500 p-6 my-8">
+  <div className="mb-3 font-medium">
+    Quick example: from short notes to a fuller prompt
+  </div>
+  <div className="mb-3">
+    A participant might begin with five short notes:
+    <ul className="list-disc ml-6 mt-2">
+      <li><strong>Task:</strong> write 3 discussion questions</li>
+      <li><strong>Context:</strong> Intro Sociology, next week&apos;s class on social stratification</li>
+      <li><strong>What I want the result to do:</strong> invite interpretation, not just definitions</li>
+      <li><strong>Limits:</strong> workable in 10 minutes, clear enough for first-year students</li>
+      <li><strong>Check:</strong> do the questions fit the reading and open stronger discussion?</li>
+    </ul>
+  </div>
+  <div className="mb-3">
+    Those notes can then become a fuller prompt or brief for AI.
+  </div>
+  <div className="text-sm text-gray-600 dark:text-gray-400">
+    The prepared prompts on the prompts page already include this fuller kind of context on purpose. If you use one, say that out loud: the extra detail is part of what makes the result easier to judge.
+  </div>
+</Card>
 
-In groups of 2-3, each participant shares:
+### Activity A: Choose One Task and Note the Context (10-12 minutes)
 
-- the idea they selected
-- why they selected it
-- one concern or open question
+Tell participants they are now going to work on one task of their own.
+They do not need a finished prompt yet.
+They only need enough notes to make the task clear.
 
-### Activity B: Scenario Deep Dive (15-20 minutes)
+This can be done on paper, in a shared document, in the interactive planner, or in the AI tool itself if people prefer to draft there first.
 
-Participants select one Set 3 scenario prompt (materials, feedback, sense-making, interaction, or integrity) and run a deeper exploration.
+If people are working in pairs or small groups, ask each group to choose one task together.
 
-Ask participants to identify:
+Ask participants to note five things:
 
-- what is immediately usable
-- what needs redesign
-- what evidence they would collect in a real run
+- the task they want help with
+- the course, support, or other work situation
+- what they want the result to help them do
+- any limit, caution, or instruction the AI should respect
+- what they will want to check themselves before using anything
 
-### Scenario-Based Synthesis (10-12 minutes)
+Tell them to work in notes, not full sentences.
+If they already have a draft, assignment, instructions, resource, or support notes open, they can work from that instead of starting from a blank page.
 
-Group participants by scenario.
-Each group identifies:
+As you circulate, help people narrow to one task.
+If someone lists several goals, ask:
 
-- one promising pattern
-- one recurring challenge
-- one unresolved question
+- what would be most useful to work on first?
+- what is the first thing you want the AI to help you with?
+- what would you want to look at and say, "yes, this is worth revising"?
 
-Then run a brief whole-group share-out.
+If participants get stuck, offer a quick way in:
 
----
+- borrow the quick example above and replace the details with their own
+- open Set 2 in [Workshop Prompts](/workshop-in-a-box/workshop-prompts) and fill in the five fields instead of starting from a blank page
+- choose a prepared scenario that is close enough and personalize it later
 
-## Part 3: Next Steps and Continuity (20 minutes)
+By the end of this activity, each person or group should have one task and a few notes they can turn into a fuller prompt or brief in Activity B.
 
-### Consolidate the Session
+### Activity B: Turn It Into a More Detailed Prompt or Brief (12-15 minutes)
 
-Summarize what participants have done:
+Use Set 2 from [Workshop Prompts](/workshop-in-a-box/workshop-prompts).
 
-- generated context-specific experiment ideas
-- tested prompt workflows against real teaching concerns
-- compared interpretations across disciplines
+Explain that the prepared prompts are more detailed on purpose.
+They show what changes when the task, context, quality bar, and limits are stated clearly.
 
-### Move to Action
+Invite participants to turn that short context into one prompt or brief they can actually test.
 
-Invite each participant to commit to one sandboxed run in the next 2-4 weeks.
+Ask them to notice:
 
-Continuation pathway:
+- what became clearer once they gave more context
+- what still came back too generic
+- what they would need to review before using anything
 
-- [Run an Experiment](/user/run-experiment)
-- [Welcome](/user)
-- [Interactive Planner](/user/run-experiment#interactive-planner)
+### Optional Pair or Small-Group Exchange (8-10 minutes)
 
-### Final Reflection
+Use this only if it fits the room setup.
 
-Ask participants to record:
+- if people have their own devices, use pairs or groups of 2-3 after the individual activity
+- if people are already sharing a device or thread, keep them in those working groups
+- if access is mixed or limited, skip this and do a short whole-group debrief instead
 
-1. one insight from the workshop
-2. one experiment they intend to try
-3. one question they still need to resolve
+If you use this step, ask participants to share:
 
-If useful, collect these reflections to inform follow-up support.
+- the task they chose
+- one part of the context that changed the result most
+- one limit or check they want to keep
 
----
+### Choose the Closest Scenario (10-12 minutes)
 
-## Facilitator Preparation Checklist
+Ask participants to choose the one Set 3 scenario that best matches the task they already started.
+They are not starting over.
+They are choosing the closest prompt shape for the same piece of work.
 
-Before the session:
+Keep this moving:
 
-- review [Workshop Prompts](/workshop-in-a-box/workshop-prompts)
-- select one demo scenario and test it in advance
-- decide whether this run is cross-disciplinary or department-specific
-- prepare a mechanism for participants to save outputs and notes
-- confirm continuity links and follow-up plan
+- ask what the task is mostly about
+- match it to the closest scenario
+- if two scenarios seem possible, pick one and continue
+
+<Card className="border-l-4 border-l-violet-500 p-6 my-8">
+  <div className="mb-3 font-medium">
+    Quick examples
+  </div>
+  <ul className="list-disc ml-6">
+    <li>if someone is working on discussion questions for Intro Sociology, Scenario D may be the best fit because the task is about discussion and participation</li>
+    <li>if someone is working on practice problems or reading questions, Scenario A may be the closer fit because the task is mainly about teaching materials</li>
+  </ul>
+</Card>
+
+The goal is not to browse the full page.
+The goal is to deepen the one task they already started.
+
+If time is tighter than expected, move people to [Rapid Start](/workshop-in-a-box/workshop-prompts#set-3-rapid-start) instead of rushing the full scenario prompts.
+
+## Part 3: Pause, Review, and Look Ahead
+
+### Use a Light-Weight Wrap-Up
+
+Keep the close brief and focused.
+By this point, participants have already done the main thinking.
+Use this final part of the session to help them notice what seems worth keeping, what still needs review, and whether anything is worth continuing.
+
+Choose the wrap-up format that fits the room:
+
+- if people have their own device or shared thread, ask them to stay in the same conversation and use a short AI-assisted wrap-up
+- if access or time is limited, do this as a spoken reflection and try to capture a few notes
+
+<WorkshopPrompt
+  title="Quick wrap-up prompt"
+  description="Ask participants to send this as a follow-up message in the same AI conversation they just used. If they need to start a new chat, they should first paste in the AI request and output from their test. They should review and edit the summary rather than accept it as-is."
+  defaultOpen={true}
+  copyLabel="Copy wrap-up prompt"
+  copyHint="Copy this follow-up message into the AI chat you just used, or into a new chat after pasting the request and output from the test."
+  prompt={`I just ran a small workshop test with AI. Based on the request and output in this conversation, help me make sense of it. In plain language, give me:
+
+1. what seems most worth keeping here
+2. what I would still need to check or revise
+3. what this helped me understand about giving context
+4. one possible next step if I want to keep going`}
+/>
+
+If you are not using devices, ask the same questions out loud and invite people to jot notes.
+
+### Close with Shared Takeaways
+
+Bring the room back together in a way that fits the setting.
+This can be a short spoken round, a few volunteers, a shared board, or a quick whole-group debrief.
+
+Useful closing prompts:
+
+- what changed when more context was added?
+- what felt clearer or more worth keeping?
+- what still needs human judgment?
+- what would you want to try, adjust, or leave aside after this?
+
+Participants do not need to answer all four.
+Use one or two if time is short.
+
+### End with a Simple Invitation
+
+Close by summarizing what the group tried and what the optional next move could be.
+Help people leave with a sense of completion and a possible path forward.
+
+You might say:
+
+- today was about seeing what changes when a vague ask becomes a more specific AI request
+- if you want to keep developing the example you started, go to [Run an Experiment](/user/run-experiment#from-discovery-to-first-run)
+- if you want to browse the sandbox more broadly first, start at [Welcome](/user) or the [Interactive Planner](/user/run-experiment#interactive-planner)
+
+Choose one or two of these options based on the group.
+Do not try to walk everyone through every follow-up link in the final minutes.
+
+If you want more structured feedback, send a short survey after the workshop rather than using the close for that.
 
 ## Adaptation Notes
 
-For department-specific runs, keep the structure and narrow the task.
+For department-specific runs, keep the structure and add more course, program, or departmental detail.
 
 Use:
 
 - [Adapting for Your Department](/workshop-in-a-box/adapting-for-your-department)
 - [Case Study: Physics MCQ](/workshop-in-a-box/case-study-physics-mcq)
 
-The session works best when participants leave with one concrete next step and a shared language for discussing evidence.5:["$","div",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width)","children":["$","$L20",null,{"value":[{"value":"Session Outcomes","id":"session-outcomes","depth":2},{"value":"Agenda at a Glance","id":"agenda-at-a-glance","depth":2},{"value":"Part 1: Framing and Demonstration (20 minutes)","id":"part-1-framing-and-demonstration-20-minutes","depth":2},{"value":"Frame the Session","id":"frame-the-session","depth":3},{"value":"Demonstrate One Sandboxed Example","id":"demonstrate-one-sandboxed-example","depth":3},{"value":"Part 2: Participant Exploration and Sharing (50 minutes)","id":"part-2-participant-exploration-and-sharing-50-minutes","depth":2},{"value":"Activity A: Shared Hands-On Prompt (10-15 minutes)","id":"activity-a-shared-hands-on-prompt-10-15-minutes","depth":3},{"value":"Pair/Small-Group Exchange (5-7 minutes)","id":"pairsmall-group-exchange-5-7-minutes","depth":3},{"value":"Activity B: Scenario Deep Dive (15-20 minutes)","id":"activity-b-scenario-deep-dive-15-20-minutes","depth":3},{"value":"Scenario-Based Synthesis (10-12 minutes)","id":"scenario-based-synthesis-10-12-minutes","depth":3},{"value":"Part 3: Next Steps and Continuity (20 minutes)","id":"part-3-next-steps-and-continuity-20-minutes","depth":2},{"value":"Consolidate the Session","id":"consolidate-the-session","depth":3},{"value":"Move to Action","id":"move-to-action","depth":3},{"value":"Final Reflection","id":"final-reflection","depth":3},{"value":"Facilitator Preparation Checklist","id":"facilitator-preparation-checklist","depth":2},{"value":"Adaptation Notes","id":"adaptation-notes","depth":2}],"children":[["$","$L21",null,{}],["$","$L22",null,{"metadata":"$2:props:children:1:props:children:props:children:props:children:2:props:pageMap:2:children:2:frontMatter","bottomContent":"$undefined","sourceCode":"$23","children":["$L24","$L25"]}]]}]}]
-26:I[63894,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/bf726619705c5b0a.js"],"HeadingAnchor"]
-24:["$","div",null,{"id":"nextra-skip-nav"}]
-25:["$","main",null,{"data-pagefind-body":true,"children":[["$","h1",null,{"id":"$undefined","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-bold x:mt-2 x:text-4xl","children":["Workshop-in-a-Box: 90-Minute Faculty Sandbox","$undefined"]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"This session is a practical entry point for faculty who want to explore generative AI in teaching and learning without committing to broad change."}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"The focus is on sandboxed experiments: try one idea, observe what happens, document evidence, and decide what is worth continuing."}],"\n",["$","h2",null,{"id":"session-outcomes","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Session Outcomes",["$","$L26",null,{"id":"session-outcomes"}]]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"By the end of the session, participants should have:"}],"\n",["$","ol",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-decimal x:ms-6","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"a clear understanding of the sandbox approach"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"firsthand experience using AI in a sandboxed activity"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"one or more experiment ideas tied to their own context"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"a practical next-step pathway for implementation"}],"\n"]}],"\n",["$","h2",null,{"id":"agenda-at-a-glance","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Agenda at a Glance",["$","$L26",null,{"id":"agenda-at-a-glance"}]]}],"\n",["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Part 1 (20 min):"}]," Frame the sandbox and run one live demonstration"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Part 2 (50 min):"}]," Participant exploration, small-group exchange, deeper scenario work"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":[["$","strong",null,{"children":"Part 3 (20 min):"}]," Synthesis, next steps, and continuity resources"]}],"\n"]}],"\n",["$","hr",null,{"className":"x:my-[2em] nextra-border"}],"\n",["$","h2",null,{"id":"part-1-framing-and-demonstration-20-minutes","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Part 1: Framing and Demonstration (20 minutes)",["$","$L26",null,{"id":"part-1-framing-and-demonstration-20-minutes"}]]}],"\n",["$","h3",null,{"id":"frame-the-session","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Frame the Session",["$","$L26",null,{"id":"frame-the-session"}]]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Open with the purpose of the workshop:"}],"\n",["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"this is not tool training"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"this is not a mandate to adopt AI"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"this is structured exploration in a low-stakes setting"}],"\n"]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Introduce the working principles:"}],"\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54"]}]
-27:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"small and reversible experiments"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"transparent documentation"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"faculty judgment as the decision point"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"student learning as the primary criterion"}],"\n"]}]
-28:["$","h3",null,{"id":"demonstrate-one-sandboxed-example","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Demonstrate One Sandboxed Example",["$","$L26",null,{"id":"demonstrate-one-sandboxed-example"}]]}]
-29:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["Use one facilitator prompt from ",["$","$L1a",null,{"href":"/workshop-in-a-box/workshop-prompts","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Workshop Prompts"}],"."]}]
-2a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"As you demo, make your evaluation criteria explicit:"}]
-2b:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"What is the task?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"What is the quality bar?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"What does the output do well?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"What requires revision or rejection?"}],"\n"]}]
-2c:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Keep the demonstration short. The goal is to model a process, not to optimize a perfect result."}]
-2d:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
-2e:["$","h2",null,{"id":"part-2-participant-exploration-and-sharing-50-minutes","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Part 2: Participant Exploration and Sharing (50 minutes)",["$","$L26",null,{"id":"part-2-participant-exploration-and-sharing-50-minutes"}]]}]
-2f:["$","h3",null,{"id":"activity-a-shared-hands-on-prompt-10-15-minutes","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Activity A: Shared Hands-On Prompt (10-15 minutes)",["$","$L26",null,{"id":"activity-a-shared-hands-on-prompt-10-15-minutes"}]]}]
-30:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["Participants complete the Set 2 prompt from ",["$","$L1a",null,{"href":"/workshop-in-a-box/workshop-prompts","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Workshop Prompts"}],"."]}]
-31:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Ask participants to fill in their real context, run the prompt, and choose one experiment idea they could plausibly test."}]
-32:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Suggested capture prompts:"}]
-33:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Which idea is most relevant to your context?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"What would need adjustment before trying it?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"What risk or constraint stands out immediately?"}],"\n"]}]
-34:["$","h3",null,{"id":"pairsmall-group-exchange-5-7-minutes","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Pair/Small-Group Exchange (5-7 minutes)",["$","$L26",null,{"id":"pairsmall-group-exchange-5-7-minutes"}]]}]
-35:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"In groups of 2-3, each participant shares:"}]
-36:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"the idea they selected"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"why they selected it"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"one concern or open question"}],"\n"]}]
-37:["$","h3",null,{"id":"activity-b-scenario-deep-dive-15-20-minutes","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Activity B: Scenario Deep Dive (15-20 minutes)",["$","$L26",null,{"id":"activity-b-scenario-deep-dive-15-20-minutes"}]]}]
-38:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Participants select one Set 3 scenario prompt (materials, feedback, sense-making, interaction, or integrity) and run a deeper exploration."}]
-39:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Ask participants to identify:"}]
-3a:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"what is immediately usable"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"what needs redesign"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"what evidence they would collect in a real run"}],"\n"]}]
-3b:["$","h3",null,{"id":"scenario-based-synthesis-10-12-minutes","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Scenario-Based Synthesis (10-12 minutes)",["$","$L26",null,{"id":"scenario-based-synthesis-10-12-minutes"}]]}]
-3c:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Group participants by scenario.\nEach group identifies:"}]
-3d:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"one promising pattern"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"one recurring challenge"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"one unresolved question"}],"\n"]}]
-3e:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Then run a brief whole-group share-out."}]
-3f:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
-40:["$","h2",null,{"id":"part-3-next-steps-and-continuity-20-minutes","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Part 3: Next Steps and Continuity (20 minutes)",["$","$L26",null,{"id":"part-3-next-steps-and-continuity-20-minutes"}]]}]
-41:["$","h3",null,{"id":"consolidate-the-session","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Consolidate the Session",["$","$L26",null,{"id":"consolidate-the-session"}]]}]
-42:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Summarize what participants have done:"}]
-43:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"generated context-specific experiment ideas"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"tested prompt workflows against real teaching concerns"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"compared interpretations across disciplines"}],"\n"]}]
-44:["$","h3",null,{"id":"move-to-action","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Move to Action",["$","$L26",null,{"id":"move-to-action"}]]}]
-45:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Invite each participant to commit to one sandboxed run in the next 2-4 weeks."}]
-46:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Continuation pathway:"}]
-47:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":["$","$L1a",null,{"href":"/user/run-experiment","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Run an Experiment"}]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":["$","$L1a",null,{"href":"/user","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Welcome"}]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":["$","$L1a",null,{"href":"/user/run-experiment#interactive-planner","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Interactive Planner"}]}],"\n"]}]
-48:["$","h3",null,{"id":"final-reflection","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Final Reflection",["$","$L26",null,{"id":"final-reflection"}]]}]
-49:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Ask participants to record:"}]
-4a:["$","ol",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-decimal x:ms-6","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"one insight from the workshop"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"one experiment they intend to try"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"one question they still need to resolve"}],"\n"]}]
-4b:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"If useful, collect these reflections to inform follow-up support."}]
-4c:["$","hr",null,{"className":"x:my-[2em] nextra-border"}]
-4d:["$","h2",null,{"id":"facilitator-preparation-checklist","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Facilitator Preparation Checklist",["$","$L26",null,{"id":"facilitator-preparation-checklist"}]]}]
-4e:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Before the session:"}]
-4f:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":["review ",["$","$L1a",null,{"href":"/workshop-in-a-box/workshop-prompts","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Workshop Prompts"}]]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"select one demo scenario and test it in advance"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"decide whether this run is cross-disciplinary or department-specific"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"prepare a mechanism for participants to save outputs and notes"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"confirm continuity links and follow-up plan"}],"\n"]}]
-50:["$","h2",null,{"id":"adaptation-notes","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Adaptation Notes",["$","$L26",null,{"id":"adaptation-notes"}]]}]
-51:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"For department-specific runs, keep the structure and narrow the task."}]
-52:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Use:"}]
-53:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":["$","$L1a",null,{"href":"/workshop-in-a-box/adapting-for-your-department","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Adapting for Your Department"}]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":["$","$L1a",null,{"href":"/workshop-in-a-box/case-study-physics-mcq","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Case Study: Physics MCQ"}]}],"\n"]}]
-54:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"The session works best when participants leave with one concrete next step and a shared language for discussing evidence."}]
+The session works best when participants leave with an experiment they could realistically try, plus a shared way of talking about context, quality, limits, evidence, and revision.5:["$","div",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width)","children":["$","$L21",null,{"value":[{"value":"Suggested Pacing","id":"suggested-pacing","depth":2},{"value":"Session Outcomes","id":"session-outcomes","depth":2},{"value":"Suggested Agenda (90 Minutes)","id":"suggested-agenda-90-minutes","depth":2},{"value":"Before You Run the Session","id":"before-you-run-the-session","depth":2},{"value":"Part 1: Show Why Context Matters","id":"part-1-show-why-context-matters","depth":2},{"value":"Frame the Session","id":"frame-the-session","depth":3},{"value":"Demonstrate a Vague Ask and the Same Ask with Context","id":"demonstrate-a-vague-ask-and-the-same-ask-with-context","depth":3},{"value":"Part 2: Work Through One Small Example","id":"part-2-work-through-one-small-example","depth":2},{"value":"Activity A: Choose One Task and Note the Context (10-12 minutes)","id":"activity-a-choose-one-task-and-note-the-context-10-12-minutes","depth":3},{"value":"Activity B: Turn It Into a More Detailed Prompt or Brief (12-15 minutes)","id":"activity-b-turn-it-into-a-more-detailed-prompt-or-brief-12-15-minutes","depth":3},{"value":"Optional Pair or Small-Group Exchange (8-10 minutes)","id":"optional-pair-or-small-group-exchange-8-10-minutes","depth":3},{"value":"Choose the Closest Scenario (10-12 minutes)","id":"choose-the-closest-scenario-10-12-minutes","depth":3},{"value":"Part 3: Pause, Review, and Look Ahead","id":"part-3-pause-review-and-look-ahead","depth":2},{"value":"Use a Light-Weight Wrap-Up","id":"use-a-light-weight-wrap-up","depth":3},{"value":"Close with Shared Takeaways","id":"close-with-shared-takeaways","depth":3},{"value":"End with a Simple Invitation","id":"end-with-a-simple-invitation","depth":3},{"value":"Adaptation Notes","id":"adaptation-notes","depth":2}],"children":[["$","$L22",null,{}],["$","$L23",null,{"metadata":"$2:props:children:props:children:props:children:props:children:2:props:pageMap:2:children:2:frontMatter","bottomContent":"$undefined","sourceCode":"$24","children":["$L25","$L26"]}]]}]}]
+27:I[63894,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/1d795292eec536ba.js"],"HeadingAnchor"]
+25:["$","div",null,{"id":"nextra-skip-nav"}]
+26:["$","main",null,{"data-pagefind-body":true,"children":[["$","h1",null,{"id":"$undefined","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-bold x:mt-2 x:text-4xl","children":["Run a Workshop","$undefined"]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Use this page to run a standalone sandbox workshop.\nUse it as the main guide for a 90-minute or longer session."}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"A 90-minute format is a good starting point because it gives you enough time to do five things well:"}],"\n",["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"frame the sandbox"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"show why context matters"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"add enough context before using AI"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"work through one small example"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"leave with a concrete next step"}],"\n"]}],"\n",["$","h2",null,{"id":"suggested-pacing","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Suggested Pacing",["$","$L27",null,{"id":"suggested-pacing"}]]}],"\n",["$","table",null,{"className":"x:block x:overflow-x-auto nextra-scrollbar x:not-first:mt-[1.25em] x:p-0","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Duration","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:font-semibold x:dark:border-gray-600"}],["$","th",null,{"children":"Recommended use","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:font-semibold x:dark:border-gray-600"}],["$","th",null,{"children":"Practical note","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:font-semibold x:dark:border-gray-600"}]],"className":"x:m-0 x:border-t x:border-gray-300 x:p-0 x:dark:border-gray-600 x:even:bg-gray-100 x:even:dark:bg-gray-600/20"}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"30-45 minutes","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"first meeting focused only on experiment discovery","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":["use the short-session guidance in ",["$","$L16",null,{"href":"/facilitator","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Facilitator Home"}]," instead of compressing the full workshop"],"className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}]],"className":"x:m-0 x:border-t x:border-gray-300 x:p-0 x:dark:border-gray-600 x:even:bg-gray-100 x:even:dark:bg-gray-600/20"}],["$","tr",null,{"children":[["$","td",null,{"children":"75 minutes","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"short PD slot or experienced group","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"keep the same structure and reduce scenario depth","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}]],"className":"x:m-0 x:border-t x:border-gray-300 x:p-0 x:dark:border-gray-600 x:even:bg-gray-100 x:even:dark:bg-gray-600/20"}],["$","tr",null,{"children":[["$","td",null,{"children":"90 minutes","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"first implementation or varied participant backgrounds","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],"$L28"],"className":"x:m-0 x:border-t x:border-gray-300 x:p-0 x:dark:border-gray-600 x:even:bg-gray-100 x:even:dark:bg-gray-600/20"}],"$L29"]}]]}],"\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a"]}]
+7b:I[62270,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/1d795292eec536ba.js"],"WorkshopPrompt"]
+28:["$","td",null,{"children":"best balance for complete outcomes","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}]
+29:["$","tr",null,{"children":[["$","td",null,{"children":"120+ minutes","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"department team or deeper planning","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"add more time for adaptation and reflection","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}]],"className":"x:m-0 x:border-t x:border-gray-300 x:p-0 x:dark:border-gray-600 x:even:bg-gray-100 x:even:dark:bg-gray-600/20"}]
+2a:["$","h2",null,{"id":"session-outcomes","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Session Outcomes",["$","$L27",null,{"id":"session-outcomes"}]]}]
+2b:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Aim for participants to leave with:"}]
+2c:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"a specific task or artifact they want to work on"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"a brief or prompt they can build on"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"a small example they could realistically try"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"a sense of what they want the result to do"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"a sense of what they would want to review, adapt, or avoid"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"one possible next step if they want to continue"}],"\n"]}]
+2d:["$","h2",null,{"id":"suggested-agenda-90-minutes","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Suggested Agenda (90 Minutes)",["$","$L27",null,{"id":"suggested-agenda-90-minutes"}]]}]
+2e:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Part 1 (20 min): frame the sandbox and compare a vague ask with the same ask plus context"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Part 2 (45 min): write a short context and work through one small example"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Part 3 (25 min): pause, review what happened, and look ahead"}],"\n"]}]
+2f:["$","h2",null,{"id":"before-you-run-the-session","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Before You Run the Session",["$","$L27",null,{"id":"before-you-run-the-session"}]]}]
+30:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Decide these basics before you begin:"}]
+31:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"one demo you will show, including the vague version and the version with context"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":["one scenario path you are most likely to use from ",["$","$L16",null,{"href":"/facilitator/workshop-scenarios","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Workshop Scenarios"}]]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"how people will work in the room and what AI access they will have"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":["one simple starter participants can adapt, such as the quick example, a short context template, or Set 2 from ",["$","$L16",null,{"href":"/workshop-in-a-box/workshop-prompts","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Workshop Prompts"}]]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"what boundaries, cautions, or follow-up options you want to mention during the session"}],"\n"]}]
+32:["$","div",null,{"className":"rounded-lg border bg-white dark:bg-gray-900 border-gray-200 dark:border-gray-800 shadow-sm hover:shadow-md transition-shadow border-l-4 border-l-amber-500 p-6 my-8","children":[["$","div",null,{"className":"mb-3 font-medium","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Room setup and tool access"}]}],["$","div",null,{"className":"mb-3","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Do not assume every participant has their own device, account, or AI tool."}]}],["$","ul",null,{"className":"list-disc ml-6 mb-3","children":[["$","li",null,{"children":"individual work: each person has their own device and chat window"}],["$","li",null,{"children":"shared work: pairs or small groups share one device or one thread"}],["$","li",null,{"children":"limited access: the facilitator runs the tool on a shared screen and participants work from notes, discussion, and a few volunteer examples"}]]}],["$","div",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Any chat-style AI tool can work for this workshop. What matters is seeing what changes when a vague ask becomes specific enough to judge."}]}]]}]
+33:["$","h2",null,{"id":"part-1-show-why-context-matters","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Part 1: Show Why Context Matters",["$","$L27",null,{"id":"part-1-show-why-context-matters"}]]}]
+34:["$","h3",null,{"id":"frame-the-session","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Frame the Session",["$","$L27",null,{"id":"frame-the-session"}]]}]
+35:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Open with purpose:"}]
+36:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"this is not tool training"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"this is not a survey of everything AI can do"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"any chat-style AI tool can work for the workshop"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"we will work from one specific task in a course, support, or other work context"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"we will start with something small enough to try and learn from"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"the goal is to leave with a starting point they can use for one task"}],"\n"]}]
+37:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Introduce the simple model:"}]
+38:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"LLMs are good at filling in patterns"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"if your ask is vague, they fill in the gaps with generic assumptions"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"if you give a specific task, enough background, what you want the result to do, and any limits, the response is easier to judge"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"the educator still sets the standard and decides what to keep, revise, or reject"}],"\n"]}]
+39:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["In this workshop, ",["$","strong",null,{"children":"context"}]," means the details of your teaching or support situation that help you judge whether the response fits your situation."]}]
+3a:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"the prompt is what you type"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"the context is the situation you bring with it"}],"\n"]}]
+3b:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"The core lesson is simple: set the context before you ask."}]
+3c:["$","div",null,{"className":"rounded-lg border bg-white dark:bg-gray-900 border-gray-200 dark:border-gray-800 shadow-sm hover:shadow-md transition-shadow border-l-4 border-l-sky-500 p-6 my-8","children":[["$","div",null,{"className":"mb-3 font-medium","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Concrete example: the same task with and without context"}]}],["$","div",null,{"className":"mb-3","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"Vague ask:"}]," “Make me 5 quiz questions on cell transport.”"]}]}],["$","div",null,{"className":"mb-3","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":[["$","strong",null,{"children":"With context:"}]," “I teach Intro Biology. I need 5 short review questions for next week’s class on cell transport. My students often confuse diffusion, osmosis, and active transport. I want questions that reveal those misconceptions without being too difficult. Keep the language clear enough for first-year students. I will check scientific accuracy and whether the questions match what we covered in class.”"]}]}],["$","div",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"The prompt is the request for quiz questions. The context is the course, timing, student difficulty, desired level, and what the educator will review."}]}]]}]
+3d:["$","h3",null,{"id":"demonstrate-a-vague-ask-and-the-same-ask-with-context","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Demonstrate a Vague Ask and the Same Ask with Context",["$","$L27",null,{"id":"demonstrate-a-vague-ask-and-the-same-ask-with-context"}]]}]
+3e:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["Use one facilitator prompt from ",["$","$L16",null,{"href":"/workshop-in-a-box/workshop-prompts","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Workshop Prompts"}],", but do not begin with the full version.\nStart with a vague ask first, then improve it in front of the group."]}]
+3f:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Suggested sequence:"}]
+40:["$","ol",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-decimal x:ms-6","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"show a short request tied to a teaching or support task"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"ask the group what is missing"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"add the task, the course or support-work context, what you want the result to do, any limits, and what you plan to check"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"run the version with context"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"compare the two outputs briefly"}],"\n"]}]
+41:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Debrief with:"}]
+42:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"what changed once the context became more specific?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"what still needed human review?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"what would make this worth using in your practice?"}],"\n"]}]
+43:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Keep the demonstration short.\nThe point is to make the contrast visible, not to impress people with the output."}]
+44:["$","h2",null,{"id":"part-2-work-through-one-small-example","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Part 2: Work Through One Small Example",["$","$L27",null,{"id":"part-2-work-through-one-small-example"}]]}]
+45:["$","div",null,{"className":"rounded-lg border bg-white dark:bg-gray-900 border-gray-200 dark:border-gray-800 shadow-sm hover:shadow-md transition-shadow border-l-4 border-l-emerald-500 p-6 my-8","children":[["$","div",null,{"className":"mb-3 font-medium","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Quick example: from short notes to a fuller prompt"}]}],["$","div",null,{"className":"mb-3","children":[["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"A participant might begin with five short notes:"}],["$","ul",null,{"className":"list-disc ml-6 mt-2","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Task:"}]," write 3 discussion questions"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Context:"}]," Intro Sociology, next week’s class on social stratification"]}],["$","li",null,{"children":[["$","strong",null,{"children":"What I want the result to do:"}]," invite interpretation, not just definitions"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Limits:"}]," workable in 10 minutes, clear enough for first-year students"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Check:"}]," do the questions fit the reading and open stronger discussion?"]}]]}]]}],["$","div",null,{"className":"mb-3","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Those notes can then become a fuller prompt or brief for AI."}]}],["$","div",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"The prepared prompts on the prompts page already include this fuller kind of context on purpose. If you use one, say that out loud: the extra detail is part of what makes the result easier to judge."}]}]]}]
+46:["$","h3",null,{"id":"activity-a-choose-one-task-and-note-the-context-10-12-minutes","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Activity A: Choose One Task and Note the Context (10-12 minutes)",["$","$L27",null,{"id":"activity-a-choose-one-task-and-note-the-context-10-12-minutes"}]]}]
+47:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Tell participants they are now going to work on one task of their own.\nThey do not need a finished prompt yet.\nThey only need enough notes to make the task clear."}]
+48:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"This can be done on paper, in a shared document, in the interactive planner, or in the AI tool itself if people prefer to draft there first."}]
+49:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"If people are working in pairs or small groups, ask each group to choose one task together."}]
+4a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Ask participants to note five things:"}]
+4b:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"the task they want help with"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"the course, support, or other work situation"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"what they want the result to help them do"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"any limit, caution, or instruction the AI should respect"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"what they will want to check themselves before using anything"}],"\n"]}]
+4c:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Tell them to work in notes, not full sentences.\nIf they already have a draft, assignment, instructions, resource, or support notes open, they can work from that instead of starting from a blank page."}]
+4d:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"As you circulate, help people narrow to one task.\nIf someone lists several goals, ask:"}]
+4e:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"what would be most useful to work on first?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"what is the first thing you want the AI to help you with?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"what would you want to look at and say, “yes, this is worth revising”?"}],"\n"]}]
+4f:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"If participants get stuck, offer a quick way in:"}]
+50:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"borrow the quick example above and replace the details with their own"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":["open Set 2 in ",["$","$L16",null,{"href":"/workshop-in-a-box/workshop-prompts","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Workshop Prompts"}]," and fill in the five fields instead of starting from a blank page"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"choose a prepared scenario that is close enough and personalize it later"}],"\n"]}]
+51:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"By the end of this activity, each person or group should have one task and a few notes they can turn into a fuller prompt or brief in Activity B."}]
+52:["$","h3",null,{"id":"activity-b-turn-it-into-a-more-detailed-prompt-or-brief-12-15-minutes","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Activity B: Turn It Into a More Detailed Prompt or Brief (12-15 minutes)",["$","$L27",null,{"id":"activity-b-turn-it-into-a-more-detailed-prompt-or-brief-12-15-minutes"}]]}]
+53:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["Use Set 2 from ",["$","$L16",null,{"href":"/workshop-in-a-box/workshop-prompts","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Workshop Prompts"}],"."]}]
+54:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Explain that the prepared prompts are more detailed on purpose.\nThey show what changes when the task, context, quality bar, and limits are stated clearly."}]
+55:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Invite participants to turn that short context into one prompt or brief they can actually test."}]
+56:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Ask them to notice:"}]
+57:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"what became clearer once they gave more context"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"what still came back too generic"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"what they would need to review before using anything"}],"\n"]}]
+58:["$","h3",null,{"id":"optional-pair-or-small-group-exchange-8-10-minutes","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Optional Pair or Small-Group Exchange (8-10 minutes)",["$","$L27",null,{"id":"optional-pair-or-small-group-exchange-8-10-minutes"}]]}]
+59:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Use this only if it fits the room setup."}]
+5a:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"if people have their own devices, use pairs or groups of 2-3 after the individual activity"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"if people are already sharing a device or thread, keep them in those working groups"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"if access is mixed or limited, skip this and do a short whole-group debrief instead"}],"\n"]}]
+5b:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"If you use this step, ask participants to share:"}]
+5c:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"the task they chose"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"one part of the context that changed the result most"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"one limit or check they want to keep"}],"\n"]}]
+5d:["$","h3",null,{"id":"choose-the-closest-scenario-10-12-minutes","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Choose the Closest Scenario (10-12 minutes)",["$","$L27",null,{"id":"choose-the-closest-scenario-10-12-minutes"}]]}]
+5e:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Ask participants to choose the one Set 3 scenario that best matches the task they already started.\nThey are not starting over.\nThey are choosing the closest prompt shape for the same piece of work."}]
+5f:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Keep this moving:"}]
+60:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"ask what the task is mostly about"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"match it to the closest scenario"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"if two scenarios seem possible, pick one and continue"}],"\n"]}]
+61:["$","div",null,{"className":"rounded-lg border bg-white dark:bg-gray-900 border-gray-200 dark:border-gray-800 shadow-sm hover:shadow-md transition-shadow border-l-4 border-l-violet-500 p-6 my-8","children":[["$","div",null,{"className":"mb-3 font-medium","children":["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Quick examples"}]}],["$","ul",null,{"className":"list-disc ml-6","children":[["$","li",null,{"children":"if someone is working on discussion questions for Intro Sociology, Scenario D may be the best fit because the task is about discussion and participation"}],["$","li",null,{"children":"if someone is working on practice problems or reading questions, Scenario A may be the closer fit because the task is mainly about teaching materials"}]]}]]}]
+62:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"The goal is not to browse the full page.\nThe goal is to deepen the one task they already started."}]
+63:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["If time is tighter than expected, move people to ",["$","$L16",null,{"href":"/workshop-in-a-box/workshop-prompts#set-3-rapid-start","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Rapid Start"}]," instead of rushing the full scenario prompts."]}]
+64:["$","h2",null,{"id":"part-3-pause-review-and-look-ahead","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Part 3: Pause, Review, and Look Ahead",["$","$L27",null,{"id":"part-3-pause-review-and-look-ahead"}]]}]
+65:["$","h3",null,{"id":"use-a-light-weight-wrap-up","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Use a Light-Weight Wrap-Up",["$","$L27",null,{"id":"use-a-light-weight-wrap-up"}]]}]
+66:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Keep the close brief and focused.\nBy this point, participants have already done the main thinking.\nUse this final part of the session to help them notice what seems worth keeping, what still needs review, and whether anything is worth continuing."}]
+67:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Choose the wrap-up format that fits the room:"}]
+68:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"if people have their own device or shared thread, ask them to stay in the same conversation and use a short AI-assisted wrap-up"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"if access or time is limited, do this as a spoken reflection and try to capture a few notes"}],"\n"]}]
+69:["$","$L7b",null,{"title":"Quick wrap-up prompt","description":"Ask participants to send this as a follow-up message in the same AI conversation they just used. If they need to start a new chat, they should first paste in the AI request and output from their test. They should review and edit the summary rather than accept it as-is.","defaultOpen":true,"copyLabel":"Copy wrap-up prompt","copyHint":"Copy this follow-up message into the AI chat you just used, or into a new chat after pasting the request and output from the test.","prompt":"I just ran a small workshop test with AI. Based on the request and output in this conversation, help me make sense of it. In plain language, give me:\n\n1. what seems most worth keeping here\n2. what I would still need to check or revise\n3. what this helped me understand about giving context\n4. one possible next step if I want to keep going"}]
+6a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"If you are not using devices, ask the same questions out loud and invite people to jot notes."}]
+6b:["$","h3",null,{"id":"close-with-shared-takeaways","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["Close with Shared Takeaways",["$","$L27",null,{"id":"close-with-shared-takeaways"}]]}]
+6c:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Bring the room back together in a way that fits the setting.\nThis can be a short spoken round, a few volunteers, a shared board, or a quick whole-group debrief."}]
+6d:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Useful closing prompts:"}]
+6e:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"what changed when more context was added?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"what felt clearer or more worth keeping?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"what still needs human judgment?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"what would you want to try, adjust, or leave aside after this?"}],"\n"]}]
+6f:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Participants do not need to answer all four.\nUse one or two if time is short."}]
+70:["$","h3",null,{"id":"end-with-a-simple-invitation","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-8 x:text-2xl","children":["End with a Simple Invitation",["$","$L27",null,{"id":"end-with-a-simple-invitation"}]]}]
+71:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Close by summarizing what the group tried and what the optional next move could be.\nHelp people leave with a sense of completion and a possible path forward."}]
+72:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"You might say:"}]
+73:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"today was about seeing what changes when a vague ask becomes a more specific AI request"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":["if you want to keep developing the example you started, go to ",["$","$L16",null,{"href":"/user/run-experiment#from-discovery-to-first-run","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Run an Experiment"}]]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":["if you want to browse the sandbox more broadly first, start at ",["$","$L16",null,{"href":"/user","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Welcome"}]," or the ",["$","$L16",null,{"href":"/user/run-experiment#interactive-planner","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Interactive Planner"}]]}],"\n"]}]
+74:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Choose one or two of these options based on the group.\nDo not try to walk everyone through every follow-up link in the final minutes."}]
+75:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"If you want more structured feedback, send a short survey after the workshop rather than using the close for that."}]
+76:["$","h2",null,{"id":"adaptation-notes","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Adaptation Notes",["$","$L27",null,{"id":"adaptation-notes"}]]}]
+77:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"For department-specific runs, keep the structure and add more course, program, or departmental detail."}]
+78:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Use:"}]
+79:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":["$","$L16",null,{"href":"/workshop-in-a-box/adapting-for-your-department","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Adapting for Your Department"}]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":["$","$L16",null,{"href":"/workshop-in-a-box/case-study-physics-mcq","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Case Study: Physics MCQ"}]}],"\n"]}]
+7a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"The session works best when participants leave with an experiment they could realistically try, plus a shared way of talking about context, quality, limits, evidence, and revision."}]
 b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 7:null
-55:I[27201,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"IconMark"]
-9:{"metadata":[["$","title","0",{"children":"Workshop-in-a-Box: 90-Minute Faculty Sandbox"}],["$","meta","1",{"name":"description","content":"Documentation for Gen AI Sandbox"}],["$","link","2",{"rel":"icon","href":"/genai-sandbox-dawson/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L55","3",{}]],"error":null,"digest":"$undefined"}
+7c:I[27201,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Run a Workshop"}],["$","meta","1",{"name":"description","content":"Documentation for Gen AI Sandbox"}],["$","meta","2",{"property":"og:title","content":"Gen AI Sandbox Docs"}],["$","meta","3",{"property":"og:description","content":"Documentation for Gen AI Sandbox"}],["$","meta","4",{"name":"twitter:card","content":"summary"}],["$","meta","5",{"name":"twitter:title","content":"Gen AI Sandbox Docs"}],["$","meta","6",{"name":"twitter:description","content":"Documentation for Gen AI Sandbox"}],["$","link","7",{"rel":"icon","href":"/genai-sandbox-dawson/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L7c","8",{}]],"error":null,"digest":"$undefined"}
 e:"$9:metadata"
