@@ -1,0 +1,514 @@
+1:"$Sreact.fragment"
+3:I[39756,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"default"]
+4:I[37457,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"default"]
+6:I[97367,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"OutletBoundary"]
+8:I[11533,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"AsyncMetadataOutlet"]
+a:I[97367,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"ViewportBoundary"]
+c:I[97367,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[68027,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/fae05760d84109bc.js"],"default"]
+:HL["/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","style"]
+:HL["/genai-sandbox-dawson/_next/static/chunks/c5aa8c8986421967.css","style"]
+0:{"P":null,"b":"ng_JMraSLbIJrTUd-bLBo","p":"/genai-sandbox-dawson","c":["","workshop-in-a-box","facilitation-guide",""],"i":false,"f":[[["",{"children":[["mdxPath","workshop-in-a-box/facilitation-guide","oc"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/c5aa8c8986421967.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/genai-sandbox-dawson/_next/static/chunks/fae05760d84109bc.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["mdxPath","workshop-in-a-box/facilitation-guide","oc"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/f1d7c6976cc3beb4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/genai-sandbox-dawson/_next/static/chunks/c5aa8c8986421967.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+10:I[68386,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/fae05760d84109bc.js"],"ThemeConfigProvider"]
+11:I[6344,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/fae05760d84109bc.js"],"LastUpdated"]
+12:I[98091,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/fae05760d84109bc.js"],"Search"]
+13:I[63178,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/fae05760d84109bc.js"],"ThemeProvider"]
+14:I[91675,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/fae05760d84109bc.js"],"SkipNavLink"]
+15:I[37985,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/fae05760d84109bc.js"],"ConfigProvider"]
+2:["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L10",null,{"value":{"copyPageButton":true,"darkMode":true,"docsRepositoryBase":"https://github.com/your-org/genai-sandbox-nextra/tree/main","editLink":null,"feedback":{"content":null,"labels":"feedback"},"i18n":[],"lastUpdated":["$","$L11",null,{}],"navigation":{"next":true,"prev":true},"search":["$","$L12",null,{}],"sidebar":{"defaultMenuCollapseLevel":1,"defaultOpen":true,"toggleButton":true},"themeSwitch":{"dark":"Dark","light":"Light","system":"System"},"toc":{"backToTop":false,"float":true,"title":"On This Page"}},"children":["$","$L13",null,{"attribute":"class","defaultTheme":"system","disableTransitionOnChange":true,"storageKey":"theme","children":[["$","$L14",null,{}],"$undefined",["$","$L15",null,{"pageMap":[{"data":{"index":{"title":"🏠 Home"},"user":{"title":"👤 For Educators"},"workshop-in-a-box":{"title":"📦 Workshop-in-a-Box"},"saltise-s06":{"title":"SALTISE S-06"},"about":{"title":"About"}}},{"name":"index","route":"/","frontMatter":{"title":"GenAI Sandbox","filePath":"content/index.mdx","timestamp":1780316016000},"title":"🏠 Home"},{"name":"user","route":"/user","children":[{"data":{"index":{"title":"Welcome"},"run-experiment":{"title":"Run an Experiment"},"use-cases":{"title":"Places to Start"},"working-with-ai":{"title":"Working with AI"}}},{"name":"index","route":"/user","frontMatter":{"title":"For Educators","filePath":"content/user/index.mdx","timestamp":1773846530000},"title":"Welcome"},{"name":"run-experiment","route":"/user/run-experiment","frontMatter":{"title":"Run an Experiment","filePath":"content/user/run-experiment.mdx","timestamp":1780316016000},"title":"Run an Experiment"},{"name":"use-cases","route":"/user/use-cases","frontMatter":{"title":"Places to Start","filePath":"content/user/use-cases.mdx","timestamp":1780316016000},"title":"Places to Start"},{"name":"working-with-ai","route":"/user/working-with-ai","frontMatter":{"title":"Working with AI","filePath":"content/user/working-with-ai.mdx","timestamp":1780316016000},"title":"Working with AI"}],"title":"👤 For Educators"},{"name":"workshop-in-a-box","route":"/workshop-in-a-box","children":[{"data":{"index":{"title":"Workshop Overview"},"---s06":{"type":"separator","title":"SALTISE S-06"},"session-overview":{"title":"Session Overview"},"shared-sandbox-project":{"title":"Sandbox Experiment"},"facilitation-guide":{"title":"Facilitation Guide"},"---general":{"type":"separator","title":"General Workshop"},"workshop-90min":{"title":"Run a Workshop"},"workshop-prompts":{"title":"Workshop Prompts"},"adapting-for-your-department":{"title":"Adapting for Your Department"},"case-study-physics-mcq":{"title":"Case Study: Physics MCQ"}}},{"name":"index","route":"/workshop-in-a-box","frontMatter":{"title":"Workshop Overview","filePath":"content/workshop-in-a-box/index.mdx","timestamp":1780316016000},"title":"Workshop Overview"},{"name":"---s06","type":"separator","title":"SALTISE S-06"},{"name":"session-overview","route":"/workshop-in-a-box/session-overview","frontMatter":{"title":"Session Overview","filePath":"content/workshop-in-a-box/session-overview.mdx","timestamp":1780316016000},"title":"Session Overview"},{"name":"shared-sandbox-project","route":"/workshop-in-a-box/shared-sandbox-project","frontMatter":{"title":"Sandbox Experiment","filePath":"content/workshop-in-a-box/shared-sandbox-project.mdx","timestamp":1780316016000},"title":"Sandbox Experiment"},{"name":"facilitation-guide","route":"/workshop-in-a-box/facilitation-guide","frontMatter":{"title":"Facilitation Guide","filePath":"content/workshop-in-a-box/facilitation-guide.mdx","timestamp":1780316016000},"title":"Facilitation Guide"},{"name":"---general","type":"separator","title":"General Workshop"},{"name":"workshop-90min","route":"/workshop-in-a-box/workshop-90min","frontMatter":{"title":"Run a Workshop","filePath":"content/workshop-in-a-box/workshop-90min.mdx","timestamp":1780316016000},"title":"Run a Workshop"},{"name":"workshop-prompts","route":"/workshop-in-a-box/workshop-prompts","frontMatter":{"title":"Workshop Prompts","filePath":"content/workshop-in-a-box/workshop-prompts.mdx","timestamp":1780316016000},"title":"Workshop Prompts"},{"name":"adapting-for-your-department","route":"/workshop-in-a-box/adapting-for-your-department","frontMatter":{"title":"Adapting the Workshop for Your Department","filePath":"content/workshop-in-a-box/adapting-for-your-department.mdx","timestamp":1780316016000},"title":"Adapting for Your Department"},{"name":"case-study-physics-mcq","route":"/workshop-in-a-box/case-study-physics-mcq","frontMatter":{"title":"Case Study: Physics Department: MCQ Generation","filePath":"content/workshop-in-a-box/case-study-physics-mcq.mdx","timestamp":1780316016000},"title":"Case Study: Physics MCQ"}],"title":"📦 Workshop-in-a-Box"},{"name":"saltise-s06","route":"/saltise-s06","frontMatter":{"title":"SALTISE S-06: The GenAI Sandbox","filePath":"content/saltise-s06.mdx","timestamp":1780316016000},"title":"SALTISE S-06"},{"name":"about","route":"/about","frontMatter":{"title":"About the GenAI Sandbox","filePath":"content/about.mdx","timestamp":1773546061000},"title":"About"}],"navbar":"$L16","footer":"$L17","children":["$L18","$L19"]}]]}]}]}]}]
+1a:I[22016,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/fae05760d84109bc.js"],"default"]
+1b:I[43634,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/fae05760d84109bc.js"],"ClientNavbar"]
+1c:I[31277,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/fae05760d84109bc.js"],"Switchers"]
+1d:I[34924,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/fae05760d84109bc.js"],"LocaleSwitch"]
+1e:I[75684,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/fae05760d84109bc.js"],"ThemeSwitch"]
+1f:I[769,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/fae05760d84109bc.js"],"MobileNav"]
+16:["$","header",null,{"className":"nextra-navbar x:sticky x:top-0 x:z-30 x:w-full x:bg-transparent x:print:hidden x:max-md:[.nextra-banner:not([class$=hidden])~&]:top-(--nextra-banner-height)","children":[["$","div",null,{"className":"nextra-navbar-blur x:absolute x:-z-1 x:size-full nextra-border x:border-b x:backdrop-blur-md x:bg-nextra-bg/70"}],["$","nav",null,{"style":{"height":"var(--nextra-navbar-height)"},"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width) x:items-center x:gap-4 x:pl-[max(env(safe-area-inset-left),1.5rem)] x:pr-[max(env(safe-area-inset-right),1.5rem)] x:justify-end","children":[["$","$L1a",null,{"href":"/","className":"x:flex x:items-center x:me-auto x:transition-opacity x:focus-visible:nextra-focus x:hover:opacity-75","aria-label":"Home page","children":["$","b",null,{"children":"GenAI Sandbox"}]}],["$","$L1b",null,{"className":"","children":["$undefined","$undefined",["$","nav",null,{"className":"site-nav-links","aria-label":"Primary","children":[["$","$L1a",null,{"href":"/user","className":"site-nav-link","children":"For Educators"}],null,["$","$L1a",null,{"href":"/workshop-in-a-box","className":"site-nav-link","children":"Workshop"}],["$","$L1a",null,{"href":"/about","className":"site-nav-link","children":"About"}]]}]]}]]}]]}]
+17:["$","div",null,{"className":"x:bg-gray-100 x:pb-[env(safe-area-inset-bottom)] x:dark:bg-neutral-900 x:print:bg-transparent","children":[["$","$L1c",null,{"children":["$","div",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width) x:gap-2 x:py-2 x:px-4","children":[["$","$L1d",null,{}],["$","$L1e",null,{}]]}]}],["$","hr",null,{"className":"nextra-border"}],["$","footer",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width) x:justify-center x:py-12 x:text-gray-600 x:dark:text-gray-400 x:md:justify-start x:pl-[max(env(safe-area-inset-left),1.5rem)] x:pr-[max(env(safe-area-inset-right),1.5rem)]","children":["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"1rem","padding":"1.5rem 2rem 1rem","maxWidth":"1200px","margin":"0 auto","width":"100%"},"children":[["$","div",null,{"style":{"display":"flex","alignItems":"center","justifyContent":"space-between","flexWrap":"wrap","gap":"1.5rem"},"children":[["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":"1.5rem"},"children":[["$","a",null,{"href":"https://www.dawsoncollege.qc.ca/about-us","target":"_blank","rel":"noopener noreferrer","style":{"display":"flex","alignItems":"center"},"children":["$","img",null,{"src":"/genai-sandbox-dawson/Dawson_En_Logo_Full_Color_RGB.png","alt":"Dawson College","style":{"height":"45px","width":"auto"}}]}],["$","a",null,{"href":"https://pim.quebec/en/about","target":"_blank","rel":"noopener noreferrer","style":{"display":"flex","alignItems":"center"},"children":["$","img",null,{"src":"/genai-sandbox-dawson/PIM_bannierev2.png","alt":"Pôle interordres de Montréal","style":{"height":"45px","width":"auto"}}]}]]}],["$","div",null,{"style":{"textAlign":"right"},"children":["$","span",null,{"style":{"fontSize":"1.125rem","fontWeight":600,"opacity":0.8},"children":"Generative AI Sandbox"}]}]]}],["$","div",null,{"style":{"display":"flex","alignItems":"center","justifyContent":"space-between","paddingTop":"0.75rem","borderTop":"1px solid rgba(128, 128, 128, 0.15)","fontSize":"0.75rem","opacity":0.6},"children":[["$","span",null,{"children":["© ",2026," Dawson College · All rights reserved"]}],["$","img",null,{"src":"/genai-sandbox-dawson/IRV-logo-small.png","alt":"I.R.V.","style":{"height":"14px","width":"auto","opacity":0.7}}]]}]]}]}]]}]
+18:["$","$L1f",null,{}]
+19:["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"mx-auto max-w-3xl px-6 py-16","children":["$","div",null,{"className":"rounded-lg border border-gray-200 bg-white p-8 shadow-sm dark:border-gray-800 dark:bg-gray-900","children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-wide text-gray-500 dark:text-gray-400","children":"404"}],["$","h1",null,{"className":"mt-2 text-3xl font-bold text-gray-900 dark:text-white","children":"Page not found"}],["$","p",null,{"className":"mt-3 text-gray-600 dark:text-gray-300","children":"The page you requested does not exist or has moved. Try heading back to the docs."}],["$","div",null,{"className":"mt-6 flex flex-wrap gap-3","children":[["$","$L1a",null,{"href":"/","className":"inline-flex items-center rounded-md bg-blue-600 px-4 py-2 text-sm font-semibold text-white hover:bg-blue-700","children":"Go to home"}],["$","$L1a",null,{"href":"/user/quickstart","className":"inline-flex items-center rounded-md border border-gray-300 px-4 py-2 text-sm font-semibold text-gray-700 hover:bg-gray-50 dark:border-gray-700 dark:text-gray-200 dark:hover:bg-gray-800","children":"Browse quickstart"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+20:I[55169,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/fae05760d84109bc.js"],"TOCProvider"]
+21:I[769,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/fae05760d84109bc.js"],"Sidebar"]
+22:I[47486,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/fae05760d84109bc.js"],"ClientWrapper"]
+23:T43e5,import { WorkshopPrompt } from '../../src/components/WorkshopPrompt'
+
+# Facilitation Guide
+
+Use this guide to run the S-06 structure with colleagues. It is designed for a 75-minute session, with options for shorter or longer meetings.
+
+The facilitator does not need to be the AI expert in the room. The facilitator's role is to keep the work grounded in real teaching and learning tasks, protect time for review, and help participants leave with one clear next decision.
+
+## Before The Session
+
+Prepare four things:
+
+1. A prepared sandbox using the instructions below, seeded with the example experiments in this guide. You drive this version on screen during the examples block.
+2. A way for participants to use an AI tool during the hands-on work. Either offer a sandboxed ChatGPT account or prepared project, or let participants use their own LLM. If participants use their own tool, give them the system instructions block below to paste first.
+3. A participant drafting space using [Sandbox Experiment](./shared-sandbox-project) or a shared document.
+4. One short example from your own context, in addition to the seeded set.
+
+Discovery is a table activity, so one device per table is enough for that step. For the individual draft, participants work on their own laptops, and pairs can share one laptop by swapping between running the prompt and taking notes.
+
+Keep a backup path for anyone without a device. The backup path can be simple: you run the sandbox on screen, and those participants draft on paper or in a document.
+
+Do not paste student or personal information into any AI tool, on any path. A sandboxed account adds containment but does not change this rule.
+
+## Prepare The Sandbox
+
+Create one project, custom instruction set, or saved chat space called:
+
+```text
+GenAI Sandbox S-06: Experiment Designer
+```
+
+Do two things before participants arrive:
+
+1. Add the system instructions below.
+2. Seed the example experiments from the next section so the sandbox can adapt the closest one to a participant's context.
+
+If your tool does not support project instructions, paste the system instructions as the first message in a new conversation and ask the tool to follow them for the session.
+
+The same system instructions are the portable definition of the sandbox. Participants using their own LLM paste this block first; the participant-facing page, [Sandbox Experiment](./shared-sandbox-project), gives them a copy and the load steps.
+
+<WorkshopPrompt
+  title="System instructions for the prepared sandbox"
+  description="Copy these instructions into the prepared AI space. They are written for a cross-disciplinary group of educators."
+  copyHint="Copy these setup instructions into the prepared sandbox."
+  prompt={`You support educators who are planning one small generative AI experiment in teaching, learning support, assessment, course design, or program work.
+
+Your job is to help the educator make the experiment specific enough to review. Do not sell AI. Do not argue for adoption. Do not give a long list of possible uses unless the educator asks for one.
+
+Work from the educator's context:
+- learning goal or work goal
+- student or participant prior knowledge
+- common misconceptions or recurring difficulties
+- task, artifact, or support workflow
+- source material the educator can safely share
+- boundaries, academic integrity needs, and privacy limits
+- review criteria and evidence of usefulness
+
+Keep every experiment small:
+- one task or artifact
+- one first use
+- one learner group, course, support setting, or program context
+- one or two review criteria
+- one reason to continue, revise, or stop
+
+Ask before drafting if important information is missing. Ask one brief question and stop.
+
+Protect educator judgment:
+- state what the AI may help draft, compare, summarize, or question
+- state what stays with the educator
+- do not invent institutional policy
+- do not replace disciplinary judgment
+- do not write completed student submissions
+- do not use student or personal information unless the educator has already de-identified it
+
+When helping with an experiment draft, return:
+1. Experiment title
+2. Learning or work goal
+3. First use
+4. Source material or context needed
+5. What AI will help with
+6. What stays educator judgment
+7. Boundaries and privacy notes
+8. Review criteria
+9. Evidence to collect
+10. Reason to continue, revise, or stop
+11. Next step
+
+When helping with peer feedback, review the draft against:
+- Is the task specific?
+- Is the scope small enough to try?
+- Is the educator's judgment visible?
+- Are student agency and academic integrity protected?
+- Is there a clear review criterion?
+- Is there a reason to continue, revise, or stop?
+
+You may be given a set of example experiments for reference. When an educator's context is close to one, adapt that example rather than inventing from scratch, and keep it small.
+
+Use plain educator-facing language. Avoid hype, slogans, and generic AI advice.`}
+/>
+
+## Example Experiments
+
+These six examples do two jobs. You present them live during the opening, and you seed them into the sandbox so it can adapt the closest one to a participant's context. They span different teaching, assessment, and support settings so a cross-disciplinary group can each find something near their own work.
+
+Each example follows the same shape: the task, the context it needs, what AI helps with, what stays educator judgment, one review criterion, and one reason to revise or stop.
+
+| Example | Task | Context needed | What AI helps with | Stays educator judgment | Review criterion | Reason to revise or stop |
+| --- | --- | --- | --- | --- | --- | --- |
+| Concept-check questions | Draft five questions on a topic students routinely get wrong | Course, learning goal, the specific misconception | First-draft questions and distractors tied to the misconception | Whether each question targets the real difficulty and matches how the topic was taught | Each question has one clearly best answer and distractors that reflect actual student reasoning | The questions test recall instead of the misconception |
+| Checkpoint feedback questions | Prepare three questions a student can ask of their own draft at a checkpoint | Assignment instructions, rubric language, the stage students are at | Turning rubric criteria into questions students can apply themselves | Whether the questions match what this assignment actually rewards | A student could act on each question without the instructor present | The questions restate the rubric instead of prompting revision |
+| Self-explanation prompt | Write one short prompt for after a lab or in-class activity | The activity, the learning goal, what students often miss | A prompt that asks students to explain their reasoning, not report results | Whether the prompt fits the activity and the time available | Responses would reveal student thinking, not yes or no answers | The prompt invites a summary rather than reasoning |
+| Discussion questions | Improve three questions for one reading or case | The reading, the learning goal, the discussion format | Sharper questions and a sequence from concrete to interpretive | Which questions fit the group and the disciplinary stakes | Each question has more than one defensible response | The questions have a single expected answer |
+| AI-use expectations | Draft plain-language AI-use expectations for one assignment | The assignment, what counts as the student's own work here, integrity norms | Student-facing language with examples of allowed and not-allowed use | Where the line actually sits for this assignment | A student could tell whether a specific action is allowed | The language is vaguer than the original policy |
+| Support handout | Draft a one-page study-skills handout for a learning-support session | The support setting, the student need, what advisors already say | Drafting and organizing the handout from existing advising notes | Accuracy and tone for this student population | The handout matches what advisors actually recommend | It adds generic advice the team would not give |
+
+Paste the block below into the sandbox after the system instructions, so it has the examples on hand.
+
+<WorkshopPrompt
+  title="Example experiments to seed"
+  description="Paste this into the prepared sandbox after the system instructions. The sandbox adapts the closest example to a participant's context."
+  copyHint="Copy this into the prepared sandbox after the system instructions."
+  prompt={`Here are example experiments for reference. When an educator's context is close to one, adapt it rather than inventing from scratch, and keep it small.
+
+1. Concept-check questions for a difficult topic.
+- Task: draft five questions on a topic students routinely get wrong.
+- Context needed: course, learning goal, the specific misconception.
+- What AI helps with: first-draft questions and distractors tied to the misconception.
+- Stays educator judgment: whether each question targets the real difficulty and matches how the topic was taught.
+- Review criterion: each question has one clearly best answer and distractors that reflect actual student reasoning.
+- Reason to revise or stop: the questions test recall instead of the misconception.
+
+2. Checkpoint feedback questions.
+- Task: prepare three questions a student can ask of their own draft at a checkpoint.
+- Context needed: assignment instructions, rubric language, the stage students are at.
+- What AI helps with: turning rubric criteria into questions students can apply themselves.
+- Stays educator judgment: whether the questions match what this assignment actually rewards.
+- Review criterion: a student could act on each question without the instructor present.
+- Reason to revise or stop: the questions restate the rubric instead of prompting revision.
+
+3. Self-explanation prompt for an activity.
+- Task: write one short prompt for after a lab or in-class activity.
+- Context needed: the activity, the learning goal, what students often miss.
+- What AI helps with: a prompt that asks students to explain their reasoning, not report results.
+- Stays educator judgment: whether the prompt fits the activity and the time available.
+- Review criterion: responses would reveal student thinking, not yes or no answers.
+- Reason to revise or stop: the prompt invites a summary rather than reasoning.
+
+4. Discussion questions for a reading or case.
+- Task: improve three questions for one reading or case.
+- Context needed: the reading, the learning goal, the discussion format.
+- What AI helps with: sharper questions and a sequence from concrete to interpretive.
+- Stays educator judgment: which questions fit the group and the disciplinary stakes.
+- Review criterion: each question has more than one defensible response.
+- Reason to revise or stop: the questions have a single expected answer.
+
+5. AI-use expectations for one assignment.
+- Task: draft plain-language AI-use expectations for one assignment.
+- Context needed: the assignment, what counts as the student's own work here, integrity norms.
+- What AI helps with: student-facing language with examples of allowed and not-allowed use.
+- Stays educator judgment: where the line actually sits for this assignment.
+- Review criterion: a student could tell whether a specific action is allowed.
+- Reason to revise or stop: the language is vaguer than the original policy.
+
+6. Support handout for a learning-support session.
+- Task: draft a one-page study-skills handout.
+- Context needed: the support setting, the student need, what advisors already say.
+- What AI helps with: drafting and organizing the handout from existing advising notes.
+- Stays educator judgment: accuracy and tone for this student population.
+- Review criterion: the handout matches what advisors actually recommend.
+- Reason to revise or stop: it adds generic advice the team would not give.`}
+/>
+
+The sandbox is ready when it asks for missing educational context, keeps the experiment small, identifies what stays educator judgment, and gives a review criterion instead of generic advice. Run one or two of the examples yourself before the session to confirm.
+
+## Room Setup
+
+Use tables or groups of 3-5 when possible. The first activity works best when participants can talk through what they notice before drafting alone.
+
+Each table explores one prepared sandbox together for discovery. One person can drive while the table reads and discusses what the designed context makes possible. Participants then use their own laptops for the individual draft, with the facilitator-provided ChatGPT or their own LLM.
+
+Decide before the session:
+
+- which prepared sandbox each table will open for discovery: your ChatGPT on a table device or a shared screen
+- which AI tools participants will use for the individual draft: your sandboxed ChatGPT, their own LLM, or a mix
+- how participants will avoid sharing student or personal information
+- where participants will save their draft after the session
+
+If participants are on different tools for the draft, comparing the responses can be useful, but keep the focus on the designed context rather than the tool.
+
+## 75-Minute Run Sheet
+
+The timing below is a suggestion for a 75-minute session including questions. Adapt it to your audience and room constraints.
+
+| Time | Facilitator move | Participant work |
+| --- | --- | --- |
+| 0-20 min | Frame purpose and boundaries, present the examples live in the seeded sandbox | Pick one real task or artifact worth testing |
+| 20-32 min | Lead table discovery in the prepared sandbox | Explore as a table and notice what the prepared context changes |
+| 32-48 min | Move to individual experiment drafting | Draft one small experiment |
+| 48-60 min | Guide peer feedback | Check scope, judgment, boundaries, and review criteria |
+| 60-68 min | Close with facilitation transfer | Write one facilitation technique you would reuse |
+| 68-75 min | Take questions and hold buffer | Ask questions, save the draft |
+
+## Opening Frame
+
+Say this in your own words:
+
+```text
+Today is about testing one small use of generative AI in a teaching, support, or program context. We are not trying to cover every tool or decide whether AI belongs everywhere. We are using the sandbox to make one possible use specific enough to review.
+
+  The educator sets the learning goal, provides the context, protects student agency, and decides what is useful. The AI can help draft, compare, question, or suggest. Disciplinary judgment stays with the educator.
+```
+
+## Table Discovery
+
+Ask each table to open [Sandbox Experiment](./shared-sandbox-project) and work the exercise. The first two steps are a table activity: pick one task, run the simple prompt, and notice what stays generic. One person can drive while the table discusses what the designed context makes possible.
+
+While tables work, listen for:
+
+- tasks that are still too broad
+- missing source material
+- unclear student-facing boundaries
+- review criteria that are too vague
+- strong examples of educator judgment
+
+Bring the room back with two questions:
+
+1. What information did the sandbox need before it could help well?
+2. What still needed educator judgment?
+
+## Individual Drafting
+
+Ask participants to continue the exercise on their own device: add their context one piece at a time, run the context-rich prompt, and capture the experiment.
+
+Circulate with these questions:
+
+- What is the first use?
+- Who is this for?
+- What source material will you give the AI?
+- What must students still do themselves?
+- What will you check before using anything?
+- What would make you revise or stop?
+
+Keep participants from expanding the scope. One task is enough.
+
+## Peer Feedback
+
+Use pairs or table groups. Ask the reviewer to focus on the experiment design, not on whether they personally like the AI use.
+
+Use these peer feedback questions:
+
+- Is the task specific?
+- Is the scope small enough to try?
+- Is educator judgment visible?
+- Are student agency and academic integrity protected?
+- Is there a clear review criterion?
+- What should be answered before trying it?
+
+Each participant should leave with one practical revision.
+
+## Facilitation Transfer
+
+Close by recapping the structure participants just experienced:
+
+1. Explore a prepared sandbox together.
+2. Build shared language from the group experience.
+3. Draft one individual experiment.
+4. Use peer feedback before treating the draft as ready.
+5. Decide what to continue, revise, or stop.
+
+Ask participants to write one facilitation technique they could reuse with colleagues.
+
+## Shorter Session
+
+For 45 minutes, do not try to compress everything.
+
+Use:
+
+- 5 minutes for framing
+- 15 minutes for table discovery
+- 15 minutes for a partial experiment draft
+- 10 minutes for one peer feedback question and close
+
+The outcome is one clearer starting point, not a complete draft.
+
+## Longer Session
+
+For 90-120 minutes, add time for:
+
+- participants to bring course or support materials into the draft
+- a second peer feedback round
+- department-specific criteria
+- planning how to collect evidence after the first use
+
+## After The Session
+
+Send participants:
+
+- the session page
+- the [Sandbox Experiment](./shared-sandbox-project) page
+- [Run an Experiment](/user/run-experiment)
+
+Ask for one brief follow-up note:
+
+```text
+What did you decide to try, revise, or set aside after the session?
+```5:["$","div",null,{"className":"x:mx-auto x:flex x:max-w-(--nextra-content-width)","children":["$","$L20",null,{"value":[{"value":"Before The Session","id":"before-the-session","depth":2},{"value":"Prepare The Sandbox","id":"prepare-the-sandbox","depth":2},{"value":"Example Experiments","id":"example-experiments","depth":2},{"value":"Room Setup","id":"room-setup","depth":2},{"value":"75-Minute Run Sheet","id":"75-minute-run-sheet","depth":2},{"value":"Opening Frame","id":"opening-frame","depth":2},{"value":"Table Discovery","id":"table-discovery","depth":2},{"value":"Individual Drafting","id":"individual-drafting","depth":2},{"value":"Peer Feedback","id":"peer-feedback","depth":2},{"value":"Facilitation Transfer","id":"facilitation-transfer","depth":2},{"value":"Shorter Session","id":"shorter-session","depth":2},{"value":"Longer Session","id":"longer-session","depth":2},{"value":"After The Session","id":"after-the-session","depth":2}],"children":[["$","$L21",null,{}],["$","$L22",null,{"metadata":"$2:props:children:props:children:props:children:props:children:2:props:pageMap:3:children:5:frontMatter","bottomContent":"$undefined","sourceCode":"$23","children":["$L24","$L25"]}]]}]}]
+26:I[63894,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/fae05760d84109bc.js"],"HeadingAnchor"]
+24:["$","div",null,{"id":"nextra-skip-nav"}]
+25:["$","main",null,{"data-pagefind-body":true,"children":[["$","h1",null,{"id":"$undefined","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-bold x:mt-2 x:text-4xl","children":["Facilitation Guide","$undefined"]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Use this guide to run the S-06 structure with colleagues. It is designed for a 75-minute session, with options for shorter or longer meetings."}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"The facilitator does not need to be the AI expert in the room. The facilitator’s role is to keep the work grounded in real teaching and learning tasks, protect time for review, and help participants leave with one clear next decision."}],"\n",["$","h2",null,{"id":"before-the-session","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Before The Session",["$","$L26",null,{"id":"before-the-session"}]]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Prepare four things:"}],"\n",["$","ol",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-decimal x:ms-6","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"A prepared sandbox using the instructions below, seeded with the example experiments in this guide. You drive this version on screen during the examples block."}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"A way for participants to use an AI tool during the hands-on work. Either offer a sandboxed ChatGPT account or prepared project, or let participants use their own LLM. If participants use their own tool, give them the system instructions block below to paste first."}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":["A participant drafting space using ",["$","$L1a",null,{"href":"./shared-sandbox-project","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Sandbox Experiment"}]," or a shared document."]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"One short example from your own context, in addition to the seeded set."}],"\n"]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Discovery is a table activity, so one device per table is enough for that step. For the individual draft, participants work on their own laptops, and pairs can share one laptop by swapping between running the prompt and taking notes."}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Keep a backup path for anyone without a device. The backup path can be simple: you run the sandbox on screen, and those participants draft on paper or in a document."}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Do not paste student or personal information into any AI tool, on any path. A sandboxed account adds containment but does not change this rule."}],"\n",["$","h2",null,{"id":"prepare-the-sandbox","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Prepare The Sandbox",["$","$L26",null,{"id":"prepare-the-sandbox"}]]}],"\n",["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Create one project, custom instruction set, or saved chat space called:"}],"\n",["$","div",null,{"data-pagefind-ignore":"all","className":"nextra-code x:relative x:not-first:mt-[1.25em]","children":["$undefined","$L27"]}],"\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60"]}]
+61:I[83987,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/fae05760d84109bc.js"],"ToggleWordWrapButton"]
+62:I[62270,["/genai-sandbox-dawson/_next/static/chunks/a5196e0b2ba7a278.js","/genai-sandbox-dawson/_next/static/chunks/9fe39aedf25eef3e.js","/genai-sandbox-dawson/_next/static/chunks/9c6f9ee4a93cbfe9.js","/genai-sandbox-dawson/_next/static/chunks/fae05760d84109bc.js"],"WorkshopPrompt"]
+27:["$","pre",null,{"className":"x:group x:focus-visible:nextra-focus x:overflow-x-auto x:subpixel-antialiased x:text-[.9em] x:bg-white x:dark:bg-black x:py-4 x:ring-1 x:ring-inset x:ring-gray-300 x:dark:ring-neutral-700 x:contrast-more:ring-gray-900 x:contrast-more:dark:ring-gray-50 x:contrast-more:contrast-150 x:rounded-md not-prose","tabIndex":"0","children":[["$","div",null,{"className":"x:group-hover:opacity-100 x:group-focus:opacity-100 x:opacity-0 x:transition x:focus-within:opacity-100 x:flex x:gap-1 x:absolute x:right-4 x:top-2","children":[["$","$L61",null,{"children":["$","svg",null,{"viewBox":"0 0 24 24","fill":"currentColor","height":"1em","children":["$","path",null,{"d":"M4 19h6v-2H4v2zM20 5H4v2h16V5zm-3 6H4v2h13.25c1.1 0 2 .9 2 2s-.9 2-2 2H15v-2l-3 3l3 3v-2h2c2.21 0 4-1.79 4-4s-1.79-4-4-4z"}]}]}],false]}],["$","code",null,{"className":"nextra-code","dir":"ltr","children":["$","span",null,{"children":["$","span",null,{"children":"GenAI Sandbox S-06: Experiment Designer"}]}]}]]}]
+28:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Do two things before participants arrive:"}]
+29:["$","ol",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-decimal x:ms-6","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Add the system instructions below."}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Seed the example experiments from the next section so the sandbox can adapt the closest one to a participant’s context."}],"\n"]}]
+2a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"If your tool does not support project instructions, paste the system instructions as the first message in a new conversation and ask the tool to follow them for the session."}]
+2b:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["The same system instructions are the portable definition of the sandbox. Participants using their own LLM paste this block first; the participant-facing page, ",["$","$L1a",null,{"href":"./shared-sandbox-project","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Sandbox Experiment"}],", gives them a copy and the load steps."]}]
+63:T8b2,You support educators who are planning one small generative AI experiment in teaching, learning support, assessment, course design, or program work.
+
+Your job is to help the educator make the experiment specific enough to review. Do not sell AI. Do not argue for adoption. Do not give a long list of possible uses unless the educator asks for one.
+
+Work from the educator's context:
+- learning goal or work goal
+- student or participant prior knowledge
+- common misconceptions or recurring difficulties
+- task, artifact, or support workflow
+- source material the educator can safely share
+- boundaries, academic integrity needs, and privacy limits
+- review criteria and evidence of usefulness
+
+Keep every experiment small:
+- one task or artifact
+- one first use
+- one learner group, course, support setting, or program context
+- one or two review criteria
+- one reason to continue, revise, or stop
+
+Ask before drafting if important information is missing. Ask one brief question and stop.
+
+Protect educator judgment:
+- state what the AI may help draft, compare, summarize, or question
+- state what stays with the educator
+- do not invent institutional policy
+- do not replace disciplinary judgment
+- do not write completed student submissions
+- do not use student or personal information unless the educator has already de-identified it
+
+When helping with an experiment draft, return:
+1. Experiment title
+2. Learning or work goal
+3. First use
+4. Source material or context needed
+5. What AI will help with
+6. What stays educator judgment
+7. Boundaries and privacy notes
+8. Review criteria
+9. Evidence to collect
+10. Reason to continue, revise, or stop
+11. Next step
+
+When helping with peer feedback, review the draft against:
+- Is the task specific?
+- Is the scope small enough to try?
+- Is the educator's judgment visible?
+- Are student agency and academic integrity protected?
+- Is there a clear review criterion?
+- Is there a reason to continue, revise, or stop?
+
+You may be given a set of example experiments for reference. When an educator's context is close to one, adapt that example rather than inventing from scratch, and keep it small.
+
+Use plain educator-facing language. Avoid hype, slogans, and generic AI advice.2c:["$","$L62",null,{"title":"System instructions for the prepared sandbox","description":"Copy these instructions into the prepared AI space. They are written for a cross-disciplinary group of educators.","copyHint":"Copy these setup instructions into the prepared sandbox.","prompt":"$63"}]
+2d:["$","h2",null,{"id":"example-experiments","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Example Experiments",["$","$L26",null,{"id":"example-experiments"}]]}]
+2e:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"These six examples do two jobs. You present them live during the opening, and you seed them into the sandbox so it can adapt the closest one to a participant’s context. They span different teaching, assessment, and support settings so a cross-disciplinary group can each find something near their own work."}]
+2f:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Each example follows the same shape: the task, the context it needs, what AI helps with, what stays educator judgment, one review criterion, and one reason to revise or stop."}]
+30:["$","table",null,{"className":"x:block x:overflow-x-auto nextra-scrollbar x:not-first:mt-[1.25em] x:p-0","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Example","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:font-semibold x:dark:border-gray-600"}],["$","th",null,{"children":"Task","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:font-semibold x:dark:border-gray-600"}],["$","th",null,{"children":"Context needed","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:font-semibold x:dark:border-gray-600"}],["$","th",null,{"children":"What AI helps with","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:font-semibold x:dark:border-gray-600"}],["$","th",null,{"children":"Stays educator judgment","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:font-semibold x:dark:border-gray-600"}],["$","th",null,{"children":"Review criterion","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:font-semibold x:dark:border-gray-600"}],["$","th",null,{"children":"Reason to revise or stop","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:font-semibold x:dark:border-gray-600"}]],"className":"x:m-0 x:border-t x:border-gray-300 x:p-0 x:dark:border-gray-600 x:even:bg-gray-100 x:even:dark:bg-gray-600/20"}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Concept-check questions","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Draft five questions on a topic students routinely get wrong","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Course, learning goal, the specific misconception","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"First-draft questions and distractors tied to the misconception","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Whether each question targets the real difficulty and matches how the topic was taught","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Each question has one clearly best answer and distractors that reflect actual student reasoning","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"The questions test recall instead of the misconception","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}]],"className":"x:m-0 x:border-t x:border-gray-300 x:p-0 x:dark:border-gray-600 x:even:bg-gray-100 x:even:dark:bg-gray-600/20"}],["$","tr",null,{"children":[["$","td",null,{"children":"Checkpoint feedback questions","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Prepare three questions a student can ask of their own draft at a checkpoint","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Assignment instructions, rubric language, the stage students are at","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Turning rubric criteria into questions students can apply themselves","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Whether the questions match what this assignment actually rewards","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"A student could act on each question without the instructor present","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],"$L64"],"className":"x:m-0 x:border-t x:border-gray-300 x:p-0 x:dark:border-gray-600 x:even:bg-gray-100 x:even:dark:bg-gray-600/20"}],"$L65","$L66","$L67","$L68"]}]]}]
+31:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Paste the block below into the sandbox after the system instructions, so it has the examples on hand."}]
+69:Td38,Here are example experiments for reference. When an educator's context is close to one, adapt it rather than inventing from scratch, and keep it small.
+
+1. Concept-check questions for a difficult topic.
+- Task: draft five questions on a topic students routinely get wrong.
+- Context needed: course, learning goal, the specific misconception.
+- What AI helps with: first-draft questions and distractors tied to the misconception.
+- Stays educator judgment: whether each question targets the real difficulty and matches how the topic was taught.
+- Review criterion: each question has one clearly best answer and distractors that reflect actual student reasoning.
+- Reason to revise or stop: the questions test recall instead of the misconception.
+
+2. Checkpoint feedback questions.
+- Task: prepare three questions a student can ask of their own draft at a checkpoint.
+- Context needed: assignment instructions, rubric language, the stage students are at.
+- What AI helps with: turning rubric criteria into questions students can apply themselves.
+- Stays educator judgment: whether the questions match what this assignment actually rewards.
+- Review criterion: a student could act on each question without the instructor present.
+- Reason to revise or stop: the questions restate the rubric instead of prompting revision.
+
+3. Self-explanation prompt for an activity.
+- Task: write one short prompt for after a lab or in-class activity.
+- Context needed: the activity, the learning goal, what students often miss.
+- What AI helps with: a prompt that asks students to explain their reasoning, not report results.
+- Stays educator judgment: whether the prompt fits the activity and the time available.
+- Review criterion: responses would reveal student thinking, not yes or no answers.
+- Reason to revise or stop: the prompt invites a summary rather than reasoning.
+
+4. Discussion questions for a reading or case.
+- Task: improve three questions for one reading or case.
+- Context needed: the reading, the learning goal, the discussion format.
+- What AI helps with: sharper questions and a sequence from concrete to interpretive.
+- Stays educator judgment: which questions fit the group and the disciplinary stakes.
+- Review criterion: each question has more than one defensible response.
+- Reason to revise or stop: the questions have a single expected answer.
+
+5. AI-use expectations for one assignment.
+- Task: draft plain-language AI-use expectations for one assignment.
+- Context needed: the assignment, what counts as the student's own work here, integrity norms.
+- What AI helps with: student-facing language with examples of allowed and not-allowed use.
+- Stays educator judgment: where the line actually sits for this assignment.
+- Review criterion: a student could tell whether a specific action is allowed.
+- Reason to revise or stop: the language is vaguer than the original policy.
+
+6. Support handout for a learning-support session.
+- Task: draft a one-page study-skills handout.
+- Context needed: the support setting, the student need, what advisors already say.
+- What AI helps with: drafting and organizing the handout from existing advising notes.
+- Stays educator judgment: accuracy and tone for this student population.
+- Review criterion: the handout matches what advisors actually recommend.
+- Reason to revise or stop: it adds generic advice the team would not give.32:["$","$L62",null,{"title":"Example experiments to seed","description":"Paste this into the prepared sandbox after the system instructions. The sandbox adapts the closest example to a participant's context.","copyHint":"Copy this into the prepared sandbox after the system instructions.","prompt":"$69"}]
+33:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"The sandbox is ready when it asks for missing educational context, keeps the experiment small, identifies what stays educator judgment, and gives a review criterion instead of generic advice. Run one or two of the examples yourself before the session to confirm."}]
+34:["$","h2",null,{"id":"room-setup","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Room Setup",["$","$L26",null,{"id":"room-setup"}]]}]
+35:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Use tables or groups of 3-5 when possible. The first activity works best when participants can talk through what they notice before drafting alone."}]
+36:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Each table explores one prepared sandbox together for discovery. One person can drive while the table reads and discusses what the designed context makes possible. Participants then use their own laptops for the individual draft, with the facilitator-provided ChatGPT or their own LLM."}]
+37:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Decide before the session:"}]
+38:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"which prepared sandbox each table will open for discovery: your ChatGPT on a table device or a shared screen"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"which AI tools participants will use for the individual draft: your sandboxed ChatGPT, their own LLM, or a mix"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"how participants will avoid sharing student or personal information"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"where participants will save their draft after the session"}],"\n"]}]
+39:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"If participants are on different tools for the draft, comparing the responses can be useful, but keep the focus on the designed context rather than the tool."}]
+3a:["$","h2",null,{"id":"75-minute-run-sheet","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["75-Minute Run Sheet",["$","$L26",null,{"id":"75-minute-run-sheet"}]]}]
+3b:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"The timing below is a suggestion for a 75-minute session including questions. Adapt it to your audience and room constraints."}]
+3c:["$","table",null,{"className":"x:block x:overflow-x-auto nextra-scrollbar x:not-first:mt-[1.25em] x:p-0","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Time","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:font-semibold x:dark:border-gray-600"}],["$","th",null,{"children":"Facilitator move","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:font-semibold x:dark:border-gray-600"}],["$","th",null,{"children":"Participant work","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:font-semibold x:dark:border-gray-600"}]],"className":"x:m-0 x:border-t x:border-gray-300 x:p-0 x:dark:border-gray-600 x:even:bg-gray-100 x:even:dark:bg-gray-600/20"}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"0-20 min","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Frame purpose and boundaries, present the examples live in the seeded sandbox","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Pick one real task or artifact worth testing","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}]],"className":"x:m-0 x:border-t x:border-gray-300 x:p-0 x:dark:border-gray-600 x:even:bg-gray-100 x:even:dark:bg-gray-600/20"}],["$","tr",null,{"children":[["$","td",null,{"children":"20-32 min","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Lead table discovery in the prepared sandbox","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Explore as a table and notice what the prepared context changes","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}]],"className":"x:m-0 x:border-t x:border-gray-300 x:p-0 x:dark:border-gray-600 x:even:bg-gray-100 x:even:dark:bg-gray-600/20"}],["$","tr",null,{"children":[["$","td",null,{"children":"32-48 min","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Move to individual experiment drafting","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Draft one small experiment","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}]],"className":"x:m-0 x:border-t x:border-gray-300 x:p-0 x:dark:border-gray-600 x:even:bg-gray-100 x:even:dark:bg-gray-600/20"}],["$","tr",null,{"children":[["$","td",null,{"children":"48-60 min","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Guide peer feedback","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Check scope, judgment, boundaries, and review criteria","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}]],"className":"x:m-0 x:border-t x:border-gray-300 x:p-0 x:dark:border-gray-600 x:even:bg-gray-100 x:even:dark:bg-gray-600/20"}],["$","tr",null,{"children":[["$","td",null,{"children":"60-68 min","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Close with facilitation transfer","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Write one facilitation technique you would reuse","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}]],"className":"x:m-0 x:border-t x:border-gray-300 x:p-0 x:dark:border-gray-600 x:even:bg-gray-100 x:even:dark:bg-gray-600/20"}],["$","tr",null,{"children":[["$","td",null,{"children":"68-75 min","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],"$L6a","$L6b"],"className":"x:m-0 x:border-t x:border-gray-300 x:p-0 x:dark:border-gray-600 x:even:bg-gray-100 x:even:dark:bg-gray-600/20"}]]}]]}]
+3d:["$","h2",null,{"id":"opening-frame","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Opening Frame",["$","$L26",null,{"id":"opening-frame"}]]}]
+3e:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Say this in your own words:"}]
+3f:["$","div",null,{"data-pagefind-ignore":"all","className":"nextra-code x:relative x:not-first:mt-[1.25em]","children":["$undefined",["$","pre",null,{"className":"x:group x:focus-visible:nextra-focus x:overflow-x-auto x:subpixel-antialiased x:text-[.9em] x:bg-white x:dark:bg-black x:py-4 x:ring-1 x:ring-inset x:ring-gray-300 x:dark:ring-neutral-700 x:contrast-more:ring-gray-900 x:contrast-more:dark:ring-gray-50 x:contrast-more:contrast-150 x:rounded-md not-prose","tabIndex":"0","children":[["$","div",null,{"className":"x:group-hover:opacity-100 x:group-focus:opacity-100 x:opacity-0 x:transition x:focus-within:opacity-100 x:flex x:gap-1 x:absolute x:right-4 x:top-2","children":[["$","$L61",null,{"children":["$","svg",null,{"viewBox":"0 0 24 24","fill":"currentColor","height":"1em","children":["$","path",null,{"d":"M4 19h6v-2H4v2zM20 5H4v2h16V5zm-3 6H4v2h13.25c1.1 0 2 .9 2 2s-.9 2-2 2H15v-2l-3 3l3 3v-2h2c2.21 0 4-1.79 4-4s-1.79-4-4-4z"}]}]}],false]}],["$","code",null,{"className":"nextra-code","dir":"ltr","children":[["$","span",null,{"children":["$","span",null,{"children":"Today is about testing one small use of generative AI in a teaching, support, or program context. We are not trying to cover every tool or decide whether AI belongs everywhere. We are using the sandbox to make one possible use specific enough to review."}]}],"\n",["$","span",null,{"children":["$","span",null,{}]}],"\n",["$","span",null,{"children":["$","span",null,{"children":"  The educator sets the learning goal, provides the context, protects student agency, and decides what is useful. The AI can help draft, compare, question, or suggest. Disciplinary judgment stays with the educator."}]}]]}]]}]]}]
+40:["$","h2",null,{"id":"table-discovery","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Table Discovery",["$","$L26",null,{"id":"table-discovery"}]]}]
+41:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":["Ask each table to open ",["$","$L1a",null,{"href":"./shared-sandbox-project","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Sandbox Experiment"}]," and work the exercise. The first two steps are a table activity: pick one task, run the simple prompt, and notice what stays generic. One person can drive while the table discusses what the designed context makes possible."]}]
+42:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"While tables work, listen for:"}]
+43:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"tasks that are still too broad"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"missing source material"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"unclear student-facing boundaries"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"review criteria that are too vague"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"strong examples of educator judgment"}],"\n"]}]
+44:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Bring the room back with two questions:"}]
+45:["$","ol",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-decimal x:ms-6","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"What information did the sandbox need before it could help well?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"What still needed educator judgment?"}],"\n"]}]
+46:["$","h2",null,{"id":"individual-drafting","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Individual Drafting",["$","$L26",null,{"id":"individual-drafting"}]]}]
+47:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Ask participants to continue the exercise on their own device: add their context one piece at a time, run the context-rich prompt, and capture the experiment."}]
+48:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Circulate with these questions:"}]
+49:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"What is the first use?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Who is this for?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"What source material will you give the AI?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"What must students still do themselves?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"What will you check before using anything?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"What would make you revise or stop?"}],"\n"]}]
+4a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Keep participants from expanding the scope. One task is enough."}]
+4b:["$","h2",null,{"id":"peer-feedback","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Peer Feedback",["$","$L26",null,{"id":"peer-feedback"}]]}]
+4c:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Use pairs or table groups. Ask the reviewer to focus on the experiment design, not on whether they personally like the AI use."}]
+4d:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Use these peer feedback questions:"}]
+4e:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Is the task specific?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Is the scope small enough to try?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Is educator judgment visible?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Are student agency and academic integrity protected?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Is there a clear review criterion?"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"What should be answered before trying it?"}],"\n"]}]
+4f:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Each participant should leave with one practical revision."}]
+50:["$","h2",null,{"id":"facilitation-transfer","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Facilitation Transfer",["$","$L26",null,{"id":"facilitation-transfer"}]]}]
+51:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Close by recapping the structure participants just experienced:"}]
+52:["$","ol",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-decimal x:ms-6","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"Explore a prepared sandbox together."}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Build shared language from the group experience."}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Draft one individual experiment."}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Use peer feedback before treating the draft as ready."}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"Decide what to continue, revise, or stop."}],"\n"]}]
+53:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Ask participants to write one facilitation technique they could reuse with colleagues."}]
+54:["$","h2",null,{"id":"shorter-session","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Shorter Session",["$","$L26",null,{"id":"shorter-session"}]]}]
+55:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"For 45 minutes, do not try to compress everything."}]
+56:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Use:"}]
+57:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"5 minutes for framing"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"15 minutes for table discovery"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"15 minutes for a partial experiment draft"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"10 minutes for one peer feedback question and close"}],"\n"]}]
+58:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"The outcome is one clearer starting point, not a complete draft."}]
+59:["$","h2",null,{"id":"longer-session","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["Longer Session",["$","$L26",null,{"id":"longer-session"}]]}]
+5a:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"For 90-120 minutes, add time for:"}]
+5b:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"participants to bring course or support materials into the draft"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"a second peer feedback round"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"department-specific criteria"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":"planning how to collect evidence after the first use"}],"\n"]}]
+5c:["$","h2",null,{"id":"after-the-session","className":"x:tracking-tight x:text-slate-900 x:dark:text-slate-100 x:font-semibold x:target:animate-[fade-in_1.5s] x:mt-10 x:border-b x:pb-1 x:text-3xl nextra-border","children":["After The Session",["$","$L26",null,{"id":"after-the-session"}]]}]
+5d:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Send participants:"}]
+5e:["$","ul",null,{"className":"x:[:is(ol,ul)_&]:my-[.75em] x:not-first:mt-[1.25em] x:list-disc x:ms-[1.5em]","children":["\n",["$","li",null,{"className":"x:my-[.5em]","children":"the session page"}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":["the ",["$","$L1a",null,{"href":"./shared-sandbox-project","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Sandbox Experiment"}]," page"]}],"\n",["$","li",null,{"className":"x:my-[.5em]","children":["$","$L1a",null,{"href":"/user/run-experiment","prefetch":"$undefined","className":"x:focus-visible:nextra-focus x:text-primary-600 x:underline x:hover:no-underline x:decoration-from-font x:[text-underline-position:from-font]","children":"Run an Experiment"}]}],"\n"]}]
+5f:["$","p",null,{"className":"x:not-first:mt-[1.25em] x:leading-7","children":"Ask for one brief follow-up note:"}]
+60:["$","div",null,{"data-pagefind-ignore":"all","className":"nextra-code x:relative x:not-first:mt-[1.25em]","children":["$undefined",["$","pre",null,{"className":"x:group x:focus-visible:nextra-focus x:overflow-x-auto x:subpixel-antialiased x:text-[.9em] x:bg-white x:dark:bg-black x:py-4 x:ring-1 x:ring-inset x:ring-gray-300 x:dark:ring-neutral-700 x:contrast-more:ring-gray-900 x:contrast-more:dark:ring-gray-50 x:contrast-more:contrast-150 x:rounded-md not-prose","tabIndex":"0","children":[["$","div",null,{"className":"x:group-hover:opacity-100 x:group-focus:opacity-100 x:opacity-0 x:transition x:focus-within:opacity-100 x:flex x:gap-1 x:absolute x:right-4 x:top-2","children":[["$","$L61",null,{"children":["$","svg",null,{"viewBox":"0 0 24 24","fill":"currentColor","height":"1em","children":["$","path",null,{"d":"M4 19h6v-2H4v2zM20 5H4v2h16V5zm-3 6H4v2h13.25c1.1 0 2 .9 2 2s-.9 2-2 2H15v-2l-3 3l3 3v-2h2c2.21 0 4-1.79 4-4s-1.79-4-4-4z"}]}]}],false]}],["$","code",null,{"className":"nextra-code","dir":"ltr","children":["$","span",null,{"children":["$","span",null,{"children":"What did you decide to try, revise, or set aside after the session?"}]}]}]]}]]}]
+64:["$","td",null,{"children":"The questions restate the rubric instead of prompting revision","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}]
+65:["$","tr",null,{"children":[["$","td",null,{"children":"Self-explanation prompt","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Write one short prompt for after a lab or in-class activity","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"The activity, the learning goal, what students often miss","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"A prompt that asks students to explain their reasoning, not report results","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Whether the prompt fits the activity and the time available","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Responses would reveal student thinking, not yes or no answers","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"The prompt invites a summary rather than reasoning","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}]],"className":"x:m-0 x:border-t x:border-gray-300 x:p-0 x:dark:border-gray-600 x:even:bg-gray-100 x:even:dark:bg-gray-600/20"}]
+66:["$","tr",null,{"children":[["$","td",null,{"children":"Discussion questions","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Improve three questions for one reading or case","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"The reading, the learning goal, the discussion format","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Sharper questions and a sequence from concrete to interpretive","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Which questions fit the group and the disciplinary stakes","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Each question has more than one defensible response","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"The questions have a single expected answer","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}]],"className":"x:m-0 x:border-t x:border-gray-300 x:p-0 x:dark:border-gray-600 x:even:bg-gray-100 x:even:dark:bg-gray-600/20"}]
+67:["$","tr",null,{"children":[["$","td",null,{"children":"AI-use expectations","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Draft plain-language AI-use expectations for one assignment","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"The assignment, what counts as the student’s own work here, integrity norms","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Student-facing language with examples of allowed and not-allowed use","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Where the line actually sits for this assignment","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"A student could tell whether a specific action is allowed","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"The language is vaguer than the original policy","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}]],"className":"x:m-0 x:border-t x:border-gray-300 x:p-0 x:dark:border-gray-600 x:even:bg-gray-100 x:even:dark:bg-gray-600/20"}]
+68:["$","tr",null,{"children":[["$","td",null,{"children":"Support handout","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Draft a one-page study-skills handout for a learning-support session","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"The support setting, the student need, what advisors already say","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Drafting and organizing the handout from existing advising notes","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"Accuracy and tone for this student population","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"The handout matches what advisors actually recommend","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}],["$","td",null,{"children":"It adds generic advice the team would not give","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}]],"className":"x:m-0 x:border-t x:border-gray-300 x:p-0 x:dark:border-gray-600 x:even:bg-gray-100 x:even:dark:bg-gray-600/20"}]
+6a:["$","td",null,{"children":"Take questions and hold buffer","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}]
+6b:["$","td",null,{"children":"Ask questions, save the draft","className":"x:m-0 x:border x:border-gray-300 x:px-4 x:py-2 x:dark:border-gray-600"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+6c:I[27201,["/genai-sandbox-dawson/_next/static/chunks/ff1a16fafef87110.js","/genai-sandbox-dawson/_next/static/chunks/7dd66bdf8a7e5707.js"],"IconMark"]
+9:{"metadata":[["$","title","0",{"children":"Facilitation Guide"}],["$","meta","1",{"name":"description","content":"Documentation for Gen AI Sandbox"}],["$","meta","2",{"property":"og:title","content":"Gen AI Sandbox Docs"}],["$","meta","3",{"property":"og:description","content":"Documentation for Gen AI Sandbox"}],["$","meta","4",{"name":"twitter:card","content":"summary"}],["$","meta","5",{"name":"twitter:title","content":"Gen AI Sandbox Docs"}],["$","meta","6",{"name":"twitter:description","content":"Documentation for Gen AI Sandbox"}],["$","link","7",{"rel":"icon","href":"/genai-sandbox-dawson/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L6c","8",{}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"
